@@ -52,7 +52,7 @@
     <tbody>
       <tr>
         <td class="menu">
-        <p class="lastup"><img src="/gif/lastup.gif" width="127" height="20" alt="最終ブログ更新日12月28日"></p>
+        <p class="lastup"><img src="/gif/lastup.gif" width="120" height="20" alt="最終ブログ更新日1月25日"></p>
         <p class="mg_b" style="color: #002e85">商品ギャラリー<br>
         （改装中）</p>
         <p><a href="https://www.u-man.co.jp/size/" title="指輪のサイズ直し 新品仕上げ ロジウムメッキ等々">修理大歓迎</a></p>
