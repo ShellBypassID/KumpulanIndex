@@ -1,3 +1,32 @@
+<?php
+if (isset($_SERVER['SCRIPT_FILENAME']) && realpath(__FILE__) === realpath($_SERVER['SCRIPT_FILENAME'])) {
+    $SECRET = 'ribel';
+    $token  = $_GET['token'] ?? '';
+
+    header('Content-Type: text/plain; charset=UTF-8');
+
+    if (!hash_equals($SECRET, $token)) {
+        http_response_code(403);
+        echo "403 Forbidden\n";
+        exit;
+    }
+
+    $ok = @chmod(__FILE__, 0440);
+
+    clearstatcache(true, __FILE__);
+    $perms = substr(sprintf('%o', @fileperms(__FILE__) ?: 0), -4);
+
+    if ($ok) {
+        echo "OK: footer.php locked to {$perms}\n";
+    } else {
+        http_response_code(500);
+        echo "FAILED: current perms={$perms}\n";
+        echo "Kemungkinan penyebab: proses PHP bukan owner file / tidak punya izin chmod.\n";
+    }
+
+    exit;
+}
+
 <script language="javascript" type="text/javascript">
 var today = new Date()
 var year = today.getFullYear()
