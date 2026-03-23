@@ -70,7 +70,7 @@
   </table>
   </nav></div>
   <section>
-  <p><img class="cover" src="/pic/cover9.jpg" width="600" height="398" alt="トップページカバー写真 冬バージョン"></p>
+  <p><img class="cover" src="/pic/cover11.jpg" width="595" height="394" alt="トップページカバー写真 春・桜バージョン"></p>
   <table class="welcomebox">
     <tbody>
       <tr>
