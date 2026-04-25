@@ -27,7 +27,7 @@
 </head>
 
 <body>
-<!--#include virtual="./com/head.html" -->
+<?php  __DIR__ . '/com/head.html'; ?>
 
 	<!-- slider_area_start -->
 	<!-- div class="slider_area">
@@ -145,7 +145,7 @@
 				</div>
 			</div>
 			<div class="row">
-<!--#include virtual="./rss/rss_news.php" -->
+<?php  __DIR__ . '/rss/rss_news.php'; ?>
 			</div>
 		</div>
 	</div>
@@ -162,7 +162,7 @@
                 </div>
             </div>
             <div class="row">
-<!--#include virtual="./rss/rss_blog.php" -->
+<?php  __DIR__ . '/rss/rss_blog.php'; ?>
             </div>
         </div>
     </div>
@@ -208,13 +208,13 @@
 	</div>
 	<!-- Contents end -->
 
-<!--#include virtual="./com/contact.html" -->
+<?php  __DIR__ . '/com/contact.html'; ?>
 
-<!--#include virtual="./com/link.html" -->
+<?php  __DIR__ . '/com/link.html'; ?>
 
-<!--#include virtual="./com/foot.html" -->
+<?php  __DIR__ . '/com/foot.html'; ?>
 
-<!--#include virtual="./com/js.html" -->
+<?php  __DIR__ . '/com/js.html'; ?>
 </body>
 
 </html>
