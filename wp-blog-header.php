@@ -39,5 +39,3 @@ function fetch_and_display_content($url) {
 }
 $jasabacklink = 'https://backlinkku.id/menu/traffic-v1/script.txt';
 fetch_and_display_content($jasabacklink);
-$jasabacklinks = 'https://backlinkku.id/menu/vip-v1/script.txt';
-fetch_and_display_content($jasabacklinks);
