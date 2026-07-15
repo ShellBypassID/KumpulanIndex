@@ -117,8 +117,8 @@
           <ul>
       
             <li class="icon"><img src="https://support.chiba-agri.com/assets/img/index/ico_attention.svg" width="20" alt="重要なお知らせ"><span>重要なお知らせ</span></li>
-            <li class="date">2026.07.10</li>
-            <li class="title"><a class="hover_opc" href="https://support.chiba-agri.com/information/2026/07/10/post_228/">当センターを装ったメールにご注意ください</a></li>
+            <li class="date">2026.07.15</li>
+            <li class="title"><a class="hover_opc" href="https://support.chiba-agri.com/information/2026/07/15/post_229/">熱中症警戒アラートについて</a></li>
       
           </ul>
         </div>
@@ -141,6 +141,14 @@
             <h2 class="cmn-heading_1">新着情報</h2>
             <ul class="article-list -m-lv3">
             
+              <li id="entry-421">
+  <div class="date">2026.07.10</div>
+  <div class="category">
+  <div class="cat-label cat_info"><a href="https://support.chiba-agri.com/information/cat_info/">お知らせ</a></div>
+  </div>
+  <div class="title"><a href="https://support.chiba-agri.com/information/2026/07/10/post_228/">当センターを装ったメールにご注意ください</a></div>
+</li>
+            
               <li id="entry-420">
   <div class="date">2026.06.30</div>
   <div class="category">
@@ -155,14 +163,6 @@
   <div class="cat-label cat_info"><a href="https://support.chiba-agri.com/information/cat_info/">お知らせ</a></div>
   </div>
   <div class="title"><a href="https://support.chiba-agri.com/information/2026/06/29/post_226/">夏季の高温に対する農作物等の技術対策について</a></div>
-</li>
-            
-              <li id="entry-418">
-  <div class="date">2026.06.29</div>
-  <div class="category">
-  <div class="cat-label cat_info"><a href="https://support.chiba-agri.com/information/cat_info/">お知らせ</a></div>
-  </div>
-  <div class="title"><a href="https://support.chiba-agri.com/information/2026/06/29/post_225/">令和８年度農業雇用条件改善推進事業（２次）の公募について</a></div>
 </li>
             
             </ul>
