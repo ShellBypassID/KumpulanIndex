@@ -208,6 +208,17 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         
         <li>
         
+        <a href="/column/kotodama/k133.html">
+        
+          <span class="date">2026.07.15</span>
+          <span class="cate release">財団ニュース</span>
+          <p>コラム「こどものコトダマ」Vol.133 公開しました。</p>
+          </a>
+        
+        </li>
+        
+        <li>
+        
         <a href="/subsidy/">
         
           <span class="date">2026.07.01</span>
@@ -248,17 +259,6 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
           <p> 第56回「博報賞」博報賞受賞　特定非営利活動法人 心魂プロジェクトの活動紹介記事がGakken「実践みんなの特別支援教育」に掲載されました。</p>
           </a>
         <span class="pdf"><a href="/news/pdf/hakuhosho_report2026_cocorodama.pdf" target="_blank">PDF (735KB)</a></span>
-        </li>
-        
-        <li>
-        
-        <a href="https://www.asahi.com/sensei-connect/articles/16620123" target="_blank">
-        
-          <span class="date">2026.06.15</span>
-          <span class="cate award">博報賞</span>
-          <p>第56回「博報賞」博報賞受賞　大鹿村立大鹿中学校の活動紹介記事が公開されました。</p>
-          </a>
-        
         </li>
         
         </ul>
