@@ -208,6 +208,17 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         
         <li>
         
+        <a href="/subsidy/report/introduction/">
+        
+          <span class="date">2026.07.28</span>
+          <span class="cate subsidy">児童教育実践</span>
+          <p>児童教育実践についての研究助成「研究紹介ファイル」vol.14発行</p>
+          </a>
+        
+        </li>
+        
+        <li>
+        
         <a href="/column/kotodama/k133.html">
         
           <span class="date">2026.07.15</span>
@@ -248,17 +259,6 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
           <p>第22回 「児童教育実践についての研究助成」 Web 応募受付開始のお知らせ</p>
           </a>
         <span class="pdf"><a href="/news/pdf/pressrelease_rg20260619.pdf" target="_blank">PDF (202KB)</a></span>
-        </li>
-        
-        <li>
-        
-        <a href="javascript: void(0)" class="no-link">
-        
-          <span class="date">2026.06.16</span>
-          <span class="cate award">博報賞</span>
-          <p> 第56回「博報賞」博報賞受賞　特定非営利活動法人 心魂プロジェクトの活動紹介記事がGakken「実践みんなの特別支援教育」に掲載されました。</p>
-          </a>
-        <span class="pdf"><a href="/news/pdf/hakuhosho_report2026_cocorodama.pdf" target="_blank">PDF (735KB)</a></span>
         </li>
         
         </ul>
