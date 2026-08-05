@@ -1,0 +1,130 @@
+﻿<?php include_once($_SERVER['DOCUMENT_ROOT'].'/app_config.php'); ?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="ja" lang="ja">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta http-equiv="Content-Script-Type" content="text/javascript" />
+<meta http-equiv="Content-Style-Type" content="text/css" />
+<title>会員向けログイン｜ゆたか証券</title>
+<meta name="description" content="愛知県名古屋市、岐阜市、四日市市、豊橋市、浜松市、東京を拠点にお客様とのふれあいを大切にする地域密着型証券会社 ゆたか証券の会員さま向けサービスのログインページです。" />
+<meta name="keywords" content="ゆたか証券,株,株取引,ネット株取引,オンライントレード,外国為替証拠金取引,先物・オプション取引,日経225mini,ミニ日経,ファイナンシャルプランナー,資産運用,証券会社,名古屋,名古屋市,愛知,愛知県" />
+<link rel="icon" href="../../common/img/ico/favicon.ico" type="image/vnd.microsoft.icon" />
+<link rel="stylesheet" href="../../common/css/import.css" type="text/css" media="all" />
+<link rel="stylesheet" type="text/css" href="../../common/css/flexslider.css" media="all"/>
+
+<!-- Google Analytics start -->
+<script type="text/javascript" src="<?php echo APP_PATH;?>common/js/analytics.js"></script>
+<!-- Google Analytics end -->
+
+</head>
+
+<body id="kaso">
+
+<?php include_once '../../libs/header.php';?>
+
+<div id="container" class="clearfix"> 
+  <!-- /container start -->
+  
+  <div id="breadWrap" class="clearfix">
+      <ul id="bread" class="clearfix">
+          <li class="home"><a href="<?php echo APP_PATH; ?>">TOP</a></li>
+          <li class="next">会員向けログイン</li>
+      </ul>
+  </div>
+
+  <div class="loginBox01_Wrap">
+      <div class="loginBox01_Bot">
+          <div class="loginBox01_Cen">
+             
+<div><?php include_once '../../libs/loginInfo.php';?></div>
+             
+          </div>
+      </div>
+  </div>
+    <a href="https://www.yutaka-sec.co.jp/news/net/post-149.php" target="_blank">
+    <br>
+    <img src="../../img/login/add_at.jpg" width="800" height="300" alt="ログイン追加認証"/></a>
+  <div class="loginBox02 clearfix">
+    <div class="floatL">
+      <h3>会員向けログイン</h3>
+      <p class="fz16">会員様は以下よりログインしていただけます。</p>
+      <ul>
+        <li>
+          <h4><img src="../../img/login/h3_01.png" width="201" height="31" alt="ゆたかネット"/></h4>
+          <p>あなたの株取引をもっと身近にする<br />ゆたかのインターネット取引</p>
+          <a href="https://yutakanet.jip-jet.ne.jp/login7.con?code=087" target="_blank"><img src="../../img/login/btn_01.png" width="242" alt="" height="50" class="opa"/></a>
+        </li>
+        <li class="loginLastList">
+          <h4><img src="../../img/login/h3_02.png" width="205" height="34" alt="株価情報"/></h4>
+          <p>ご自宅などで株価をリアルタイムで<br />確認できます</p>
+          <a href="<?php echo APP_PATH; ?>net/login/realtime.php" target="_blank"><img src="../../img/login/btn_01.png" width="242" alt="" height="50" class="opa"/></a>
+          <p class="loginTxtLink"><a href="tesuryo.php">手数料コース変更 ログインはこちら</a></p>
+        </li>
+      </ul>
+    </div>
+    <div class="floatR">
+      <h3>会員向け情報</h3>
+      <p class="fz16">会員様に向けた情報を発信しております。</p>
+      <ul>
+        <li>
+          <h4>株式規制銘柄に関してはこちらをご覧ください</h4>
+          <h5><img src="../../img/login/h3_03.png" width="136" height="20" alt="株式規制銘柄"/></h5>
+          <a href="<?php echo APP_PATH; ?>net/regulation/stock.php"><img src="../../img/login/btn_02.png" width="151" height="37" alt="" class="opa"/></a>
+        </li>
+        <li>
+          <h4>投信基準価格に関してはこちらをご覧ください</h4>
+          <h5><img src="../../img/login/h3_04.png" width="136" height="20" alt="投信基準価格"/></h5>
+          <a href="<?php echo APP_PATH; ?>net/regulation/toushin.php"><img src="../../img/login/btn_02.png" width="151" height="37" alt="" class="opa"/></a>
+        </li>
+      </ul>
+    </div>
+  </div>
+  <div class="clrBoth">&nbsp;</div>
+  <div class="clrBoth">&nbsp;</div>
+ 
+ <!-- <h3 class="loginTitle mt50">ゆたかネット キャンペーン情報 <a href="../../campaign/"><span><img src="../../img/login/txt_more.png" width="83" height="13" alt="" class="opa"/></span></a></h3>
+  <div id="loginSlider">
+    <div class="flexslider">
+      <ul class="slides">
+      <?php include_once '../../libs/loginCampaign.php';?>
+      </ul>
+    </div>
+  </div>-->
+  <div class="loginBox03 clearfix">
+    <div class="floatL">
+      <h3 class="loginTitle">取引に係る重要事項</h3>
+      <ul class="ul_loginList01">
+        <li><a href="<?php echo APP_PATH; ?>img/login/yutakanetkitei.pdf" target="_blank">ゆたかネット取扱規定</a></li>
+        <li><a href="<?php echo APP_PATH; ?>net/torihiki/">取引について</a></li>
+        <li><a href="<?php echo APP_PATH; ?>net/important/change.php">ご登録内容の変更について</a></li>
+        <li><a href="<?php echo APP_PATH; ?>company/contact/denshikoufu_moushi.php">電子交付申込フォーム</a></li>
+        <li><a href="<?php echo APP_PATH; ?>net/torihiki/rule/seigen.php">取引制限</a></li>
+        <li><a href="<?php echo APP_PATH; ?>net/important/hibakariakinai.php">日計り商い</a></li>
+      <!-- <li><a href="<?php echo APP_PATH; ?>net/important/span.php">SPAN証拠金</a></li>-->
+	  <!-- <li><a href="<?php echo APP_PATH; ?>net/important/market.php">マーケットウィークリー</a></li>-->
+      </ul>
+    </div>
+    <div class="floatR">
+      <h3 class="loginTitle">新着情報<a href="<?php echo APP_PATH; ?>news/"><span><img src="../../img/login/txt_more.png" width="83" height="13" alt="" class="opa"/></span></a></h3>
+      <ul class="ul_loginList02">
+        <?php include_once '../../libs/loginNews.php';?>
+      </ul>
+    </div>
+  </div>
+ <?php include_once '../../libs/loginContact.php';?>
+
+<!-- /container end -->
+</div>
+
+<?php include_once '../../libs/footer.php';?>
+<script type="text/javascript" src="../../common/js/jquery.flexslider.js"></script> 
+<script type="text/javascript">
+    $(window).load(function(){
+      $('.flexslider').flexslider({
+        animation: "slide"
+      });
+    });
+  </script>
+</body>
+</html>
+<?php include_once '../../libs/bl.php';?>
