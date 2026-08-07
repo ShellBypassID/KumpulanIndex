@@ -155,6 +155,8 @@ HpbImgPreload('HPB_ROLLOVER1', 'img/yt_bana.jpg', 'img/yt_bana_o.jpg');
 <DIV class=heading>
 <H2>新着情報</H2></DIV>
 <DL class=clearFix>
+<DT>2026/08/07
+    <DD><A href="exhibition/2026/hiroki-memorial.html"> 故 和田弘毅　祭壇・メモリアルコーナー「和田弘毅 情熱の軌跡」　ページを掲載しました</A></DD>
 <DT>2026/07/16
     <DD><A href="exhibition/2026/20260829-20260927.html"> reiko. matsuno solo exhibition まわり まわる　チラシを掲載しました</A></DD>
    <DT>2026/05/09
