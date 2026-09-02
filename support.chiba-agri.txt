@@ -111,20 +111,6 @@
     </header>
     <main>
       
-      
-      <div id="important">
-        <div class="inner">
-          <ul>
-      
-            <li class="icon"><img src="https://support.chiba-agri.com/assets/img/index/ico_attention.svg" width="20" alt="重要なお知らせ"><span>重要なお知らせ</span></li>
-            <li class="date">2026.07.17</li>
-            <li class="title"><a class="hover_opc" href="https://support.chiba-agri.com/information/2026/07/17/post_230/">農作業中の熱中症対策について</a></li>
-      
-          </ul>
-        </div>
-      </div>
-      
-      
       <div id="main-visual">
         <ul class="carousel">
           <li><img class="forPC" src="https://support.chiba-agri.com/assets/img/index/main-visual_03.jpg" alt=""><img class="forSP" src="https://support.chiba-agri.com/assets/img/index/main-visual_03_sp.jpg" alt="">
@@ -141,28 +127,28 @@
             <h2 class="cmn-heading_1">新着情報</h2>
             <ul class="article-list -m-lv3">
             
+              <li id="entry-431">
+  <div class="date">2026.09.01</div>
+  <div class="category">
+  <div class="cat-label cat_info"><a href="https://support.chiba-agri.com/information/cat_info/">お知らせ</a></div>
+  </div>
+  <div class="title"><a href="https://support.chiba-agri.com/information/2026/09/01/_2026/">千葉県九十九里地域 うみさとライフ移住交流会2026の開催について</a></div>
+</li>
+            
+              <li id="entry-429">
+  <div class="date">2026.08.28</div>
+  <div class="category">
+  <div class="cat-label cat_info"><a href="https://support.chiba-agri.com/information/cat_info/">お知らせ</a></div>
+  </div>
+  <div class="title"><a href="https://support.chiba-agri.com/information/2026/08/28/post_235/">令和８年８月千葉豪雨に伴う農林水産業の被害状況及び対応について</a></div>
+</li>
+            
               <li id="entry-428">
   <div class="date">2026.08.07</div>
   <div class="category">
   <div class="cat-label cat_info"><a href="https://support.chiba-agri.com/information/cat_info/">お知らせ</a></div>
   </div>
   <div class="title"><a href="https://support.chiba-agri.com/information/2026/08/07/post_234/">【アドバンス追加募集中！】令和８年度  ちばアグリトップランナー経営塾</a></div>
-</li>
-            
-              <li id="entry-427">
-  <div class="date">2026.08.03</div>
-  <div class="category">
-  <div class="cat-label cat_event"><a href="https://support.chiba-agri.com/information/cat_event/">イベント</a></div>
-  </div>
-  <div class="title"><a href="https://support.chiba-agri.com/information/2026/08/03/post_233/">「いちはら梨」新規就農者研修の募集について</a></div>
-</li>
-            
-              <li id="entry-426">
-  <div class="date">2026.07.29</div>
-  <div class="category">
-  <div class="cat-label cat_event"><a href="https://support.chiba-agri.com/information/cat_event/">イベント</a></div>
-  </div>
-  <div class="title"><a href="https://support.chiba-agri.com/information/2026/07/29/8_1/">令和8年度ちばアグリトップランナー経営塾が開講しました！</a></div>
 </li>
             
             </ul>
